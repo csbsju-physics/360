@@ -1,0 +1,13 @@
+{Entity["Person", "DonaldTrump::6vv3q"], 
+ Entity["Person", "HarrySTruman::nrj83"], 
+ Entity["Person", "GeorgeWashington::7v7hm"], 
+ Entity["Person", "JohnAdams::66gr7"], Entity["Person", 
+  "ThomasJefferson::3w259"], Entity["Person", "WoodrowWilson::4jw93"], 
+ Entity["Person", "CalvinCoolidge::5853g"], 
+ Entity["Person", "LyndonBJohnson::ht257"], 
+ Entity["Person", "EverettDirksen::pyz4t"], 
+ Entity["Person", "MicheleBachmann::45n33"], 
+ Entity["Person", "MarcoRubio::2c243"], 
+ Entity["Person", "RonaldReagan::gn3nt"], 
+ Entity["Person", "BillClinton::9s27h"], 
+ Entity["Person", "RichardMNixon::39q5n"]}

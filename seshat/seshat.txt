@@ -1,0 +1,271 @@
+> str(D)
+'data.frame':	28175 obs. of  13 variables:
+ $ NGA       : Factor w/ 30 levels "Big Island Hawaii",..: 10 10 10 10 10 10 10 10 10 10 ...
+ $ Polity    : Factor w/ 398 levels "AfDurrn","AfGhazn",..: 108 108 108 108 108 108 108 108 108 108 ...
+ $ Section   : Factor w/ 1 level "Social Complexity variables": 1 1 1 1 1 1 1 1 1 1 ...
+ $ Subsection: Factor w/ 11 levels "","Bureaucracy characteristics",..: 1 1 4 4 4 4 8 8 8 8 ...
+ $ Variable  : Factor w/ 95 levels "Administrative levels",..: 72 16 79 1 73 44 52 69 71 70 ...
+ $ Value.From: Factor w/ 606 levels "0","1","10","100",..: 543 536 239 294 239 353 513 513 513 553 ...
+ $ Value.To  : num  NA NA NA NA NA NA NA NA NA NA ...
+ $ Date.From : Factor w/ 289 levels "","1000BCE","1000CE",..: 1 1 1 1 1 1 1 1 1 1 ...
+ $ Date.To   : Factor w/ 185 levels "","1000BCE","1000CE",..: 1 1 1 1 1 1 1 1 1 1 ...
+ $ Fact.Type : Factor w/ 2 levels "complex","simple": 2 2 2 2 2 2 2 2 2 2 ...
+ $ Value.Note: Factor w/ 5 levels "disputed","list",..: 4 4 4 4 4 4 4 4 4 4 ...
+ $ Date.Note : Factor w/ 3 levels "","range","simple": 1 1 1 1 1 1 1 1 1 1 ...
+ $ Comment   : Factor w/ 2 levels "","The fact is uncertain": 1 1 1 1 1 1 1 1 1 1 ...
+ 
+ $ Value.Note...eg range, lists seems to have variable meaning
+ $ Date.Note...e.g. range
+
+ > levels(D$Subsection)
+ [1] ""                                    "Bureaucracy characteristics"        
+ [3] "Bureaucracy Characteristics"         "Hierarchical Complexity"            
+ [5] "Information"                         "Law"                                
+ [7] "Other"                               "Professions"                        
+ [9] "Social Scale"                        "Specialized Buildings: polity owned"
+[11] "Specialized Buildings: Polity Owned"
+
+ table(D$Subsection)
+
+                                            Bureaucracy characteristics 
+                                675                                1907 
+        Bureaucracy Characteristics             Hierarchical Complexity 
+                                  5                                1602 
+                        Information                                 Law 
+                               7976                                1491 
+                              Other                         Professions 
+                               3977                                1329 
+                       Social Scale Specialized Buildings: polity owned 
+                               1618                                7575 
+Specialized Buildings: Polity Owned 
+                                 20 
+
+                                 
+ table(D$Variable)
+
+                 Administrative levels                                   Area 
+                                   424                                    340 
+                              Articles                                Bridges 
+                                   383                                    349 
+                           Burial site                               Calendar 
+                                   356                                    418 
+                                Canals                        Ceremonial site 
+                                   344                                    360 
+                    Communal buildings                                   cost 
+                                   407                                     25 
+                              Couriers                                 Courts 
+                                   374                                    372 
+            Debt and credit structures          drinking water supply systems 
+                                   340                                    299 
+         Drinking water supply systems                                 Editor 
+                                    11                                     37 
+                            Enclosures                Entertainment buildings 
+                                   315                                    336 
+                    Examination system                                 Expert 
+                                   376                                     50 
+                                extent       Fastest individual communication 
+                                   125                                    104 
+                               Fiction                     food storage sites 
+                                   382                                    369 
+                    Food storage sites                          Foreign coins 
+                                    17                                    356 
+                     Formal legal code                  Full-time bureaucrats 
+                                   414                                    424 
+                General postal service                            Geometrical 
+                                   354                                    298 
+                                height                                History 
+                                   114                                    394 
+                      Indigenous coins                     irrigation systems 
+                                   435                                    409 
+                    Irrigation systems                                 Judges 
+                                     4                                    379 
+       Knowledge/information buildings         Largest communication distance 
+                                   410                                    227 
+                                Length       Lists tables and classifications 
+                                   356                                    415 
+                               markets                                Markets 
+                                   359                                     11 
+                       Merit promotion                        Military levels 
+                                   342                                    379 
+                     Mines or quarries                       Mnemonic devices 
+                                   360                                    214 
+                   Non written records                  Non-phonetic  writing 
+                                     2                                      7 
+       Non-phonetic alphabetic writing                   Non-phonetic writing 
+                                   109                                    277 
+                    Nonwritten records                Occupational complexity 
+                                   363                                     58 
+                                 Other                             Other site 
+                                    59                                    100 
+                        Paper currency                             Philosophy 
+                                   406                                    372 
+                          Philosophy_1            Phonetic alphabetic writing 
+                                     3                                    400 
+                     Polity Population                       Polity territory 
+                                   462                                    471 
+  Population of the largest settlement Population of the largest settlement_1 
+                                   457                                      1 
+                                 Ports                        Postal stations 
+                                   356                                    326 
+                  Practical literature                        Precious metals 
+                                   410                                    333 
+                  Professional lawyers                   Professional Lawyers 
+                                     2                                    324 
+        Professional military officers                Professional priesthood 
+                                   419                                    409 
+                 Professional soldiers                                     RA 
+                                   443                                    588 
+                      Religious levels                   Religious literature 
+                                   373                                    421 
+                                 Roads                           Sacred Texts 
+                                   405                                    400 
+                 Scientific literature                                 Script 
+                                   378                                    432 
+                  Settlement hierarchy                      Source of support 
+                                   426                                    373 
+                 Special purpose house                  Special purpose sites 
+                                   335                                    351 
+      Specialized government buildings                        Store of wealth 
+                                   397                                    339 
+                     Symbolic building                     Symbolic buildings 
+                                   132                                    294 
+                                  Time                                 Time_1 
+                                   364                                      1 
+                                Tokens                        Trading emporia 
+                                   227                                    251 
+          Utilitarian public buildings                                 Volume 
+                                   391                                    350 
+                                Weight                        Written records 
+                                   361                                    449 
+                     Written records_1 
+                                     1 
+
+table(droplevels(D$Value.From[D$Variable=="Administrative levels"]))
+
+> table(droplevels(D$Value.From[D$Variable=="Administrative levels"]))
+
+        0         1 1857-1864 1864-1893         2         3         4         5 
+        2        43         1         1        38        69        84        91 
+        6         7         8         9 
+       45        24        20         6 
+
+
+D[D$Variable=="Administrative levels" & D$Value.From==8,]
+D[D$Variable=="Administrative levels" & D$Value.From=="1857-1864",] #bad values
+
+> table(droplevels(D$Value.From[D$Variable=="Calendar"]))
+
+                     absent             inferred absent 
+                         92                          27 
+inferred absent 900-1079 CE            inferred present 
+                          1                          89 
+                    present        present 1080-1300 CE 
+                        203                           1 
+          suspected unknown                     unknown 
+                          1                           4 
+
+> table(droplevels(D$Value.From[D$Variable=="Religious levels"]))
+
+                0                 1                10                 2 
+                7               122                 1                75 
+                3                 4                 5                 6 
+               73                37                25                21 
+                7                 8 suspected unknown 
+                9                 1                 2 
+> table(droplevels(D$Value.From[D$Variable=="Communal buildings"]))
+
+          absent  inferred absent inferred present          present 
+              23                3               60              318 
+         unknown 
+               3 
+> table(droplevels(D$Value.From[D$Variable=="Examination system"]))
+
+           absent   inferred absent  inferred present           present 
+              159               151                12                48 
+suspected unknown           unknown 
+                1                 5 
+> table(droplevels(D$Value.From[D$Variable=="Full-time bureaucrats"]))
+
+          absent  inferred absent inferred present          present 
+              82               47               53              237 
+         unknown 
+               5 
+table(droplevels(D$Value.From[D$Variable=="History"]))
+
+                        absent             absent 900-1099 CE 
+                           108                              1 
+               inferred absent               inferred present 
+                            36                             55 
+                       present              suspected unknown 
+                           184                              1 
+suspected unknown 1100-1300 CE                        unknown 
+                             1                              8 
+> table(droplevels(D$Value.From[D$Variable=="Indigenous coins"]))
+
+          absent  inferred absent inferred present          present 
+             159               66               22              183 
+         Present 
+               5 
+> table(droplevels(D$Value.From[D$Variable=="irrigation systems"]))
+
+           absent   inferred absent  inferred present           present 
+               63                37                87               216 
+suspected unknown 
+                6 
+> table(droplevels(D$Value.From[D$Variable=="Judges"]))
+
+           absent   inferred absent  inferred present           present 
+               82                82                42               163 
+suspected unknown           unknown 
+                1                 9 
+
+> table(droplevels(D$Value.From[D$Variable=="markets"]))
+
+          absent  inferred absent inferred present          present 
+              36               51               95              175 
+         unknown 
+               2 
+> table(droplevels(D$Value.From[D$Variable=="Knowledge/information buildings"]))
+
+          absent  inferred absent inferred present          present 
+              71               54               90              188 
+        present]          unknown 
+               1                6 
+> table(droplevels(D$Value.From[D$Variable=="Military levels"]))
+
+ 0  1 10 12 13  2  3  4  5  6  7  8  9 
+ 3 32  6  2  1 39 65 56 63 59 29  8 16 
+> table(droplevels(D$Value.From[D$Variable=="Sacred Texts"]))
+
+                     absent             inferred absent 
+                        114                          33 
+inferred absent 900-1079 CE            inferred present 
+                          1                          57 
+                    present        present 1080-1300 CE 
+                        189                           1 
+          suspected unknown                     unknown 
+                          1                           4 
+> table(droplevels(D$Value.From[D$Variable=="Religious literature"]))
+
+                     absent             inferred absent 
+                        104                          31 
+inferred absent 900-1079 CE            inferred present 
+                          1                          62 
+                    present        present 1080-1300 CE 
+                        217                           1 
+          suspected unknown                     unknown 
+                          1                           4 
+> table(droplevels(D$Value.From[D$Variable=="Script"]))
+
+          absent  inferred absent inferred present          present 
+              91               24               25              292 
+> table(droplevels(D$Value.From[D$Variable=="Specialized government buildings"]))
+
+           absent   inferred absent  inferred present           present 
+               63                38                76               209 
+suspected unknown           unknown 
+                1                10 
+
+
+table(droplevels(D$Subsection[D$Variable=="Military levels"]))
+

@@ -1,0 +1,373 @@
+Entity["Person", "CalvinCoolidge::5853g"]	DateObject[{1933, 1, 5}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MarkSanford::xrs8n"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "CharlesDeGaulle::76d73"]	DateObject[{1970, 11, 9}, "Day", "Gregorian", -5.]	{Entity["Country", "France"]}
+Entity["Person", "ShayMinton::wm2r8"]	DateObject[{1965, 4, 9}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SaebErekat::5q2zs"]	Missing["Alive"]	{Entity["Country", "WestBank"]}
+Entity["Person", "MohammadKhatami::7qq5g"]	Missing["Alive"]	{Entity["Country", "Iran"]}
+Entity["Person", "MichaelEnzi::q5dxc"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MartinOMalley::t3jr8"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ChristineLagarde::k92xm"]	Missing["Alive"]	{Entity["Country", "France"]}
+Entity["Person", "CarolMoseleyBraun::5z243"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AnghelNour::9tt4t"]	Missing["NotAvailable"]	{Entity["Country", "Moldova"]}
+Entity["Person", "YuliaTymoshenko::vd5rk"]	Missing["Alive"]	{Entity["Country", "Ukraine"]}
+Entity["Person", "YahyaJammeh::w9v75"]	Missing["Alive"]	{Entity["Country", "Gambia"]}
+Entity["Person", "WayneAllard::t273s"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "TrentLott::zbz68"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ShirleyChisholm::cn43c"]	DateObject[{2005, 1, 1}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SandyLevin::8w5wx"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SamNunn::rf5j3"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RobertBennett::zb94c"]	DateObject[{2016, 5, 4}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "NikitaKhrushchev::5585m"]	DateObject[{1971, 9, 11}, "Day", "Gregorian", -5.]	{Entity["Country", "Russia"]}
+Entity["Person", "MohammadFarid::394cm"]	DateObject[{1919, 11, 15}, "Day", "Gregorian", -5.]	{Entity["Country", "Egypt"]}
+Entity["Person", "LucilleRoybal-Allard::97f4f"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "LaurentGbagbo::g28br"]	Missing["Alive"]	{Entity["Country", "IvoryCoast"]}
+Entity["Person", "GeorgeMason::99tt7"]	DateObject[{1792, 10, 7}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ElijahCummings::2qnp8"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DonnaEdwards::7xqcd"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BillMcCollum::cd5dx"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BillCurry::8253d"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BenNelson::3z4y9"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AllanPilkey::294gq"]	Missing["Alive"]	{Entity["Country", "Canada"]}
+Entity["Person", "AlassaneOuattara::hfh47"]	Missing["Alive"]	{Entity["Country", "IvoryCoast"]}
+Entity["Person", "YvetteClarke::5735x"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ViktorYushchenko::t3hkf"]	Missing["Alive"]	{Entity["Country", "Ukraine"]}
+Entity["Person", "TomGarrett::4393b"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ThomasDeMaiziere::chyd5"]	Missing["Alive"]	{Entity["Country", "Germany"]}
+Entity["Person", "Suharto::8m582"]	DateObject[{2008, 1, 27}, "Day", "Gregorian", -5.]	{Entity["Country", "Indonesia"]}
+Entity["Person", "SamErvin::wj5nr"]	DateObject[{1985, 4, 23}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RogerWicker::672t7"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RickyRossello::5f772"]	Missing["Alive"]	{Entity["Country", "PuertoRico"]}
+Entity["Person", "RayNagin::39y44"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RandyCredico::v47sq"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "PrinceGong::tcx2k"]	DateObject[{1898, 5, 29}, "Day", "Gregorian", -5.]	{Entity["Country", "China"]}
+Entity["Person", "PeteStark::3z3s7"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "PeteButtigieg::3393d"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "PabloIglesiasTurrion::ds446"]	Missing["NotAvailable"]	{Entity["Country", "Spain"]}
+Entity["Person", "OliverPerryMorton::82g28"]	DateObject[{1877, 11, 1}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MoonJaeIn::46vqt"]	Missing["Alive"]	{Entity["Country", "SouthKorea"]}
+Entity["Person", "MikeThompson::g96f2"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MichaelMartin::33hs8"]	DateObject[{2018, 4, 29}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedKingdom"]}
+Entity["Person", "MatthewWhitaker::btvr8"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MattGaetz::577t2"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MarciaFudge::t3zq8"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ManuelZelaya::zt54z"]	Missing["Alive"]	{Entity["Country", "Honduras"]}
+Entity["Person", "LindaSanchez::r9bbn"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "LelandYee::w76sb"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "LeifErickson::3ygcb"]	DateObject[{1998, 12, 22}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KevinBrady::z49kc"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JosephPitts::vgw88"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JohnMica::nz347"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JohnALogan::72f78"]	DateObject[{1886, 12, 26}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JoeMoore::6y392"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JimLewis::2scgv"]	DateObject[{1997, 2, 22}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JimKolbe::4f34k"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JimBolger::5k468"]	Missing["Alive"]	{Entity["Country", "NewZealand"]}
+Entity["Person", "JerryMoran::64ydm"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JeanYvesLeDrian::x23b7"]	Missing["NotAvailable"]	{Entity["Country", "France"]}
+Entity["Person", "JCWatts::p5h83"]	Missing["Alive"]	{Entity["Country", "UnitedStates"], Entity["Country", "RepublicCongo"]}
+Entity["Person", "JaredPolis::kjvg2"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JaneHarman::5cwfd"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ImranKhan::m7552"]	Missing["Alive"]	{Entity["Country", "Pakistan"]}
+Entity["Person", "HRMcMaster::t43yn"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "HenryCabotLodge::9z82g"]	DateObject[{1924, 11, 9}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "GerhardSchroder::6j25j"]	Missing["Alive"]	{Entity["Country", "Germany"]}
+Entity["Person", "GeorgeOsborne::w45ss"]	Missing["Alive"]	{Entity["Country", "UnitedKingdom"]}
+Entity["Person", "GaryPalmer::h3453"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "GamalMubarak::853f7"]	Missing["NotAvailable"]	{Entity["Country", "Egypt"]}
+Entity["Person", "FrankWalterSteinmeier::32k79"]	Missing["Alive"]	{Entity["Country", "Germany"]}
+Entity["Person", "EverettDirksen::pyz4t"]	DateObject[{1969, 9, 7}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "EdwardBrooke::456py"]	DateObject[{2015, 1, 3}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DianaDeGette::tdy67"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DavidJKramer::44f33"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "DanaRohrabacher::5w8v3"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ChuckFleischmann::578q2"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ChristopherCoons::6rf88"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ChrisSununu::5695r"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "CheriBustos::95c73"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "CarlosCurbelo::759f5"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BruceRauner::yxn4z"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BobWalkup::5wpvy"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BillRitter::zv747"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BillHuizenga::dcb33"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AmiBera::br7cc"]	Missing["NotAvailable"]	{Entity["Country", "India"], Entity["Country", "UnitedStates"]}
+Entity["Person", "AlistairDarling::r3d54"]	Missing["Alive"]	{Entity["Country", "UnitedKingdom"]}
+Entity["Person", "AdrianoEspaillat::wzg8r"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AdrianFenty::4zdgq"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AbdulQadir::3whjp"]	DateObject[{2002, 7, 6}, "Day", "Gregorian", -5.]	{Entity["Country", "Afghanistan"]}
+Entity["Person", "AbdullahAbdullah::5bp9c"]	Missing["Alive"]	{Entity["Country", "Afghanistan"]}
+Entity["Person", "AbdoulayeWade::y5t5z"]	Missing["Alive"]	{Entity["Country", "Senegal"]}
+Entity["Person", "AbdelFattahElSisi::v49q3"]	Missing["Alive"]	{Entity["Country", "Egypt"]}
+Entity["Person", "AaronSchock::284hx"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ZulfikarAliBhutto::vw5p7"]	DateObject[{1979, 4, 4}, "Day", "Gregorian", -5.]	{Entity["Country", "Pakistan"]}
+Entity["Person", "ZevYaroslavsky::y4svz"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "YurikoKoike::gjbc3"]	Missing["NotAvailable"]	{Entity["Country", "Japan"]}
+Entity["Person", "YossiBeilin::f47pv"]	Missing["Alive"]	{Entity["Country", "Israel"]}
+Entity["Person", "YangShen::2q34m"]	DateObject[{1559}, "Year", "Gregorian", -5.]	{Missing["NotAvailable"]}
+Entity["Person", "WilliamWinter::762x4"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "WarrenStewart::89j9m"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "WarrenDavidson::2vnsm"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "VivianeReding::3yh96"]	Missing["Alive"]	{Entity["Country", "Luxembourg"]}
+Entity["Person", "ViktorChernomyrdin::7js79"]	DateObject[{2010, 11, 3}, "Day", "Gregorian", -5.]	{Entity["Country", "Russia"]}
+Entity["Person", "VictorGAtiyeh::4jfck"]	DateObject[{2014, 7, 20}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "VicenteFox::y9936"]	Missing["Alive"]	{Entity["Country", "Mexico"]}
+Entity["Person", "UmaruYarAdua::72bz9"]	DateObject[{2010, 5, 5}, "Day", "Gregorian", -5.]	{Entity["Country", "Nigeria"]}
+Entity["Person", "TonySalazar::8766m"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "TomWeisner::863x9"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "TomReed::hg9h8"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "TomPerriello::wsss6"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "TomMcClintock::bs7w7"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "TomMann::362r2"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "ToddTiahrt::3pt4f"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ToddRokita::99t79"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "TimothyHealy::p6882"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ThomRTillis::xfz9d"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "ThomasSuozzi::y6yxp"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ThomasCSawyer::g33cx"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "TerriSewell::n958r"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "TerrenceMurphy::5nv4m"]	DateObject[{2008, 7, 12}, "Day", "Gregorian", -5.]	{Entity["Country", "Canada"]}
+Entity["Person", "TehminaDurrani::7d8n7"]	Missing["Alive"]	{Entity["Country", "Pakistan"]}
+Entity["Person", "TaurMatanRuak::c4xm8"]	Missing["Alive"]	{Entity["Country", "EastTimor"]}
+Entity["Person", "SuzanneMubarak::535bs"]	Missing["NotAvailable"]	{Entity["Country", "Egypt"]}
+Entity["Person", "SuzanDelBene::m95m7"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SusanMolinari::v8c2f"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SusanBrooks::z939z"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "SultanAhmed::384zx"]	DateObject[{2017, 9, 4}, "Day", "Gregorian", -5.]	{Entity["Country", "India"]}
+Entity["Person", "StewartUdall::69f8c"]	DateObject[{2010, 3, 20}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SteveWNichols::34j85"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "SteveStockman::8953q"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SteveSoutherland::j2942"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SteveChabot::9zs64"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "StefanLofven::383pd"]	Missing["Alive"]	{Entity["Country", "Sweden"]}
+Entity["Person", "SpencerJarnagin::9573y"]	DateObject[{1853, 6, 25}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SpencerBachus::c972t"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SpencerAbraham::w4cmd"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SivertTodal::p5nrp"]	DateObject[{1988, 9, 30}, "Day", "Gregorian", -5.]	{Entity["Country", "Norway"]}
+Entity["Person", "SigmarGabriel::m9n49"]	Missing["Alive"]	{Entity["Country", "Germany"]}
+Entity["Person", "ShirleyDavis::p995s"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "SheilaDixon::zq3b7"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ShahidMalik::959vt"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "SeanMurphy::tm888"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ScottNeuman::5djby"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "ScottMorrison::8qm24"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ScottCTate::mb925"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "ScottBradley::s26sx"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SarathFonseka::6r725"]	Missing["NotAvailable"]	{Entity["Country", "SriLanka"]}
+Entity["Person", "SamuelWalker::25w5f"]	DateObject[{1893, 2, 6}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "SalvaKiirMayardit::4pqpz"]	Missing["NotAvailable"]	{Entity["Country", "SouthSudan"]}
+Entity["Person", "RoyRomer::ftd5f"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RoyCooper::472n3"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RonRamsey::bg6rn"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RonLewis::9h2x8"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RogerMarshall::n668w"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RodneyDavis::274p3"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "RickMetsger::766m6"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RickMartin::656b4"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "RichardRTisei::ngr2b"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RichardNugent::x5j3y"]	DateObject[{1987, 5, 27}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RichardGottfried::hp8cx"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RichardBedfordBennett::dr283"]	DateObject[{1947, 6, 26}, "Day", "Gregorian", -5.]	{Entity["Country", "Canada"]}
+Entity["Person", "ReneeEllmers::kcr6r"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RaymondGiangrasso::5898j"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "RachidaDati::8p7z3"]	Missing["Alive"]	{Entity["Country", "France"]}
+Entity["Person", "PieterSjoerdsGerbrandy::y8328"]	DateObject[{1961, 9, 7}, "Day", "Gregorian", -5.]	{Entity["Country", "Netherlands"]}
+Entity["Person", "PierreTrudeau::zhb4z"]	DateObject[{2000, 9, 28}, "Day", "Gregorian", -5.]	{Entity["Country", "Canada"]}
+Entity["Person", "PierLuigiBersani::qss89"]	Missing["Alive"]	{Entity["Country", "Italy"]}
+Entity["Person", "PeteSessions::7h2g5"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "PeterOchiengOdoyo::hfgy3"]	Missing["Alive"]	{Entity["Country", "Kenya"]}
+Entity["Person", "PaulKanjorski::knpm4"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "PaulDonnelly::dy86z"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "PaulBroun::3b3cr"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ParkGeun-hye::h2rd7"]	Missing["Alive"]	{Entity["Country", "SouthKorea"]}
+Entity["Person", "OngKaChuan::mrr74"]	Missing["Alive"]	{Entity["Country", "Malaysia"]}
+Entity["Person", "OmarNLopez::9f7n5"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "OlusegunObasanjo::nx8w2"]	Missing["Alive"]	{Entity["Country", "Nigeria"]}
+Entity["Person", "OlafurRagnarGrimsson::m787n"]	Missing["Alive"]	{Entity["Country", "Iceland"]}
+Entity["Person", "NestorKirchner::hwfd6"]	DateObject[{2010, 10, 27}, "Day", "Gregorian", -5.]	{Entity["Country", "Argentina"]}
+Entity["Person", "NathanDeal::3cb22"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "NancyKeenan::yfvt5"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "NancyJohnson::49w34"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "NanaAkufoAddo::74j38"]	Missing["Alive"]	{Entity["Country", "Ghana"]}
+Entity["Person", "MobutuSeseSeko::8g883"]	DateObject[{1997, 9, 7}, "Day", "Gregorian", -5.]	{Entity["Country", "DemocraticRepublicCongo"]}
+Entity["Person", "MoBrooks::t27r9"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "Mir-HosseinMousavi::9323x"]	Missing["Alive"]	{Entity["Country", "Iran"]}
+Entity["Person", "MikeSullivan::vk7p6"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MikeMosher::y7wk4"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "MikeBost::kx7fq"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MichelDjotodia::9r824"]	Missing["Alive"]	{Entity["Country", "CentralAfricanRepublic"]}
+Entity["Person", "MichaelSWolf::9b447"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "MichaelSkelly::24z85"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MichaelPShannon::2z35c"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "MichaelMickMcGuire::654y6"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "MichaelMcNulty::q9kyv"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MichaelJMoncrief::j6y92"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MichaelJMcHale::3636w"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "MichaelHaines::8bbpp"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MichaelDWhite::2t227"]	DateObject[{1917, 2, 6}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MichaelDanaRubin::p7cyg"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "MichaelBurgess::3z2x5"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MichaelABilandic::qn62w"]	DateObject[{2002, 1, 15}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MelissaBean::vcw9j"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MehdiKarroubi::gjfj3"]	Missing["Alive"]	{Entity["Country", "Iran"]}
+Entity["Person", "MazieHirono::3v8s9"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MaYing-jeou::c67fx"]	Missing["Alive"]	{Entity["Country", "Taiwan"]}
+Entity["Person", "MattSalmon::tpmw8"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MatthiasWissmann::36r9t"]	Missing["Alive"]	{Entity["Country", "Germany"]}
+Entity["Person", "MatthewRinaldo::3y528"]	DateObject[{2008, 10, 13}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MarshallJones::55b42"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "MarkJMeissner::737hh"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "MarkGreenberg::k7j6d"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "MargaretStock::56d53"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "ManmohanSingh::46v79"]	Missing["Alive"]	{Entity["Country", "India"]}
+Entity["Person", "MaggieHassan::fb6dx"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "MackySall::y9d66"]	Missing["Alive"]	{Entity["Country", "Senegal"]}
+Entity["Person", "LiuZhijun::8v2pz"]	Missing["NotAvailable"]	{Entity["Country", "China"]}
+Entity["Person", "LiangGuanglie::rm82k"]	Missing["NotAvailable"]	{Entity["Country", "China"]}
+Entity["Person", "LewisRKatz::8356g"]	DateObject[{2014, 5, 31}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "LeslieDavis::k8ydk"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "LeopoldSenghor::bb549"]	DateObject[{2001, 12, 20}, "Day", "Gregorian", -5.]	{Entity["Country", "Senegal"]}
+Entity["Person", "LeopoldoLopez::vxzr7"]	Missing["NotAvailable"]	{Entity["Country", "Venezuela"]}
+Entity["Person", "LeeTerry::5h7rn"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "LeeRichardson::fms84"]	Missing["NotAvailable"]	{Entity["Country", "Canada"]}
+Entity["Person", "LechWalesa::k8kjm"]	Missing["Alive"]	{Entity["Country", "Poland"]}
+Entity["Person", "LawrenceCannon::gt2vs"]	Missing["Alive"]	{Entity["Country", "Canada"]}
+Entity["Person", "LaurentKabila::7mjhj"]	DateObject[{2001, 1, 18}, "Day", "Gregorian", -5.]	{Entity["Country", "DemocraticRepublicCongo"]}
+Entity["Person", "LacyClay::9265d"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KwameRaoul::x2fkj"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KwameKilpatrick::srd4f"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KlausVonDohnanyi::5w77s"]	Missing["Alive"]	{Entity["Country", "Germany"]}
+Entity["Person", "KirillReznik::49y76"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KingJuanCarlos::tv326"]	Missing["Alive"]	{Entity["Country", "Spain"]}
+Entity["Person", "KevinPowell::2d548"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KevinBHarris::6598t"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "KennethArnold::6256g"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KenCalvert::647mc"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KeithEllison::7876q"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KeithBrand::93d77"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KayHagan::9vp4c"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KayGranger::sn7yr"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KathyDahlkemper::pk3d7"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KathyCastor::y2cd2"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "KarenHandel::339d2"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JyotiBasu::m5fjs"]	DateObject[{2010, 1, 17}, "Day", "Gregorian", -5.]	{Entity["Country", "Bangladesh"]}
+Entity["Person", "JuriLuik::696zw"]	Missing["Alive"]	{Entity["Country", "Estonia"]}
+Entity["Person", "JuliaGillard::vm7gs"]	Missing["Alive"]	{Entity["Country", "Australia"]}
+Entity["Person", "JuanPeron::3z876"]	DateObject[{1974, 7, 1}, "Day", "Gregorian", -5.]	{Entity["Country", "Argentina"]}
+Entity["Person", "JosipBrozTito::4zgjm"]	DateObject[{1980, 5, 4}, "Day", "Gregorian", -5.]	{Missing["NotAvailable"], Missing["NotAvailable"], Missing["NotAvailable"], Missing["NotAvailable"]}
+Entity["Person", "JoshMandel::8dq8k"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JosephRoberts::79hgt"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JosephMackGould::95x79"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "JosephKabila::z587n"]	Missing["Alive"]	{Entity["Country", "DemocraticRepublicCongo"]}
+Entity["Person", "Joseph-AchilleVerville::9wshm"]	DateObject[{1937, 11, 20}, "Day", "Gregorian", -5.]	{Entity["Country", "Canada"]}
+Entity["Person", "JohnWentworth::dt4pg"]	DateObject[{1787, 1, 10}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "JohnSalazar::j6348"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "GeorgeFriedman::bt7m9"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "GatewoodGalbraith::53q4b"]	DateObject[{2012, 1, 4}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "FrankWolf::892y6"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "FrankMurkowski::g35h5"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "FrankGuinta::g4cv7"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "FrankChurch::v3973"]	DateObject[{1984, 4, 7}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "FrancoisMitterrand::s7268"]	DateObject[{1996, 1, 8}, "Day", "Gregorian", -5.]	{Entity["Country", "France"]}
+Entity["Person", "FranciscoSCarvajal::szc2y"]	DateObject[{1932, 9, 20}, "Day", "Gregorian", -5.]	{Entity["Country", "Mexico"]}
+Entity["Person", "FouadMebazaa::q5777"]	Missing["Alive"]	{Entity["Country", "Tunisia"]}
+Entity["Person", "EvansPaul::tmgp2"]	Missing["Alive"]	{Entity["Country", "Haiti"]}
+Entity["Person", "EugeneMcCarthy::2crpr"]	DateObject[{2005, 12, 10}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "EricSwalwell::z6449"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "ErichHonecker::6t9gq"]	DateObject[{1994, 5, 29}, "Day", "Gregorian", -5.]	{Entity["Country", "Germany"]}
+Entity["Person", "ElyakimHaetzni::m7xds"]	Missing["Alive"]	{Entity["Country", "Israel"]}
+Entity["Person", "ElizabethDole::qt5bj"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "EdwardDouglassWhite::96by3"]	DateObject[{1921, 5, 19}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "EdPerlmutter::c2v2g"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "EdPastor::kkd6q"]	DateObject[{2018, 11, 27}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "EdOBrien::59hbv"]	Missing["Alive"]	{Entity["Country", "UnitedKingdom"]}
+Entity["Person", "EdmundRandolph::6xy77"]	DateObject[{1813, 9, 12}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "EarlBlumenauer::zcfz5"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DovZakin::g3ks7"]	DateObject[{1986, 9, 4}, "Day", "Gregorian", -5.]	{Entity["Country", "Israel"]}
+Entity["Person", "DougWilder::379n8"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DougBurgum::jz8kd"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DonRegan::5wpjy"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "DonGaetz::k9bxb"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DickGephardt::y8639"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DevinAKasper::68jy4"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "DennisWardlow::hk8xf"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DennisDaugaard::74bm3"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DavidSnyder::rdtd6"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "DavidRoth::q58g9"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "DavidRogersonWilliams::y7643"]	DateObject[{1830, 11, 17}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DavidMarshall::89z52"]	DateObject[{1995, 12, 12}, "Day", "Gregorian", -5.]	{Entity["Country", "Singapore"]}
+Entity["Person", "DavidBen-Gurion::2h722"]	DateObject[{1973, 12, 1}, "Day", "Gregorian", -5.]	{Entity["Country", "Israel"]}
+Entity["Person", "DaveSmith::t777q"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DaveReichert::m5346"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DaveBrat::zm5t8"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DanSullivan::5jhy3"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "DanielRMiller::294fg"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DanielPatrickMoynihan::k3rvf"]	DateObject[{2003, 3, 26}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "DanaRosemaryScallon::462pb"]	Missing["Alive"]	{Entity["Country", "Ireland"]}
+Entity["Person", "DaleMoore::5xfm6"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "CynthiaHedge-Morrell::2rd63"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "CraigWashington::8nzbg"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ColleenHanabusa::r2z4j"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ClayAiken::mj9d8"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ClareBootheLuce::2s82b"]	DateObject[{1987, 10, 9}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ChristineODonnell::2c9zx"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "ChelliePingree::y5qdd"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "CharlieBass::j3bt5"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "CharlesMoritz::fj49f"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "CharlesCurtis::7x57w"]	DateObject[{1936, 2, 8}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "CharlesCanady::v4473"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "CarlosAlvaradoQuesada::djx3p"]	Missing["Alive"]	{Entity["Country", "CostaRica"]}
+Entity["Person", "CarloAzeglioCiampi::3925h"]	DateObject[{2016, 9, 16}, "Day", "Gregorian", -5.]	{Entity["Country", "Italy"]}
+Entity["Person", "ByronNScott::h3f3t"]	DateObject[{1991, 12, 21}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BuckMcKeon::v5pqm"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BrunoKreisky::4fh82"]	DateObject[{1990, 7, 29}, "Day", "Gregorian", -5.]	{Entity["Country", "Austria"]}
+Entity["Person", "BruceAlexanderKnight::t3c8n"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "BriannaWu::k6hzx"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BrianKemp::g5v9v"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BoXilai::yt8nb"]	Missing["NotAvailable"]	{Entity["Country", "China"]}
+Entity["Person", "BorisNemtsov::n7n87"]	DateObject[{2015, 2, 27}, "Day", "Gregorian", -5.]	{Entity["Country", "Russia"]}
+Entity["Person", "BongbongMarcos::9853c"]	Missing["NotAvailable"]	{Entity["Country", "Philippines"]}
+Entity["Person", "BobFilner::6k9mh"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BobbyBright::8t3kg"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BlancheLincoln::23h93"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BillThomas::v6d2x"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BillPosey::5x79t"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BillPascrell::694v7"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BillKirby::23ygw"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "BillGradison::yv6dd"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BillDelahunt::sk82c"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BeppeGrillo::6ynpx"]	Missing["Alive"]	{Entity["Country", "Italy"]}
+Entity["Person", "BenLujan::54dq8"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BenjaminWhite::f556x"]	DateObject[{1860, 6, 7}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BenjaminCooper::27t5d"]	DateObject[{1692}, "Year", "Gregorian", -5.]	Missing["NotAvailable"]
+Entity["Person", "BenedictArnold::6t5w3"]	DateObject[{1849, 3, 3}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BellaAbzug::47j5j"]	DateObject[{1998, 3, 31}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BeckerDan::7p72s"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "BeauBiden::99d59"]	DateObject[{2015, 5, 30}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "BarhamSalih::949yg"]	Missing["Alive"]	{Entity["Country", "Iraq"]}
+Entity["Person", "AyaanHirsiAli::235x8"]	Missing["Alive"]	{Entity["Country", "Netherlands"]}
+Entity["Person", "AshtonCarter::73xz9"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AshrafGhani::7h458"]	Missing["Alive"]	{Entity["Country", "Afghanistan"]}
+Entity["Person", "AnthonySammy::t9h53"]	Missing["Alive"]	{Entity["Country", "TrinidadTobago"]}
+Entity["Person", "AnthonyAWilliams::4g774"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AnnRichards::v38x3"]	DateObject[{2006, 9, 13}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AnneNorthup::w94k5"]	Missing["Alive"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AnhCao::5gg83"]	Missing["NotAvailable"]	{Entity["Country", "Vietnam"]}
+Entity["Person", "AndyVidak::kc7wf"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AndroullaVassiliou::x2q6h"]	Missing["NotAvailable"]	{Entity["Country", "Cyprus"]}
+Entity["Person", "AndrewRomanoff::jx86p"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AmranAbdulGhani::26q42"]	Missing["Alive"]	{Entity["Country", "Malaysia"]}
+Entity["Person", "AlvinFWeichel::68nxq"]	DateObject[{1956, 11, 27}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AlvaroUribe::8m8wc"]	Missing["Alive"]	{Entity["Country", "Colombia"]}
+Entity["Person", "AllenCJohnson::44c7x"]	Missing["NotAvailable"]	Missing["NotAvailable"]
+Entity["Person", "AliAkbarSalehi::8bm65"]	Missing["Alive"]	{Entity["Country", "Iran"]}
+Entity["Person", "AlexanderHamiltonStephens::478v4"]	DateObject[{1883, 3, 4}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AlexanderGiannoulias::ff2yj"]	Missing["NotAvailable"]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AlanJohnson::6826h"]	Missing["Alive"]	{Entity["Country", "UnitedKingdom"]}
+Entity["Person", "AhmedWaliKarzai::tz478"]	DateObject[{2011, 7, 12}, "Day", "Gregorian", -5.]	{Entity["Country", "Afghanistan"]}
+Entity["Person", "AhmedShahMassoud::8x66w"]	DateObject[{2001, 9, 9}, "Day", "Gregorian", -5.]	{Entity["Country", "Afghanistan"]}
+Entity["Person", "AhmedQurei::mg8mm"]	Missing["Alive"]	{Entity["Country", "WestBank"]}
+Entity["Person", "AhmedMohamedHassan::b8ptx"]	Missing["Alive"]	{Entity["Country", "Djibouti"]}
+Entity["Person", "AdamBoyd::hypr9"]	DateObject[{1835, 8, 15}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AbnerJMikva::k72z9"]	DateObject[{2016, 7, 4}, "Day", "Gregorian", -5.]	{Entity["Country", "UnitedStates"]}
+Entity["Person", "AbdulMananIsmail::6fqq2"]	DateObject[{2018, 2, 12}, "Day", "Gregorian", -5.]	{Entity["Country", "Malaysia"]}
+Entity["Person", "AbdullahDardari::9bnr5"]	Missing["Alive"]	{Entity["Country", "Syria"]}
+Entity["Person", "AbdulAzizAl-Hakim::ft3dk"]	DateObject[{2009, 8, 26}, "Day", "Gregorian", -5.]	{Entity["Country", "Iraq"]}

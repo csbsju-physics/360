@@ -1,0 +1,249 @@
+Administrative levels			Hierarchical Complexity
+Area					Information
+Calendar				Information
+Communal buildings			Specialized Buildings: polity owned Specialized Buildings: Polity Owned 
+Courts					Law
+Examination system			Bureaucracy characteristics Bureaucracy Characteristics
+Full-time bureaucrats			Bureaucracy characteristics Bureaucracy Characteristics
+Formal legal code			Law
+History					Information
+Indigenous coins			Other
+irrigation systems			Specialized Buildings: polity owned Specialized Buildings: Polity Owned
+Irrigation systems
+Judges					Law
+Knowledge/information buildings		Specialized Buildings: polity owned Specialized Buildings: Polity Owned
+markets					Specialized Buildings: polity owned Specialized Buildings: Polity Owned
+Markets
+Military levels				Hierarchical Complexity
+Philosophy				Information
+Phonetic alphabetic writing		Information
+Polity Population			Social Scale
+Polity territory			Social Scale
+Population of the largest settlement	Social Scale
+Practical literature			Information
+Professional military officers		Professions
+Professional soldiers			Professions
+Professional priesthood			Professions
+Religious levels			Hierarchical Complexity
+Religious literature			Information
+Roads					Specialized Buildings: polity owned Specialized Buildings: Polity Owned
+Script					Information
+Specialized government buildings	Bureaucracy characteristics Bureaucracy Characteristics
+Settlement hierarchy			Hierarchical Complexity
+Written records				Information
+
+--
+D=read.csv("seshat-20180402.csv")
+D=read.csv("junk1.csv")
+D=read.csv("junk2.csv")
+
+> str(D)
+'data.frame':	12706 obs. of  13 variables:
+ $ NGA       : Factor w/ 30 levels "Big Island Hawaii",..: 10 10 10 10 10 10 10 10 10 10 ...
+ $ Polity    : Factor w/ 397 levels "AfDurrn","AfGhazn",..: 108 108 108 108 108 108 108 108 108 108 ...
+ $ Section   : Factor w/ 1 level "Social Complexity variables": 1 1 1 1 1 1 1 1 1 1 ...
+ $ Subsection: Factor w/ 10 levels "Bureaucracy characteristics",..: 3 3 3 3 7 7 7 1 1 1 ...
+ $ Variable  : Factor w/ 34 levels "Administrative levels",..: 31 1 27 15 24 26 25 8 6 32 ...
+ $ Value.From: Factor w/ 365 levels "0","1","10","100",..: 161 197 161 239 353 353 357 353 353 353 ...
+ $ Value.To  : int  NA NA NA NA NA NA NA NA NA NA ...
+ $ Date.From : Factor w/ 247 levels "","1000BCE","1000CE",..: 1 1 1 1 1 1 1 1 1 1 ...
+ $ Date.To   : Factor w/ 139 levels "","1000BCE","1000CE",..: 1 1 1 1 1 1 1 1 1 1 ...
+ $ Fact.Type : Factor w/ 2 levels "complex","simple": 2 2 2 2 2 2 2 2 2 2 ...
+ $ Value.Note: Factor w/ 5 levels "disputed","list",..: 4 4 4 4 4 4 4 4 4 4 ...
+ $ Date.Note : Factor w/ 3 levels "","range","simple": 1 1 1 1 1 1 1 1 1 1 ...
+ $ Comment   : Factor w/ 2 levels "","The fact is uncertain": 1 1 1 1 1 1 1 1 1 1 ...
+table(droplevels(D$Value.From[D$Variable=="Administrative levels"]))
+> D[D$Variable=="Administrative levels" & D$Value.From=='1857-1864',]
+                   NGA  Polity                     Section
+553 Niger Inland Delta MlToucl Social Complexity variables
+                 Subsection              Variable Value.From Value.To Date.From
+553 Hierarchical Complexity Administrative levels  1857-1864       NA         6
+    Date.To Fact.Type Value.Note Date.Note Comment
+553           complex     simple    simple        
+> D[D$Variable=="Administrative levels" & D$Value.From=='1864-1893',]
+                   NGA  Polity                     Section
+554 Niger Inland Delta MlToucl Social Complexity variables
+                 Subsection              Variable Value.From Value.To Date.From
+554 Hierarchical Complexity Administrative levels  1864-1893       NA         7
+    Date.To Fact.Type Value.Note Date.Note Comment
+554           complex     simple    simple        
+
+looks like data/value reverse
+
+Area??
+table(droplevels(D$Fact.Type[D$Variable=="Population of the largest settlement"]))
+table(droplevels(D$Value.Note[D$Variable=="Population of the largest settlement"]))
+
+
+D[D$Variable=="Population of the largest settlement",6:12]
+
+
+q=table(D$Polity,D$Variable)
+ missing =function(i){return(sum(q[i,]==0))}
+m=sapply(1:397,missing)
+> sum(m>15)
+[1] 41
+> hist(m)
+> sum(m>10)
+[1] 53
+> sum(m==0)
+[1] 87
+> sum(m==1)
+[1] 57
+> sum(m==2)
+[1] 32
+> sum(m==3)
+[1] 48
+> sum(m==4)
+[1] 28
+> sum(m==5)
+[1] 16
+ more =function(i){return(sum(q[i,]>1))}
+m2=sapply(1:397,more)
+sum(m2==0)
+1] 216
+sum(m2==0 & m<2)
+> sum(m2==0 & m<2)
+[1] 44
+sum(m2<2 & m<2)
+> sum(m2<2 & m<2)
+[1] 70
+> sum(m2<4 & m<2)
+[1] 108
+
+want=row.names(q)[m<4]
+D2=D[D$Polity %in% want,]
+q2=table(droplevels(D2$Polity),droplevels(D2$Variable))
+ cmissing =function(i){return(sum(q2[,i]==0))}
+m3=sapply(1:31,cmissing)
+want2=col.names(q2)[m3<15]
+D3=D2[D2$Variable %in% want2,]
+
+q3=table(droplevels(D3$Polity),droplevels(D3$Variable))
+
+ missing3 =function(i){return(sum(q3[i,]==0))}
+m4=sapply(1:224,missing3)
+want4=row.names(q3)[m4<2]
+D4=D3[D3$Polity %in% want4,]
+write.csv(D4,"junk4.csv",row.names = F)
+D4=read.csv("junk4.csv")
+
+q4=table(D4$Polity,D4$Variable)
+missing4 =function(i){return(sum(q4[i,]==0))}
+m4a=sapply(1:194,missing4)
+ cmissing4 =function(i){return(sum(q4[,i]==0))}
+m4b=sapply(1:27,cmissing4)
+
+table(droplevels(D4$Value.From[D4$Variable=="Administrative levels"]))
+> table(droplevels(D4$Value.From[D4$Variable=="Administrative levels"]))
+
+ 0  1  2  3  4  5  6  7  8  9 
+ 2 27 24 30 27 49 41 21 19  6 
+> table(droplevels(D4$Value.From[D4$Variable=="Calendar"]))
+
+ absent present unknown 
+     66     178       1 
+> table(droplevels(D4$Value.From[D4$Variable=="Communal buildings"]))
+
+ absent present unknown 
+     20     216       2 
+> table(droplevels(D4$Value.From[D4$Variable=="Courts"]))
+
+ absent present unknown 
+     90     147       6 
+> table(droplevels(D4$Value.From[D4$Variable=="Examination system"]))
+
+ absent present unknown 
+    188      43       2 
+> table(droplevels(D4$Value.From[D4$Variable=="Full-time bureaucrats"]))
+
+ absent present unknown 
+     77     173       4 
+> table(droplevels(D4$Value.From[D4$Variable=="Formal legal code"]))
+
+ absent present unknown 
+     77     180       5 
+> table(droplevels(D4$Value.From[D4$Variable=="History"]))
+
+ absent present unknown 
+     78     158       3 
+> table(droplevels(D4$Value.From[D4$Variable=="Indigenous coins"]))
+
+ absent present 
+    115     136 
+> table(droplevels(D4$Value.From[D4$Variable=="Irrigation systems"]))
+
+ absent present unknown 
+     61     173       5 
+> table(droplevels(D4$Value.From[D4$Variable=="Judges"]))
+
+ absent present unknown 
+     96     146       5 
+> table(droplevels(D4$Value.From[D4$Variable=="Knowledge/information buildings"]))
+
+ absent present 
+     73     172 
+> table(droplevels(D4$Value.From[D4$Variable=="Markets"]))
+
+ absent present unknown 
+     53     181       2 
+> table(droplevels(D4$Value.From[D4$Variable=="Military levels"]))
+
+ 0  1 10 12 13  2  3  4  5  6  7  8  9 
+ 3 23  6  2  1 26 32 16 34 50 27  8 16 
+> table(droplevels(D4$Value.From[D4$Variable=="Philosophy"]))
+
+ absent present unknown 
+     80     159       3 
+> table(droplevels(D4$Value.From[D4$Variable=="Phonetic alphabetic writing"]))
+
+ absent present 
+     94     148 
+> table(droplevels(D4$Value.From[D4$Variable=="Practical literature"]))
+
+ absent present unknown 
+     76     165       2 
+> table(droplevels(D4$Value.From[D4$Variable=="Professional military officers"]))
+
+ absent present unknown 
+     99     151       5 
+> table(droplevels(D4$Value.From[D4$Variable=="Professional soldiers"]))
+
+ absent present unknown 
+    108     155       4 
+> table(droplevels(D4$Value.From[D4$Variable=="Professional priesthood"]))
+
+ absent present 
+     73     173 
+> table(droplevels(D4$Value.From[D4$Variable=="Religious levels"]))
+
+      0       1      10       2       3       4       5       6       7       8 
+      4      69       1      33      47      32      19      19       9       1 
+unknown 
+      2 
+> table(droplevels(D4$Value.From[D4$Variable=="Religious literature"]))
+
+ absent present unknown 
+     70     176       1 
+> table(droplevels(D4$Value.From[D4$Variable=="Roads"]))
+
+ absent present 
+     55     183 
+> table(droplevels(D4$Value.From[D4$Variable=="Script"]))
+
+ absent present 
+     61     183 
+> table(droplevels(D4$Value.From[D4$Variable=="Specialized government buildings"]))
+
+ absent present unknown 
+     59     178       7 
+> table(droplevels(D4$Value.From[D4$Variable=="Settlement hierarchy"]))
+
+      1       2       3       4       5       6       7 unknown 
+     39      26      30      54      27      50      21       1 
+> table(droplevels(D4$Value.From[D4$Variable=="Written records"]))
+
+ absent present unknown 
+     64     184       1 
+
+hist(m4a)

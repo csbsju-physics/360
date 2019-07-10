@@ -1,0 +1,5 @@
+{Entity["Person", "BarackObama::7yj6w"], 
+ Entity["Person", "HillaryClinton::538v8"], 
+ Entity["Person", "RonPaul::7r74c"], Entity["Person", "MittRomney::h8jk4"], 
+ Entity["Person", "JohnBelEdwards::2mm3b"], 
+ Entity["Person", "BillClinton::9s27h"]}
