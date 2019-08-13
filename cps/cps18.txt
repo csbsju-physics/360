@@ -1,0 +1,372 @@
+D A_AGE       2     19  (00:85)
+     Item 18d - Age
+U All
+V      00-79 .0-79 years of age
+V         80 .80-84 years of age
+V         85 .85+ years of age
+
+D A_SEX       1     24  (1:2)
+     Item 18g - Sex
+U All
+V          1 .Male
+V          2 .Female
+
+D A_HGA       2     25  (00:46)...rescaled
+     Item 18h - Educational attainment
+U All
+V         00 .Children
+V         31 .Less than 1st grade
+V         32 .1st,2nd,3rd,or 4th grade
+V         33 .5th or 6th grade
+V         34 .7th and 8th grade
+V         35 .9th grade
+V         36 .10th grade
+V         37 .11th grade
+V         38 .12th grade no diploma
+V         39 .High school graduate - high
+V            .school diploma or equivalent
+V         40 .Some college but no degree
+V         41 .Associate degree in college -
+V            .occupation/vocation program
+V         42 .Associate degree in college -
+V            .academic program
+V         43 .Bachelor's degree (for
+V            .example: BA,AB,BS)
+V         44 .Master's degree (for
+V            .example: MA,MS,MENG,MED,
+V            .MSW, MBA)
+V         45 .Professional school degree (for
+V            .example: MD,DDS,DVM,LLB,JD)
+V         46 .Doctorate degree (for
+V            .example: PHD,EDD)
+
+D PRDTRACE    2     27  (01:26)...RACE==01
+     Race
+U All
+V         01 .White only
+V         02 .Black only
+V         03 .American Indian,
+V            .Alaskan Native only (AI)
+etc
+
+D PEAFEVER    2     60  (-1:2) ... VET==1
+     Did you ever serve on active duty in
+     the U.S. Armed Forces?
+V         -1 .Not in universe
+V          1 .Yes
+V          2 .No
+
+D PRCITSHP    1     95  (0:5).....==5
+V          1 .Native, born in the United
+V            .States
+V          2 .Native, born in Puerto Rico or
+V            .U.S. outlying area
+V          3 .Native, born abroad of American
+V            .parent or parents
+V          4 .Foreign born, U.S. citizen by
+V            .naturalization
+V          5 .Foreign born, not a citizen of
+V            .the United States
+
+
+D PRERELG     1    183  (0:1) selected for =1
+     Earnings eligibility flag
+U All
+V          0 .Not earnings eligible
+V          1 .Earnings eligible
+
+D A_USLHRS    2    184  (00:99)
+     How many hrs per week does ...
+     usually work at this job?
+
+V         -4 .Hours vary
+V         -1 .Not in universe
+V         00 .None, no hours
+V      01-99 .Entry
+
+D A_HRLYWK    1    186  (0:2)
+     Is ... paid by the hour on this job?
+U PRERELG=1
+V          0 .Not in universe or children and
+V            .Armed Forces
+V          1 .Yes
+V          2 .No
+
+D A_HRSPAY    4    187  (0000:9999)
+     How much does ... earn per hour?
+U A_HRLYWK=1
+V       0000 .Not in universe or children and
+V            .Armed Forces
+V  0001-9999 .Entry (2 implied decimal
+V            .places)
+
+D A_GRSWK     4    191  (0000:2885)
+     How much does ... usually earn per
+     week at this job before deductions 
+     , subject to topcoding,  the higher 
+     of either the amount of item 25a times 
+     Item 25c or the actual item 25d entry 
+     will be present.
+
+D A_UNMEM     1    195  (0:2).....==1
+     On this job, is ... a member of a
+     labor union or of an employee
+     association similar to a union
+U PRERELG=1
+V          0 .Not in universe or children and
+V            .Armed Forces
+V          1 .Yes
+V          2 .No
+
+D A_MJIND     2    207  (00:14)
+     Major industry code
+U  A_CLSWKR = 1-7
+V          0 .Not in universe, or children
+V          1 .Agriculture, forestry,
+V            .fishing, and hunting
+V          2 .Mining
+V          3 .Construction
+V          4 .Manufacturing
+V          5 .Wholesale and retail trade
+V          6 .Transportation and utilities
+V          7 .Information
+V          8 .Financial activities
+V          9 .Professional and business
+V            .services
+V         10 .Educational and health services
+V         11 .Leisure and hospitality
+V         12 .Other services
+V         13 .Public administration
+V         14 .Armed Forces
+
+D A_MJOCC     2    211  (00:11)
+     Major occupation recode
+U  A_CLSWKR = 1-7
+V          0 .Not in universe or children
+V          1 .Management, business, and
+V            .financial occupations
+V          2 .Professional and related
+V            .occupations
+V          3 .Service occupations
+V          4 .Sales and related occupations
+V          5 .Office and administrative
+V            .support occupations
+V          6 .Farming, fishing, and
+V            .forestry occupations
+V          7 .Construction and extraction
+V            .occupations
+V          8  .Installation, maintenance,
+V            .and repair occupations
+V          9 .Production occupations
+V         10 .Transportation and material
+V            .moving occupations
+V         11 .Armed Forces
+
+D NOEMP       1    300  (0:6)
+     Item 4788 - Counting all locations where
+     this employer operates, what is the 
+     total number of persons who work 
+     for ...'s employer?
+V          0 .Not in universe
+V          1 .Under 10
+V          2 .10 - 49
+V          3 .50 - 99
+V          4 .100 - 499
+V          5 .500 - 999
+V          6 .1000+
+
+D GEDIV       1    329  (1:9)
+     Recode - Census division of current
+     residence.
+V          1 .New England
+V          2 .Middle Atlantic
+V          3 .East North Central
+V          4 .West North Central
+V          5 .South Atlantic
+V          6 .East South Central
+V          7 .West South Central
+V          8 .Mountain
+V          9 .Pacific
+
+D PTOT_R      2    604  (00:41)
+     Recode - Total person income recode
+V         00 .Not in universe
+V         01 .Under $2,500
+V         02 .$2,500 to $4,999
+V         03 .$5,000 to $7,499
+V         04 .$7,500 to $9,999
+V         05 .$10,000 to $12,499
+V         06 .$12,500 to $14,999
+V         07 .$15,000 to $17,499
+V         08 .$17,500 to $19,999
+V         09 .$20,000 to $22,499
+V         10 .$22,500 to $24,999
+V         11 .$25,000 to $27,499
+V         12 .$27,500 to $29,999
+V         13 .$30,000 to $32,499
+V         14 .$32,500 to $34,999
+V         15 .$35,000 to $37,499
+V         16 .$37,500 to $39,999
+V         17 .$40,000 to $42,499
+V         18 .$42,500 to $44,999
+V         19 .$45,000 to $47,499
+V         20 .$47,500 to $49,999
+V         21 .$50,000 to $52,499
+V         22 .$52,500 to $54,999
+V         23 .$55,000 to $57,499
+V         24 .$57,500 to $59,999
+V         25 .$60,000 to $62,499
+V         26 .$62,500 to $64,999
+V         27 .$65,000 to $67,499
+V         28 .$67,500 to $69,999
+V         29 .$70,000 to $72,499
+V         30 .$72,500 to $74,999
+V         31 .$75,000 to $77,499
+V         32 .$77,500 to $79,999
+V         33 .$80,000 to $82,499
+V         34 .$82,500 to $84,999
+V         35 .$85,000 to $87,499
+V         36 .$87,500 to $89,999
+V         37 .$90,000 to $92,499
+V         38 .$92,500 to $94,999
+V         39 .$95,000 to $97,499
+V         40 .$97,500 to $99,999
+V         41 .$100,000 and over
+
+
+
+D PERLIS      1    606   (1:4)
+     Recode - Low-income level of persons
+     (Subfamily members have primary family
+     recode)
+V          1 .Below low-income level
+V          2 .100 - 124 percent of the low-
+V            .income level
+V          3 .125 - 149 percent of the low-
+V            .income level
+V          4 .150 and above the low-income
+V            .level
+
+D HEA         1    691  (0:5)
+     Would you say ...'s health in general
+     is:
+V          0 .NIU
+V          1 .Excellent
+V          2 .Very good
+V          3 .Good
+V          4 .Fair
+V          5 .Poor
+
+----
+D=read.csv("asec2018_pubuse3.dat",stringsAsFactors=F,header=F)
+D$AGE=substr(D$V1,19,20)
+D$SEX=substr(D$V1,24,24)
+D$HGA=substr(D$V1,25,26)
+D$RACE=substr(D$V1,27,28)
+D$VET=substr(D$V1,60,61)
+D$PRCITSHP =substr(D$V1,95,95)
+D$PRERELG=substr(D$V1,183,183)
+D$USLHRS=substr(D$V1,184,185)
+D$HRLYWK=substr(D$V1,186,186)
+D$HRSPAY=substr(D$V1,187,190)
+D$GRSWK=substr(D$V1,191,194)
+D$UNMEM=substr(D$V1,195,195)
+D$MJIND=substr(D$V1,207,208)
+D$MJOCC=substr(D$V1,211,212)
+D$NOEMP=substr(D$V1,300,300)
+D$GEDIV=substr(D$V1,329,329)
+D$PTOT=substr(D$V1,604,605)
+D$PERLIS=substr(D$V1,606,606)
+D$HEA=substr(D$V1,691,691)
+
+D=D[D$PRERELG=="1",]
+
+D$AGE=as.numeric(D$AGE)
+D$SEX=D$SEX=="2"    #female
+D$RACE=D$RACE=="01" #white
+D$VET=D$VET=="01"
+D$PRCITSHP=D$PRCITSHP=="5" #not us citizen
+D$USLHRS=as.numeric(D$USLHRS)
+D$HRSPAY=as.numeric(D$HRSPAY)
+D$GRSWK=as.numeric(D$GRSWK)
+D$UNMEM=D$UNMEM=="1"
+D$MJIND=as.numeric(D$MJIND)
+D$MJOCC=as.numeric(D$MJOCC)
+D$NOEMP=as.numeric(D$NOEMP)
+D$GEDIV=as.numeric(D$GEDIV)
+D$PTOT=as.numeric(D$PTOT)
+D$PERLIS=as.numeric(D$PERLIS)
+D$HEA=as.numeric(D$HEA)
+
+reorder EDUC
+pick=c(0,1,5,7,9,10,11,12,12,12,14,14,16,18,20,20)
+D$HGA=as.numeric(D$HGA)
+D$HGA=pick[D$HGA-30]
+
+D$EXPER=D$AGE-D$HGA-6
+
+wage complex
+
+> sum(D$USLHRS<=0 & D$HRLYWK=="2")
+[1] 315
+solution: drop these
+D$V1=NULL
+
+D1=D[!(D$USLHRS<=0 & D$HRLYWK=="2"),]
+D1=D1[!(D1$GRSWK<100 & D1$HRLYWK=="2"),]
+D1=D1[!(D1$HRSPAY<1 & D1$HRLYWK=="1"),]
+
+D1$WAGE=D1$HRSPAY/100
+D1$WAGE2=D1$GRSWK/D1$USLHRS
+D1$WAGE[D1$HRLYWK=="2"]=D1$WAGE2[D1$HRLYWK=="2"]
+flag=(D1$WAGE2>D1$WAGE) & D1$HRLYWK=="1" & ! is.na(D1$WAGE2) & (D1$USLHRS>0)
+D1$WAGE[flag]=D1$WAGE2[flag]
+
+D1$LNWAGE=log(D1$WAGE)
+D1$NONWHITE=!(D1$RACE)
+
+drop "RACE", "PRERELG", USLHRS","HRLYWK","HRSPAY","GRSWK", "WAGE2"
+       4        7         8        9        10       11      22
+D2=D1[,c(1,2,3,5,6,12,13,14,15,16,17,18,19,20,21,23,24)]
+> colnames(D2)
+ [1] "AGE"      "SEX"      "HGA"      "VET"      "PRCITSHP" "UNMEM"   
+ [7] "MJIND"    "MJOCC"    "NOEMP"    "GEDIV"    "PTOT"     "PERLIS"  
+[13] "HEA"      "EXPER"    "WAGE"     "LNWAGE"   "NONWHITE"
+
+write.csv(D2,"output18_update.csv",row.names = F)
+SEX->FEMALE
+UNMEM->UNION
+HGA->EDUC
+
+out=lm(LNWAGE~PRCITSHP+AGE+SEX+HGA+RACE+VET+NOEMP+HEA+UNMEM+PERLIS,data=D1)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-2.65937 -0.32376 -0.02272  0.31439  3.15747 
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   1.2837000  0.0357076  35.950  < 2e-16 ***
+PRCITSHPTRUE  0.0417761  0.0172440   2.423   0.0154 *  
+AGE           0.0078217  0.0003277  23.870  < 2e-16 ***
+SEXTRUE      -0.1916391  0.0091993 -20.832  < 2e-16 ***
+HGA           0.0855971  0.0016607  51.544  < 2e-16 ***
+RACETRUE      0.0614739  0.0113818   5.401 6.75e-08 ***
+VETTRUE      -0.0318109  0.0199775  -1.592   0.1113    
+NOEMP         0.0173122  0.0023442   7.385 1.63e-13 ***
+HEA          -0.0430301  0.0051206  -8.403  < 2e-16 ***
+UNMEMTRUE     0.1189357  0.0149699   7.945 2.12e-15 ***
+PERLIS        0.0744769  0.0066634  11.177  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.4882 on 11855 degrees of freedom
+Multiple R-squared:  0.3019,	Adjusted R-squared:  0.3013 
+F-statistic: 512.6 on 10 and 11855 DF,  p-value: < 2.2e-16
+
+out=lm(LNWAGE~PRCITSHP+AGE+SEX+HGA+RACE+VET+NOEMP+HEA+UNMEM+PERLIS,data=D1)
+out1=lm(LNWAGE~PRCITSHP+AGE+SEX+HGA+RACE+VET+NOEMP+HEA+UNMEM+PERLIS,data=D1,subset=MJOCC==1)
+4:-.309
+5:-.032
+7:-.002
+8:-.369

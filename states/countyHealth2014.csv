@@ -1,0 +1,3195 @@
+Location,FIPS,Life_expectancy,Alcohol,Drugs,SelfHarm
+"United States",0,79.08,13.86,10.37,13.86
+Alabama,1,75.65,16.72,11.87,16.72
+"Autauga County, Alabama",1001,75.67,18.19,7.32,18.19
+"Baldwin County, Alabama",1003,78.08,18.51,13.3,18.51
+"Barbour County, Alabama",1005,75.42,16.2,5.4,16.2
+"Bibb County, Alabama",1007,73.97,19.95,13.03,19.95
+"Blount County, Alabama",1009,76.16,19.09,14.38,19.09
+"Bullock County, Alabama",1011,73.86,12.01,5.63,12.01
+"Butler County, Alabama",1013,73.39,17.81,6.45,17.81
+"Calhoun County, Alabama",1015,74.02,20.16,11.51,20.16
+"Chambers County, Alabama",1017,74.06,16.69,8.65,16.69
+"Cherokee County, Alabama",1019,75.08,25.9,11.15,25.9
+"Chilton County, Alabama",1021,74.53,20.21,12.96,20.21
+"Choctaw County, Alabama",1023,75.29,13.05,6.68,13.05
+"Clarke County, Alabama",1025,75.46,14.42,5.97,14.42
+"Clay County, Alabama",1027,75.06,18.45,7.5,18.45
+"Cleburne County, Alabama",1029,74.3,26.27,11.37,26.27
+"Coffee County, Alabama",1031,76.48,14.89,5.83,14.89
+"Colbert County, Alabama",1033,75.07,21.26,8.31,21.26
+"Conecuh County, Alabama",1035,74.05,21.7,10.51,21.7
+"Coosa County, Alabama",1037,75.19,20.1,10.27,20.1
+"Covington County, Alabama",1039,75.15,18.7,7.12,18.7
+"Crenshaw County, Alabama",1041,74.07,17.5,7.56,17.5
+"Cullman County, Alabama",1043,75.31,19.31,14.49,19.31
+"Dale County, Alabama",1045,76.26,14.68,7.8,14.68
+"Dallas County, Alabama",1047,72.39,13.88,6.84,13.88
+"DeKalb County, Alabama",1049,75.25,18.67,10.77,18.67
+"Elmore County, Alabama",1051,75.93,16.73,6.19,16.73
+"Escambia County, Alabama",1053,74.15,22.63,11.19,22.63
+"Etowah County, Alabama",1055,73.85,20.03,14.28,20.03
+"Fayette County, Alabama",1057,73.98,22.49,16.47,22.49
+"Franklin County, Alabama",1059,73.31,21.34,17.26,21.34
+"Geneva County, Alabama",1061,75.54,17.75,6.46,17.75
+"Greene County, Alabama",1063,74.05,17.11,6.91,17.11
+"Hale County, Alabama",1065,74.01,13.76,6.58,13.76
+"Henry County, Alabama",1067,75.97,16.02,6.31,16.02
+"Houston County, Alabama",1069,76.81,13.61,9.57,13.61
+"Jackson County, Alabama",1071,74.13,21.97,10.29,21.97
+"Jefferson County, Alabama",1073,75.34,15.33,22.64,15.33
+"Lamar County, Alabama",1075,74.83,16.33,9.57,16.33
+"Lauderdale County, Alabama",1077,76.5,17.34,10.38,17.34
+"Lawrence County, Alabama",1079,74.33,22.84,13.83,22.84
+"Lee County, Alabama",1081,76.52,12.93,5.41,12.93
+"Limestone County, Alabama",1083,77.21,16.54,6.71,16.54
+"Lowndes County, Alabama",1085,72.57,13.82,4.59,13.82
+"Macon County, Alabama",1087,72.81,14.14,7.37,14.14
+"Madison County, Alabama",1089,78.07,15.29,6.28,15.29
+"Marengo County, Alabama",1091,74.68,11.36,6.43,11.36
+"Marion County, Alabama",1093,74.54,19.97,7.2,19.97
+"Marshall County, Alabama",1095,74.53,19.98,13.49,19.98
+"Mobile County, Alabama",1097,75.13,15.58,11.82,15.58
+"Monroe County, Alabama",1099,74.97,16.18,7.93,16.18
+"Montgomery County, Alabama",1101,75.83,12.63,6.05,12.63
+"Morgan County, Alabama",1103,76.21,19.08,11.41,19.08
+"Perry County, Alabama",1105,72.31,12.79,9.95,12.79
+"Pickens County, Alabama",1107,74.55,14.42,10.53,14.42
+"Pike County, Alabama",1109,74.9,17.17,6.7,17.17
+"Randolph County, Alabama",1111,74.65,20.18,10.04,20.18
+"Russell County, Alabama",1113,74.43,18.02,9,18.02
+"Saint Clair County, Alabama",1115,74.98,21.34,16.46,21.34
+"Shelby County, Alabama",1117,79.53,14,11.42,14
+"Sumter County, Alabama",1119,74.82,12.03,5.4,12.03
+"Talladega County, Alabama",1121,74.29,17.33,8.97,17.33
+"Tallapoosa County, Alabama",1123,75.01,18.36,7.61,18.36
+"Tuscaloosa County, Alabama",1125,75.8,13.84,11.74,13.84
+"Walker County, Alabama",1127,71.57,29.88,34.68,29.88
+"Washington County, Alabama",1129,74.82,16.33,6.37,16.33
+"Wilcox County, Alabama",1131,72.21,16.27,6.74,16.27
+"Winston County, Alabama",1133,74.51,19.91,11.23,19.91
+Alaska,2,78.41,25.33,11.51,25.33
+"Aleutians East Borough, Alaska",2013,83.73,9.03,5.42,9.03
+"Aleutians West Census Area, Alaska",2016,83.73,9.03,5.42,9.03
+"Anchorage Municipality, Alaska",2020,78.68,21.04,13.26,21.04
+"Bethel Census Area, Alaska",2050,74.29,55.07,6.77,55.07
+"Bristol Bay Borough, Alaska",2060,76.7,44.76,14.03,44.76
+"Denali Borough, Alaska",2068,74.5,64.22,8.8,64.22
+"Dillingham Census Area, Alaska",2070,75.15,38.17,11.04,38.17
+"Fairbanks North Star Borough, Alaska",2090,79.35,21.04,8.47,21.04
+"Haines Borough, Alaska",2100,79.65,19.9,6.23,19.9
+"Hoonah-Angoon Census Area, Alaska",2105,79.9,23.1,5.67,23.1
+"Juneau City and Borough, Alaska",2110,80.35,17.5,10.09,17.5
+"Kenai Peninsula Borough, Alaska",2122,78.61,27.43,12.52,27.43
+"Ketchikan Gateway Borough, Alaska",2130,78.19,24.25,10.29,24.25
+"Kodiak Island Borough, Alaska",2150,79.59,17.19,11.45,17.19
+"Kusilvak Census Area, Alaska",2158,70.83,98.66,7.53,98.66
+"Lake and Peninsula Borough, Alaska",2164,75.15,38.17,11.04,38.17
+"Matanuska-Susitna Borough, Alaska",2170,78.11,26.42,14.23,26.42
+"Nome Census Area, Alaska",2180,72.63,75.06,7.98,75.06
+"North Slope Borough, Alaska",2185,77.09,34.6,5.68,34.6
+"Northwest Arctic Borough, Alaska",2188,74.51,65.25,5.62,65.25
+"Petersburg Borough, Alaska",2195,78.19,24.25,10.29,24.25
+"Prince of Wales-Hyder Census Area, Alaska",2198,78.19,24.25,10.29,24.25
+"Sitka City and Borough, Alaska",2220,79.94,19.27,9.9,19.27
+"Skagway Municipality, Alaska",2230,79.9,23.1,5.67,23.1
+"Southeast Fairbanks Census Area, Alaska",2240,77.77,25.83,6.4,25.83
+"Valdez-Cordova Census Area, Alaska",2261,78,26,7.92,26
+"Wrangell City and Borough, Alaska",2275,78.19,24.25,10.29,24.25
+"Yakutat City and Borough, Alaska",2282,79.9,23.1,5.67,23.1
+"Yukon-Koyukuk Census Area, Alaska",2290,74.5,64.22,8.8,64.22
+Arizona,4,79.58,19.38,12.5,19.38
+"Apache County, Arizona",4001,74.28,36.78,10.98,36.78
+"Cochise County, Arizona",4003,78.83,24.22,10.59,24.22
+"Coconino County, Arizona",4005,79.4,24.45,7.87,24.45
+"Gila County, Arizona",4007,76.26,30.44,20.69,30.44
+"Graham County, Arizona",4009,77.52,19.42,13.29,19.42
+"Greenlee County, Arizona",4011,78.25,19.73,10.39,19.73
+"La Paz County, Arizona",4012,80.68,15.14,13.33,15.14
+"Maricopa County, Arizona",4013,80.06,17.32,11.7,17.32
+"Mohave County, Arizona",4015,75.71,34.67,19.48,34.67
+"Navajo County, Arizona",4017,75.71,31.57,16.29,31.57
+"Pima County, Arizona",4019,79.46,19.13,16.13,19.13
+"Pinal County, Arizona",4021,80.17,17.62,8.92,17.62
+"Santa Cruz County, Arizona",4023,81.97,11.16,6.85,11.16
+"Yavapai County, Arizona",4025,79.02,34.11,14.63,34.11
+"Yuma County, Arizona",4027,80.68,15.14,13.33,15.14
+Arkansas,5,76.18,19.16,8.17,19.16
+"Arkansas County, Arkansas",5001,74.57,18.75,5.18,18.75
+"Ashley County, Arkansas",5003,74.72,17.55,8.46,17.55
+"Baxter County, Arkansas",5005,76.94,26.57,12.51,26.57
+"Benton County, Arkansas",5007,79.39,16.79,7.03,16.79
+"Boone County, Arkansas",5009,77.22,23.27,9.54,23.27
+"Bradley County, Arkansas",5011,74.49,14.86,4.71,14.86
+"Calhoun County, Arkansas",5013,75.71,19.32,5.1,19.32
+"Carroll County, Arkansas",5015,77.97,21.33,11.19,21.33
+"Chicot County, Arkansas",5017,73.35,14.66,6.35,14.66
+"Clark County, Arkansas",5019,75.9,14.65,4.6,14.65
+"Clay County, Arkansas",5021,74.77,17.6,7.57,17.6
+"Cleburne County, Arkansas",5023,77.43,19.99,7.22,19.99
+"Cleveland County, Arkansas",5025,76.09,16.68,3.52,16.68
+"Columbia County, Arkansas",5027,74.65,20.19,6.61,20.19
+"Conway County, Arkansas",5029,76.13,21.59,10.66,21.59
+"Craighead County, Arkansas",5031,76.04,17.06,8.93,17.06
+"Crawford County, Arkansas",5033,75.97,21.08,12.76,21.08
+"Crittenden County, Arkansas",5035,72.31,16.65,8.13,16.65
+"Cross County, Arkansas",5037,73.87,17.74,9.21,17.74
+"Dallas County, Arkansas",5039,74.44,16.76,4.16,16.76
+"Desha County, Arkansas",5041,73.83,15.59,5.75,15.59
+"Drew County, Arkansas",5043,75.69,16.36,6.62,16.36
+"Faulkner County, Arkansas",5045,77.23,16.71,7.16,16.71
+"Franklin County, Arkansas",5047,75.51,23.04,12.38,23.04
+"Fulton County, Arkansas",5049,76.31,25.98,13.18,25.98
+"Garland County, Arkansas",5051,75.66,33.78,12.02,33.78
+"Grant County, Arkansas",5053,75.93,19.6,5.9,19.6
+"Greene County, Arkansas",5055,75.06,24.46,11.33,24.46
+"Hempstead County, Arkansas",5057,75.08,15.58,5.68,15.58
+"Hot Spring County, Arkansas",5059,75.61,22.7,5.78,22.7
+"Howard County, Arkansas",5061,74.84,18.48,7.26,18.48
+"Independence County, Arkansas",5063,75.69,22.84,7.14,22.84
+"Izard County, Arkansas",5065,75.92,27.09,12.28,27.09
+"Jackson County, Arkansas",5067,73.76,20.38,9.67,20.38
+"Jefferson County, Arkansas",5069,74.18,14.84,4.82,14.84
+"Johnson County, Arkansas",5071,76.48,19.8,9.33,19.8
+"Lafayette County, Arkansas",5073,74.14,21.08,6.18,21.08
+"Lawrence County, Arkansas",5075,74.83,17.43,10.14,17.43
+"Lee County, Arkansas",5077,73.71,15.97,5.57,15.97
+"Lincoln County, Arkansas",5079,76.27,11.79,3.07,11.79
+"Little River County, Arkansas",5081,74.98,21.46,7.96,21.46
+"Logan County, Arkansas",5083,75.6,24.99,10.91,24.99
+"Lonoke County, Arkansas",5085,75.86,16.05,8.37,16.05
+"Madison County, Arkansas",5087,76.42,22.78,6.36,22.78
+"Marion County, Arkansas",5089,76.57,28.19,9.61,28.19
+"Miller County, Arkansas",5091,75.69,16.42,6.71,16.42
+"Mississippi County, Arkansas",5093,72.66,19.59,13.6,19.59
+"Monroe County, Arkansas",5095,73.72,17.24,5.02,17.24
+"Montgomery County, Arkansas",5097,77.1,23.47,6.62,23.47
+"Nevada County, Arkansas",5099,74.72,20.24,5.81,20.24
+"Newton County, Arkansas",5101,77.56,22.64,8.54,22.64
+"Ouachita County, Arkansas",5103,73.37,19.6,6.29,19.6
+"Perry County, Arkansas",5105,75.51,27.92,7.52,27.92
+"Phillips County, Arkansas",5107,71.28,16.34,6.47,16.34
+"Pike County, Arkansas",5109,75.73,18.11,5.51,18.11
+"Poinsett County, Arkansas",5111,72.14,23.6,12.95,23.6
+"Polk County, Arkansas",5113,75.6,22.38,9.19,22.38
+"Pope County, Arkansas",5115,76.81,17.04,9.66,17.04
+"Prairie County, Arkansas",5117,76.1,15.64,5.25,15.64
+"Pulaski County, Arkansas",5119,76.48,18.37,7.63,18.37
+"Randolph County, Arkansas",5121,76.05,19.98,10.47,19.98
+"Saint Francis County, Arkansas",5123,73.57,14.3,5.7,14.3
+"Saline County, Arkansas",5125,77.91,18.38,7.79,18.38
+"Scott County, Arkansas",5127,75.91,23.07,8.81,23.07
+"Searcy County, Arkansas",5129,76.28,26.03,7.85,26.03
+"Sebastian County, Arkansas",5131,76.19,19.15,11.35,19.15
+"Sevier County, Arkansas",5133,75.25,23.2,7.93,23.2
+"Sharp County, Arkansas",5135,75.4,25.66,11.85,25.66
+"Stone County, Arkansas",5137,76.64,24.79,7.9,24.79
+"Union County, Arkansas",5139,73.64,21.37,10.78,21.37
+"Van Buren County, Arkansas",5141,77.1,22.82,7.77,22.82
+"Washington County, Arkansas",5143,78.11,15.74,5.9,15.74
+"White County, Arkansas",5145,75.87,17.87,7.62,17.87
+"Woodruff County, Arkansas",5147,73.26,16.96,7.59,16.96
+"Yell County, Arkansas",5149,75.48,20.3,8.03,20.3
+California,6,80.82,10.85,8.76,10.85
+"Alameda County, California",6001,81.46,9.44,7.74,9.44
+"Alpine County, California",6003,79.06,24.17,8.8,24.17
+"Amador County, California",6005,79.8,22.54,16.67,22.54
+"Butte County, California",6007,78.24,18.88,23.95,18.88
+"Calaveras County, California",6009,79.84,26.41,8.48,26.41
+"Colusa County, California",6011,80.19,17.46,4.98,17.46
+"Contra Costa County, California",6013,81.39,9.75,8.87,9.75
+"Del Norte County, California",6015,76.38,25.23,12.79,25.23
+"El Dorado County, California",6017,81.06,17.89,15.69,17.89
+"Fresno County, California",6019,78.76,11.8,11.31,11.8
+"Glenn County, California",6021,78.29,15.53,16.7,15.53
+"Humboldt County, California",6023,77.21,25.37,25.4,25.37
+"Imperial County, California",6025,80.42,8.28,11.68,8.28
+"Inyo County, California",6027,78.83,19.03,10.89,19.03
+"Kern County, California",6029,77.26,14.23,18.26,14.23
+"Kings County, California",6031,79.21,9.71,9.07,9.71
+"Lake County, California",6033,75.8,28.48,31.67,28.48
+"Lassen County, California",6035,78.94,20.28,15.46,20.28
+"Los Angeles County, California",6037,81.36,7.99,5.78,7.99
+"Madera County, California",6039,79.35,12.94,11.65,12.94
+"Marin County, California",6041,83.8,15,4.97,15
+"Mariposa County, California",6043,80.1,20.44,12.65,20.44
+"Mendocino County, California",6045,78.54,23.85,16.03,23.85
+"Merced County, California",6047,78.92,11.01,8.89,11.01
+"Modoc County, California",6049,77.5,25.26,16.42,25.26
+"Mono County, California",6051,82.96,13.61,4.35,13.61
+"Monterey County, California",6053,81.85,10.7,8.19,10.7
+"Napa County, California",6055,80.49,11.15,7.52,11.15
+"Nevada County, California",6057,81.3,19.94,12.1,19.94
+"Orange County, California",6059,82.27,10.46,7.12,10.46
+"Placer County, California",6061,81.46,13.6,7.26,13.6
+"Plumas County, California",6063,78.33,23.93,20.87,23.93
+"Riverside County, California",6065,80.21,10.45,10.89,10.45
+"Sacramento County, California",6067,79.12,15.1,12.17,15.1
+"San Benito County, California",6069,81.77,8.12,6.79,8.12
+"San Bernardino County, California",6071,78.65,11.02,9.09,11.02
+"San Diego County, California",6073,81.43,12.66,8.94,12.66
+"San Francisco County, California",6075,81.97,10.73,16.37,10.73
+"San Joaquin County, California",6077,78.1,11.7,14.21,11.7
+"San Luis Obispo County, California",6079,81.37,15.15,8.71,15.15
+"San Mateo County, California",6081,83.11,7.97,5.71,7.97
+"Santa Barbara County, California",6083,81.65,11.29,9.37,11.29
+"Santa Clara County, California",6085,83.14,8.51,4.63,8.51
+"Santa Cruz County, California",6087,81.37,13.87,13.94,13.87
+"Shasta County, California",6089,76.68,25.27,19.77,25.27
+"Sierra County, California",6091,79.01,20.94,14.58,20.94
+"Siskiyou County, California",6093,77.66,26.94,13.85,26.94
+"Solano County, California",6095,79.65,13.1,9.3,13.1
+"Sonoma County, California",6097,81.09,14.5,10.14,14.5
+"Stanislaus County, California",6099,78.25,11.96,13.07,11.96
+"Sutter County, California",6101,78.99,17.85,8.38,17.85
+"Tehama County, California",6103,77.74,19.66,11.31,19.66
+"Trinity County, California",6105,77.28,30.79,15.6,30.79
+"Tulare County, California",6107,78.3,10.78,7.99,10.78
+"Tuolumne County, California",6109,79.28,20.09,19.7,20.09
+"Ventura County, California",6111,81.71,10.7,9.16,10.7
+"Yolo County, California",6113,80.55,10.54,8.33,10.54
+"Yuba County, California",6115,76.12,20.33,9.06,20.33
+Colorado,8,80.21,19.78,9.83,19.78
+"Adams County, Colorado",8001,80.02,18.58,10.62,18.58
+"Alamosa County, Colorado",8003,77.43,29.22,15.8,29.22
+"Arapahoe County, Colorado",8005,80.02,18.58,10.62,18.58
+"Archuleta County, Colorado",8007,82.08,23.83,6.17,23.83
+"Baca County, Colorado",8009,77.95,23.92,7.98,23.92
+"Bent County, Colorado",8011,76.78,21.19,12.15,21.19
+"Boulder County, Colorado",8013,80.02,18.58,10.62,18.58
+"Broomfield County, Colorado",8014,80.02,18.58,10.62,18.58
+"Chaffee County, Colorado",8015,81.22,22.57,9.98,22.57
+"Cheyenne County, Colorado",8017,79.56,16.1,4.95,16.1
+"Clear Creek County, Colorado",8019,81.63,22.37,8.85,22.37
+"Conejos County, Colorado",8021,78.11,25.03,15.13,25.03
+"Costilla County, Colorado",8023,77.72,31.56,16.66,31.56
+"Crowley County, Colorado",8025,77.94,16.14,7.99,16.14
+"Custer County, Colorado",8027,81.46,20.74,8.79,20.74
+"Delta County, Colorado",8029,78.85,24.61,10.51,24.61
+"Denver County, Colorado",8031,80.02,18.58,10.62,18.58
+"Dolores County, Colorado",8033,79.5,27.47,7.28,27.47
+"Douglas County, Colorado",8035,83.72,14.45,4.32,14.45
+"Eagle County, Colorado",8037,85.94,13.38,3.9,13.38
+"El Paso County, Colorado",8041,79.83,22.08,11.38,22.08
+"Elbert County, Colorado",8039,81.68,18.92,5.93,18.92
+"Fremont County, Colorado",8043,77.86,28.66,10.06,28.66
+"Garfield County, Colorado",8045,80.61,23.52,6.13,23.52
+"Gilpin County, Colorado",8047,80.79,25.9,8.44,25.9
+"Grand County, Colorado",8049,82.73,20.25,6.37,20.25
+"Gunnison County, Colorado",8051,81.94,16.09,5.12,16.09
+"Hinsdale County, Colorado",8053,83.66,18.82,3.49,18.82
+"Huerfano County, Colorado",8055,77.41,31.98,18.25,31.98
+"Jackson County, Colorado",8057,80.54,23.25,9.21,23.25
+"Jefferson County, Colorado",8059,80.02,18.58,10.62,18.58
+"Kiowa County, Colorado",8061,78.65,16.87,5.59,16.87
+"Kit Carson County, Colorado",8063,79.52,19.26,5.7,19.26
+"La Plata County, Colorado",8067,81.57,19.46,5.49,19.46
+"Lake County, Colorado",8065,80.11,21.49,8.63,21.49
+"Larimer County, Colorado",8069,81.72,19.67,8.36,19.67
+"Las Animas County, Colorado",8071,77.65,26.72,16.8,26.72
+"Lincoln County, Colorado",8073,79.69,17.61,6.63,17.61
+"Logan County, Colorado",8075,79.5,16.57,7.79,16.57
+"Mesa County, Colorado",8077,78.77,27.19,9.05,27.19
+"Mineral County, Colorado",8079,81.25,23.87,4.6,23.87
+"Moffat County, Colorado",8081,78.46,29.35,6.79,29.35
+"Montezuma County, Colorado",8083,77.64,31.62,6.08,31.62
+"Montrose County, Colorado",8085,79.59,23.95,8.03,23.95
+"Morgan County, Colorado",8087,79.14,17.45,7.22,17.45
+"Otero County, Colorado",8089,76.44,21.25,15.71,21.25
+"Ouray County, Colorado",8091,83,18.84,5.35,18.84
+"Park County, Colorado",8093,82.37,25.12,6.18,25.12
+"Phillips County, Colorado",8095,80.42,15.58,6.4,15.58
+"Pitkin County, Colorado",8097,86.52,19.26,5.22,19.26
+"Prowers County, Colorado",8099,77.69,17.96,8.24,17.96
+"Pueblo County, Colorado",8101,77.5,27.57,15.65,27.57
+"Rio Blanco County, Colorado",8103,79.25,28.26,6.26,28.26
+"Rio Grande County, Colorado",8105,77.71,22.72,11.86,22.72
+"Routt County, Colorado",8107,82.73,20.48,6.09,20.48
+"Saguache County, Colorado",8109,79.75,26.59,6.76,26.59
+"San Juan County, Colorado",8111,79.89,27.27,6.33,27.27
+"San Miguel County, Colorado",8113,83.73,14.31,4.35,14.31
+"Sedgwick County, Colorado",8115,78.22,24.47,6.87,24.47
+"Summit County, Colorado",8117,86.83,14.34,5.05,14.34
+"Teller County, Colorado",8119,80.76,29.88,8.54,29.88
+"Washington County, Colorado",8121,80.28,13.72,4.82,13.72
+"Weld County, Colorado",8123,80.02,18.58,10.62,18.58
+"Yuma County, Colorado",8125,79.43,15.16,3.67,15.16
+Connecticut,9,80.56,10.19,11.48,10.19
+"Fairfield County, Connecticut",9001,81.8,8.26,8.23,8.26
+"Hartford County, Connecticut",9003,80.08,10.1,13.02,10.1
+"Litchfield County, Connecticut",9005,80.74,12.77,13.35,12.77
+"Middlesex County, Connecticut",9007,81.02,10.83,11.61,10.83
+"New Haven County, Connecticut",9009,79.81,10.6,13.12,10.6
+"New London County, Connecticut",9011,80.18,12.13,12.27,12.13
+"Tolland County, Connecticut",9013,81.64,10.6,8.15,10.6
+"Windham County, Connecticut",9015,79,13.63,13.51,13.63
+Delaware,10,78.72,14.13,12.82,14.13
+"Kent County, Delaware",10001,77.54,15.96,13.14,15.96
+"New Castle County, Delaware",10003,78.99,12.94,13.14,12.94
+"Sussex County, Delaware",10005,78.76,16.13,11.62,16.13
+"District of Columbia",11,76.86,9,12.75,9
+"District of Columbia, District of Columbia",11001,76.86,9,12.75,9
+Florida,12,79.48,15.13,10.64,15.13
+"Alachua County, Florida",12001,78.64,15.7,6.94,15.7
+"Baker County, Florida",12003,75.25,17.38,11.54,17.38
+"Bay County, Florida",12005,76.52,21.88,12.45,21.88
+"Bradford County, Florida",12007,76.07,21.41,11.83,21.41
+"Brevard County, Florida",12009,78.52,20.26,15.78,20.26
+"Broward County, Florida",12011,80.25,12.49,9.37,12.49
+"Calhoun County, Florida",12013,75.97,15.47,7.28,15.47
+"Charlotte County, Florida",12015,80.6,18.19,15.09,18.19
+"Citrus County, Florida",12017,76.73,24.99,20.56,24.99
+"Clay County, Florida",12019,78.18,17.44,10.79,17.44
+"Collier County, Florida",12021,83.43,12.37,11.39,12.37
+"Columbia County, Florida",12023,75.15,18.21,14.65,18.21
+"DeSoto County, Florida",12027,79.71,16.54,7.6,16.54
+"Dixie County, Florida",12029,74.79,26.53,14.85,26.53
+"Duval County, Florida",12031,76.74,15.47,12.54,15.47
+"Escambia County, Florida",12033,76.33,18.19,11.74,18.19
+"Flagler County, Florida",12035,79.67,17.39,11.13,17.39
+"Franklin County, Florida",12037,76.5,15,15.18,15
+"Gadsden County, Florida",12039,74.87,14.44,5.4,14.44
+"Gilchrist County, Florida",12041,76.8,22.99,8.1,22.99
+"Glades County, Florida",12043,79.75,17.32,11.18,17.32
+"Gulf County, Florida",12045,76.4,17.23,10.4,17.23
+"Hamilton County, Florida",12047,75.92,13.93,8.12,13.93
+"Hardee County, Florida",12049,78.51,14.17,7.73,14.17
+"Hendry County, Florida",12051,77.29,13.38,11.4,13.38
+"Hernando County, Florida",12053,77.6,20.48,18.76,20.48
+"Highlands County, Florida",12055,79.07,19.58,13.68,19.58
+"Hillsborough County, Florida",12057,78.55,14.42,9.93,14.42
+"Holmes County, Florida",12059,74.74,20.57,12.86,20.57
+"Indian River County, Florida",12061,79.96,17.4,16.17,17.4
+"Jackson County, Florida",12063,76.17,16.04,6.21,16.04
+"Jefferson County, Florida",12065,76.72,12.24,7.17,12.24
+"Lafayette County, Florida",12067,77.05,15.43,10.15,15.43
+"Lake County, Florida",12069,79.03,16.89,9.67,16.89
+"Lee County, Florida",12071,80.98,18.73,11.86,18.73
+"Leon County, Florida",12073,79.35,12.26,5.1,12.26
+"Levy County, Florida",12075,75.43,25.42,12.66,25.42
+"Liberty County, Florida",12077,76.13,12.5,5.07,12.5
+"Madison County, Florida",12079,75.35,14.24,5.93,14.24
+"Manatee County, Florida",12081,80.36,17.13,17.89,17.13
+"Marion County, Florida",12083,77.45,20.27,13.66,20.27
+"Martin County, Florida",12085,81.16,17.22,13.66,17.22
+"Miami-Dade County, Florida",12086,80.9,9.51,4.61,9.51
+"Monroe County, Florida",12087,78.85,22.78,15.2,22.78
+"Nassau County, Florida",12089,77.83,18.63,14.69,18.63
+"Okaloosa County, Florida",12091,78.38,17.79,9.29,17.79
+"Okeechobee County, Florida",12093,76.09,19.6,21.21,19.6
+"Orange County, Florida",12095,79.86,11.45,9.16,11.45
+"Osceola County, Florida",12097,79.24,12.37,8.48,12.37
+"Palm Beach County, Florida",12099,81.24,15.63,12.6,15.63
+"Pasco County, Florida",12101,77.7,21.78,18.98,21.78
+"Pinellas County, Florida",12103,78.89,19.51,14.68,19.51
+"Polk County, Florida",12105,77.96,14.32,11.8,14.32
+"Putnam County, Florida",12107,74.85,22.96,15.41,22.96
+"Saint Johns County, Florida",12109,80.69,17.3,7.77,17.3
+"Saint Lucie County, Florida",12111,79.12,16.79,13.89,16.79
+"Santa Rosa County, Florida",12113,78.2,19.04,10.08,19.04
+"Sarasota County, Florida",12115,81.51,17.32,14.26,17.32
+"Seminole County, Florida",12117,80.39,12.82,10.08,12.82
+"Sumter County, Florida",12119,81.74,14.73,8.85,14.73
+"Suwannee County, Florida",12121,75.41,18.63,11.56,18.63
+"Taylor County, Florida",12123,75.73,18.63,8.69,18.63
+"Union County, Florida",12125,67.57,20.95,8.46,20.95
+"Volusia County, Florida",12127,77.49,20.79,13.95,20.79
+"Wakulla County, Florida",12129,76.41,17.23,8.85,17.23
+"Walton County, Florida",12131,77.25,20.03,11.71,20.03
+"Washington County, Florida",12133,74.85,21.37,11.19,21.37
+Georgia,13,77.38,13.32,9.4,13.32
+"Appling County, Georgia",13001,74.29,15.95,10.99,15.95
+"Atkinson County, Georgia",13003,73.92,13.79,11.96,13.79
+"Bacon County, Georgia",13005,72.91,18.79,14.89,18.79
+"Baker County, Georgia",13007,77.97,11.81,3.36,11.81
+"Baldwin County, Georgia",13009,76.09,12.86,7.52,12.86
+"Banks County, Georgia",13011,77.4,18.43,13.79,18.43
+"Barrow County, Georgia",13013,76.4,17.35,13.1,17.35
+"Bartow County, Georgia",13015,76.13,17.48,13.52,17.48
+"Ben Hill County, Georgia",13017,73.59,14.05,7.19,14.05
+"Berrien County, Georgia",13019,75.18,15.74,5.69,15.74
+"Bibb County, Georgia",13021,73.78,14.52,9.6,14.52
+"Bleckley County, Georgia",13023,75.79,19.3,9.8,19.3
+"Brantley County, Georgia",13025,74.81,15.04,16.6,15.04
+"Brooks County, Georgia",13027,75.59,16.43,5.89,16.43
+"Bryan County, Georgia",13029,75.94,15.18,6.59,15.18
+"Bulloch County, Georgia",13031,77.07,12.93,6.31,12.93
+"Burke County, Georgia",13033,73.27,16.15,8.66,16.15
+"Butts County, Georgia",13035,74.04,18.48,14.97,18.48
+"Calhoun County, Georgia",13037,73.95,11.32,5.49,11.32
+"Camden County, Georgia",13039,77.68,14.99,7.65,14.99
+"Candler County, Georgia",13043,74.37,15.17,14.32,15.17
+"Carroll County, Georgia",13045,75.22,17.5,16.74,17.5
+"Catoosa County, Georgia",13047,78.1,13.7,15.02,13.7
+"Charlton County, Georgia",13049,75.38,13.95,10.11,13.95
+"Chatham County, Georgia",13051,77.04,14.4,8.07,14.4
+"Chattahoochee County, Georgia",13053,77.13,9.48,4.44,9.48
+"Chattooga County, Georgia",13055,74.52,16.02,16.07,16.02
+"Cherokee County, Georgia",13057,79.93,12.9,9.79,12.9
+"Clarke County, Georgia",13059,78.35,13.18,7.64,13.18
+"Clay County, Georgia",13061,74.45,17.11,8.6,17.11
+"Clayton County, Georgia",13063,77.22,9.76,6.99,9.76
+"Clinch County, Georgia",13065,73.14,14.1,8.67,14.1
+"Cobb County, Georgia",13067,80.08,11.44,9.68,11.44
+"Coffee County, Georgia",13069,74.89,14.34,11.97,14.34
+"Colquitt County, Georgia",13071,74.78,16.16,8.43,16.16
+"Columbia County, Georgia",13073,79.76,12.47,6.67,12.47
+"Cook County, Georgia",13075,74.22,15.89,8.3,15.89
+"Coweta County, Georgia",13077,78.17,13.02,8.29,13.02
+"Crawford County, Georgia",13079,76.63,14.63,8.35,14.63
+"Crisp County, Georgia",13081,74.87,14.58,7.35,14.58
+"Dade County, Georgia",13083,75.58,19.54,10.57,19.54
+"Dawson County, Georgia",13085,78.26,16.69,11.96,16.69
+"DeKalb County, Georgia",13089,79.14,9.87,6.54,9.87
+"Decatur County, Georgia",13087,74.46,15.52,5.56,15.52
+"Dodge County, Georgia",13091,74.99,14.03,10.15,14.03
+"Dooly County, Georgia",13093,77.16,14.15,4.46,14.15
+"Dougherty County, Georgia",13095,75.19,11.81,7.45,11.81
+"Douglas County, Georgia",13097,77.06,12.81,10.04,12.81
+"Early County, Georgia",13099,73.76,15.35,6.7,15.35
+"Echols County, Georgia",13101,77.31,11.08,6.29,11.08
+"Effingham County, Georgia",13103,76.74,13.55,7.47,13.55
+"Elbert County, Georgia",13105,74.78,18.21,17.11,18.21
+"Emanuel County, Georgia",13107,73.37,16.11,9.72,16.11
+"Evans County, Georgia",13109,74.74,16.75,9.45,16.75
+"Fannin County, Georgia",13111,76.94,21.68,23.37,21.68
+"Fayette County, Georgia",13113,81.22,9.76,7.36,9.76
+"Floyd County, Georgia",13115,75.8,16.99,13.55,16.99
+"Forsyth County, Georgia",13117,81.28,12.28,8.08,12.28
+"Franklin County, Georgia",13119,74.79,21.89,21.33,21.89
+"Fulton County, Georgia",13121,77.65,11.74,11.01,11.74
+"Gilmer County, Georgia",13123,78.32,18.64,15.72,18.64
+"Glascock County, Georgia",13125,74.14,16.24,8.69,16.24
+"Glynn County, Georgia",13127,76.9,14.81,13.98,14.81
+"Gordon County, Georgia",13129,75.73,15,13.69,15
+"Grady County, Georgia",13131,75.54,14.64,5.84,14.64
+"Greene County, Georgia",13133,76.81,13.51,8.33,13.51
+"Gwinnett County, Georgia",13135,80.58,11.01,4.91,11.01
+"Habersham County, Georgia",13137,78.3,13.46,10.61,13.46
+"Hall County, Georgia",13139,78.57,15.37,10.24,15.37
+"Hancock County, Georgia",13141,75.28,14.55,6.15,14.55
+"Haralson County, Georgia",13143,73.75,24.77,26.04,24.77
+"Harris County, Georgia",13145,78.87,14.2,7.03,14.2
+"Hart County, Georgia",13147,77.02,17.9,14.29,17.9
+"Heard County, Georgia",13149,74.81,21.89,15.72,21.89
+"Henry County, Georgia",13151,77.5,13.7,9.41,13.7
+"Houston County, Georgia",13153,77.82,15.16,4.48,15.16
+"Irwin County, Georgia",13155,75.45,15.7,6.42,15.7
+"Jackson County, Georgia",13157,75.71,16.89,15.54,16.89
+"Jasper County, Georgia",13159,75.96,16.31,10.42,16.31
+"Jeff Davis County, Georgia",13161,73.49,16.36,19.42,16.36
+"Jefferson County, Georgia",13163,73.05,15.27,9.9,15.27
+"Jenkins County, Georgia",13165,74,12.57,7.72,12.57
+"Johnson County, Georgia",13167,75.89,14.28,9,14.28
+"Jones County, Georgia",13169,77.92,14.61,9.76,14.61
+"Lamar County, Georgia",13171,74.4,16.74,14.4,16.74
+"Lanier County, Georgia",13173,75.4,10.95,6.67,10.95
+"Laurens County, Georgia",13175,75.06,14.71,12.27,14.71
+"Lee County, Georgia",13177,77.62,13.31,5.8,13.31
+"Liberty County, Georgia",13179,76.8,13.99,6.54,13.99
+"Lincoln County, Georgia",13181,75.83,16.4,9.57,16.4
+"Long County, Georgia",13183,77.1,13.04,8.32,13.04
+"Lowndes County, Georgia",13185,76.04,14.42,5.43,14.42
+"Lumpkin County, Georgia",13187,77.59,17.24,12.32,17.24
+"Macon County, Georgia",13193,73.79,14.73,6.26,14.73
+"Madison County, Georgia",13195,75.42,16.05,20.03,16.05
+"Marion County, Georgia",13197,75.69,13.33,5.63,13.33
+"McDuffie County, Georgia",13189,73.76,19.23,9.41,19.23
+"McIntosh County, Georgia",13191,78.08,13.51,11.41,13.51
+"Meriwether County, Georgia",13199,74.87,15.85,12.71,15.85
+"Miller County, Georgia",13201,75.41,14.57,8.11,14.57
+"Mitchell County, Georgia",13205,75.1,13.34,6.66,13.34
+"Monroe County, Georgia",13207,77.13,14.34,8.88,14.34
+"Montgomery County, Georgia",13209,75.87,15.06,7.28,15.06
+"Morgan County, Georgia",13211,77.33,12.96,11.76,12.96
+"Murray County, Georgia",13213,74.91,14.99,21.32,14.99
+"Muscogee County, Georgia",13215,75.13,13.99,8.61,13.99
+"Newton County, Georgia",13217,76.05,14.57,9.5,14.57
+"Oconee County, Georgia",13219,80.43,11.6,6.35,11.6
+"Oglethorpe County, Georgia",13221,77.93,15.79,10.24,15.79
+"Paulding County, Georgia",13223,78.27,15.31,12.91,15.31
+"Peach County, Georgia",13225,73.82,17.54,9.43,17.54
+"Pickens County, Georgia",13227,77.37,20,12.53,20
+"Pierce County, Georgia",13229,74.67,16.37,13.7,16.37
+"Pike County, Georgia",13231,75.85,15.85,7.87,15.85
+"Polk County, Georgia",13233,73.53,20.34,18.82,20.34
+"Pulaski County, Georgia",13235,76.85,15.51,6.24,15.51
+"Putnam County, Georgia",13237,77.12,16.67,10.22,16.67
+"Quitman County, Georgia",13239,75.81,14.53,8.54,14.53
+"Rabun County, Georgia",13241,77.48,22.05,19.85,22.05
+"Randolph County, Georgia",13243,74.9,13.82,6.14,13.82
+"Richmond County, Georgia",13245,74.07,15.82,10.71,15.82
+"Rockdale County, Georgia",13247,78.22,11.11,9.63,11.11
+"Schley County, Georgia",13249,76.26,14.34,5.21,14.34
+"Screven County, Georgia",13251,74.32,11.79,7.21,11.79
+"Seminole County, Georgia",13253,74.91,16.81,7.09,16.81
+"Spalding County, Georgia",13255,74.62,16.36,13.34,16.36
+"Stephens County, Georgia",13257,74.51,18.13,21.31,18.13
+"Stewart County, Georgia",13259,74.36,11.65,6.34,11.65
+"Sumter County, Georgia",13261,74.95,11.37,5.82,11.37
+"Talbot County, Georgia",13263,74.41,15.54,8.79,15.54
+"Taliaferro County, Georgia",13265,75.44,17,9.03,17
+"Tattnall County, Georgia",13267,74.93,15.51,10.61,15.51
+"Taylor County, Georgia",13269,74.58,15.13,7.7,15.13
+"Telfair County, Georgia",13271,76.02,12.58,7.36,12.58
+"Terrell County, Georgia",13273,73.99,12.16,4.78,12.16
+"Thomas County, Georgia",13275,75.52,14.89,6.51,14.89
+"Tift County, Georgia",13277,75.36,14.36,4.79,14.36
+"Toombs County, Georgia",13279,74.15,16.09,10.24,16.09
+"Towns County, Georgia",13281,78.24,21.62,20.64,21.62
+"Treutlen County, Georgia",13283,75.09,15.2,6.57,15.2
+"Troup County, Georgia",13285,75.14,15.36,12.56,15.36
+"Turner County, Georgia",13287,74.14,15.17,6.68,15.17
+"Twiggs County, Georgia",13289,74.66,18.57,9.84,18.57
+"Union County, Georgia",13291,78.44,20.29,12.91,20.29
+"Upson County, Georgia",13293,73.71,15.06,11.87,15.06
+"Walker County, Georgia",13295,74.85,14.57,15.13,14.57
+"Walton County, Georgia",13297,76.6,15.64,12.11,15.64
+"Ware County, Georgia",13299,74.22,15.03,18.71,15.03
+"Warren County, Georgia",13301,74.26,15.4,10.78,15.4
+"Washington County, Georgia",13303,75.1,13.14,8.44,13.14
+"Wayne County, Georgia",13305,74.93,15.34,16.94,15.34
+"Webster County, Georgia",13307,77.87,11.46,4.58,11.46
+"Wheeler County, Georgia",13309,76.49,12.69,6.69,12.69
+"White County, Georgia",13311,78.14,18.02,17.83,18.02
+"Whitfield County, Georgia",13313,77.06,12.33,11.43,12.33
+"Wilcox County, Georgia",13315,75.03,14.06,6.41,14.06
+"Wilkes County, Georgia",13317,74.85,17.14,9.62,17.14
+"Wilkinson County, Georgia",13319,74.74,17.71,11.58,17.71
+"Worth County, Georgia",13321,76.49,14.53,5.33,14.53
+Hawaii,15,81.15,15.03,8.15,15.03
+"Hawaii County, Hawaii",15001,80.15,22.67,6.92,22.67
+"Honolulu County, Hawaii",15003,81.37,12.46,8.81,12.46
+"Kalawao County, Hawaii",15005,80.99,20.38,7.11,20.38
+"Kauai County, Hawaii",15007,81.07,18.08,5.83,18.08
+"Maui County, Hawaii",15009,80.99,20.38,7.11,20.38
+Idaho,16,79.49,20.09,7.84,20.09
+"Ada County, Idaho",16001,80.75,16.8,8.17,16.8
+"Adams County, Idaho",16003,80.6,19.5,7.29,19.5
+"Bannock County, Idaho",16005,77.86,30.43,7.05,30.43
+"Bear Lake County, Idaho",16007,78.65,28.09,9.8,28.09
+"Benewah County, Idaho",16009,76.77,22.36,9.99,22.36
+"Bingham County, Idaho",16011,78.65,21.7,9.73,21.7
+"Blaine County, Idaho",16013,82.99,20.49,3.63,20.49
+"Boise County, Idaho",16015,81.05,22.91,5.56,22.91
+"Bonner County, Idaho",16017,79.37,23.12,6.22,23.12
+"Bonneville County, Idaho",16019,79,20.29,15.14,20.29
+"Boundary County, Idaho",16021,78.19,27.09,11.05,27.09
+"Butte County, Idaho",16023,78.74,25.21,5.91,25.21
+"Camas County, Idaho",16025,80.89,20.29,3.78,20.29
+"Canyon County, Idaho",16027,79.05,18.11,6.99,18.11
+"Caribou County, Idaho",16029,78.79,26.98,7.1,26.98
+"Cassia County, Idaho",16031,78.78,20.46,7.05,20.46
+"Clark County, Idaho",16033,78.28,32.84,3.99,32.84
+"Clearwater County, Idaho",16035,78.63,22.99,8.63,22.99
+"Custer County, Idaho",16037,80.4,29.04,6.45,29.04
+"Elmore County, Idaho",16039,78.46,20.48,5.47,20.48
+"Franklin County, Idaho",16041,80.28,20.54,7.3,20.54
+"Fremont County, Idaho",16043,80.08,17.68,5.1,17.68
+"Gem County, Idaho",16045,78.47,19.06,10.03,19.06
+"Gooding County, Idaho",16047,78.13,19.95,4.54,19.95
+"Idaho County, Idaho",16049,79.57,21.03,5.98,21.03
+"Jefferson County, Idaho",16051,80.18,20.8,5.36,20.8
+"Jerome County, Idaho",16053,78.26,22.53,5.52,22.53
+"Kootenai County, Idaho",16055,79.51,20.8,7.34,20.8
+"Latah County, Idaho",16057,81.01,15,5.5,15
+"Lemhi County, Idaho",16059,79.39,29.08,7.09,29.08
+"Lewis County, Idaho",16061,78.63,24.15,7.34,24.15
+"Lincoln County, Idaho",16063,78.4,21.48,4.91,21.48
+"Madison County, Idaho",16065,81.09,8.68,5.05,8.68
+"Minidoka County, Idaho",16067,78.61,21.03,5.74,21.03
+"Nez Perce County, Idaho",16069,78.23,26.43,9.77,26.43
+"Oneida County, Idaho",16071,80.21,22.63,5.93,22.63
+"Owyhee County, Idaho",16073,78.7,19.72,8.15,19.72
+"Payette County, Idaho",16075,78.51,20.5,7.96,20.5
+"Power County, Idaho",16077,78.37,19.8,6.27,19.8
+"Shoshone County, Idaho",16079,75.9,32.28,13.97,32.28
+"Teton County, Idaho",16081,82.11,17.82,6.27,17.82
+"Twin Falls County, Idaho",16083,78.04,24.23,6.77,24.23
+"Valley County, Idaho",16085,81.84,18.65,6.21,18.65
+"Washington County, Idaho",16087,78.71,17.49,7.47,17.49
+Illinois,17,79.02,10.46,9.34,10.46
+"Adams County, Illinois",17001,78.7,12.62,8.52,12.62
+"Alexander County, Illinois",17003,74.15,17.34,8.33,17.34
+"Bond County, Illinois",17005,78.87,11.43,4.92,11.43
+"Boone County, Illinois",17007,79.75,10.1,8.28,10.1
+"Brown County, Illinois",17009,79.09,12.13,4.18,12.13
+"Bureau County, Illinois",17011,79.49,13.73,9.38,13.73
+"Calhoun County, Illinois",17013,78.93,12.78,8.73,12.78
+"Carroll County, Illinois",17015,79.06,14.54,5.21,14.54
+"Cass County, Illinois",17017,77.23,12.92,7.96,12.92
+"Champaign County, Illinois",17019,80.25,9.89,8.73,9.89
+"Christian County, Illinois",17021,77.92,16.18,8.63,16.18
+"Clark County, Illinois",17023,77.36,17.9,8.87,17.9
+"Clay County, Illinois",17025,77.51,16.33,6.62,16.33
+"Clinton County, Illinois",17027,79.62,10.99,5.21,10.99
+"Coles County, Illinois",17029,78.42,12.04,7.08,12.04
+"Cook County, Illinois",17031,78.67,8.9,9.59,8.9
+"Crawford County, Illinois",17033,77.78,13.54,7.69,13.54
+"Cumberland County, Illinois",17035,78.8,14.62,4.78,14.62
+"De Witt County, Illinois",17039,78.05,13.5,9.3,13.5
+"DeKalb County, Illinois",17037,79.89,9.07,6.22,9.07
+"Douglas County, Illinois",17041,78.85,10.77,5.8,10.77
+"DuPage County, Illinois",17043,81.87,8.09,6.76,8.09
+"Edgar County, Illinois",17045,77.33,16.27,6.93,16.27
+"Edwards County, Illinois",17047,77.46,18.63,8.64,18.63
+"Effingham County, Illinois",17049,79.01,11.12,5.42,11.12
+"Fayette County, Illinois",17051,78.76,15.02,5.39,15.02
+"Ford County, Illinois",17053,77.37,12.34,8.55,12.34
+"Franklin County, Illinois",17055,75.28,20.05,17.21,20.05
+"Fulton County, Illinois",17057,77.84,15.72,7,15.72
+"Gallatin County, Illinois",17059,75.16,17.46,15.28,17.46
+"Greene County, Illinois",17061,77.58,15.53,8.25,15.53
+"Grundy County, Illinois",17063,78.53,12.32,10.46,12.32
+"Hamilton County, Illinois",17065,77.7,14.1,6.68,14.1
+"Hancock County, Illinois",17067,79.81,11.56,4.8,11.56
+"Hardin County, Illinois",17069,75.21,19.01,15.36,19.01
+"Henderson County, Illinois",17071,78.65,14.97,4.65,14.97
+"Henry County, Illinois",17073,79.4,12.78,5,12.78
+"Iroquois County, Illinois",17075,77.56,17.86,9.08,17.86
+"Jackson County, Illinois",17077,78.35,12.92,9.34,12.92
+"Jasper County, Illinois",17079,79.11,14.04,5.11,14.04
+"Jefferson County, Illinois",17081,77.21,15.89,8.68,15.89
+"Jersey County, Illinois",17083,78.17,12.47,11.95,12.47
+"Jo Daviess County, Illinois",17085,80.86,13.32,5.32,13.32
+"Johnson County, Illinois",17087,78.09,13.3,9.41,13.3
+"Kane County, Illinois",17089,80.92,8.85,6.04,8.85
+"Kankakee County, Illinois",17091,77.03,12.98,11.41,12.98
+"Kendall County, Illinois",17093,81.17,10,6.58,10
+"Knox County, Illinois",17095,77.75,15.42,10.92,15.42
+"LaSalle County, Illinois",17099,77.9,13.68,14.74,13.68
+"Lake County, Illinois",17097,81.04,9.83,8,9.83
+"Lawrence County, Illinois",17101,76.09,17.81,11.87,17.81
+"Lee County, Illinois",17103,78.23,14.77,11.83,14.77
+"Livingston County, Illinois",17105,77.98,15.1,8.76,15.1
+"Logan County, Illinois",17107,78.52,11.68,7.26,11.68
+"Macon County, Illinois",17115,77.7,13.76,8.59,13.76
+"Macoupin County, Illinois",17117,78.02,13.77,8.04,13.77
+"Madison County, Illinois",17119,77.16,14.4,17.97,14.4
+"Marion County, Illinois",17121,76.66,19.7,12.57,19.7
+"Marshall County, Illinois",17123,78.04,13.02,8.24,13.02
+"Mason County, Illinois",17125,77.27,17.6,7.82,17.6
+"Massac County, Illinois",17127,75.88,20.97,15.94,20.97
+"McDonough County, Illinois",17109,79.6,10.95,4.2,10.95
+"McHenry County, Illinois",17111,80.15,10.81,7.44,10.81
+"McLean County, Illinois",17113,80.09,10.45,7.9,10.45
+"Menard County, Illinois",17129,78.66,10.93,7.23,10.93
+"Mercer County, Illinois",17131,79.51,12.95,4.43,12.95
+"Monroe County, Illinois",17133,80.48,12.1,7.31,12.1
+"Montgomery County, Illinois",17135,77.84,16.18,9.25,16.18
+"Morgan County, Illinois",17137,78.36,13.07,8.49,13.07
+"Moultrie County, Illinois",17139,78.19,13.15,4.78,13.15
+"Ogle County, Illinois",17141,79.64,13.49,7.71,13.49
+"Peoria County, Illinois",17143,78.22,12.66,11.46,12.66
+"Perry County, Illinois",17145,77.53,14.57,9.36,14.57
+"Piatt County, Illinois",17147,79.4,11.15,6.21,11.15
+"Pike County, Illinois",17149,78.53,12.49,7.43,12.49
+"Pope County, Illinois",17151,77.98,16.12,10.3,16.12
+"Pulaski County, Illinois",17153,74.72,19.41,9.3,19.41
+"Putnam County, Illinois",17155,79.78,14.84,6.45,14.84
+"Randolph County, Illinois",17157,77.68,15.3,11.19,15.3
+"Richland County, Illinois",17159,78.09,16.99,7.5,16.99
+"Rock Island County, Illinois",17161,78.76,13.96,7.31,13.96
+"Saint Clair County, Illinois",17163,76.67,13.21,12.3,13.21
+"Saline County, Illinois",17165,74.9,18.05,19.28,18.05
+"Sangamon County, Illinois",17167,78.33,13,12.24,13
+"Schuyler County, Illinois",17169,78.82,13.78,5.36,13.78
+"Scott County, Illinois",17171,78.78,11.38,8.69,11.38
+"Shelby County, Illinois",17173,79.85,12.48,5.55,12.48
+"Stark County, Illinois",17175,78.31,16.22,6.29,16.22
+"Stephenson County, Illinois",17177,79.68,12.53,7,12.53
+"Tazewell County, Illinois",17179,78.69,12.64,10.2,12.64
+"Union County, Illinois",17181,76.4,17.18,9.19,17.18
+"Vermilion County, Illinois",17183,76.19,15.23,14.33,15.23
+"Wabash County, Illinois",17185,78.37,12.86,7.19,12.86
+"Warren County, Illinois",17187,78.39,13.92,4.79,13.92
+"Washington County, Illinois",17189,79.07,12.5,5.9,12.5
+"Wayne County, Illinois",17191,77.79,16.86,5.43,16.86
+"White County, Illinois",17193,76.88,17.27,10.47,17.27
+"Whiteside County, Illinois",17195,78.92,14.93,7.8,14.93
+"Will County, Illinois",17197,79.94,9.2,8.84,9.2
+"Williamson County, Illinois",17199,76.94,18.91,14.09,18.91
+"Winnebago County, Illinois",17201,77.95,13.23,18.34,13.23
+"Woodford County, Illinois",17203,80.3,11.76,6.54,11.76
+Indiana,18,77.69,15.76,11.76,15.76
+"Adams County, Indiana",18001,79.72,10.69,6.9,10.69
+"Allen County, Indiana",18003,78.31,13.58,9.56,13.58
+"Bartholomew County, Indiana",18005,77.8,15.43,12.43,15.43
+"Benton County, Indiana",18007,78.41,14.71,9.96,14.71
+"Blackford County, Indiana",18009,76.81,15.93,17.92,15.93
+"Boone County, Indiana",18011,78.87,15.36,8.63,15.36
+"Brown County, Indiana",18013,79.4,16.85,9.66,16.85
+"Carroll County, Indiana",18015,79.8,14.75,6.01,14.75
+"Cass County, Indiana",18017,77.62,15.54,6.04,15.54
+"Clark County, Indiana",18019,76.3,18.26,18.85,18.26
+"Clay County, Indiana",18021,76.66,17.56,9.63,17.56
+"Clinton County, Indiana",18023,77.88,16.16,12.59,16.16
+"Crawford County, Indiana",18025,76.1,19.87,14.36,19.87
+"Daviess County, Indiana",18027,77.17,12.98,9.62,12.98
+"DeKalb County, Indiana",18033,77.83,15.98,8.52,15.98
+"Dearborn County, Indiana",18029,78.37,14.62,15.15,14.62
+"Decatur County, Indiana",18031,78.07,18.15,7.65,18.15
+"Delaware County, Indiana",18035,76.98,15.7,17.38,15.7
+"Dubois County, Indiana",18037,78.93,15.62,6.36,15.62
+"Elkhart County, Indiana",18039,78.78,11.18,8.1,11.18
+"Fayette County, Indiana",18041,75.84,20.8,26.91,20.8
+"Floyd County, Indiana",18043,77.17,15.37,15.88,15.37
+"Fountain County, Indiana",18045,77.25,17.29,8.68,17.29
+"Franklin County, Indiana",18047,78.95,14.36,12.83,14.36
+"Fulton County, Indiana",18049,76.9,17.71,9.93,17.71
+"Gibson County, Indiana",18051,78.06,18.12,7.2,18.12
+"Grant County, Indiana",18053,76.47,16.34,17.01,16.34
+"Greene County, Indiana",18055,76.76,18.55,14.17,18.55
+"Hamilton County, Indiana",18057,81.78,10.44,4.96,10.44
+"Hancock County, Indiana",18059,78.99,15.03,11.59,15.03
+"Harrison County, Indiana",18061,78.08,15.64,10.26,15.64
+"Hendricks County, Indiana",18063,79.97,16.15,4.35,16.15
+"Henry County, Indiana",18065,76.93,20.28,21.85,20.28
+"Howard County, Indiana",18067,77.2,22.52,9.16,22.52
+"Huntington County, Indiana",18069,78.18,11.66,12.32,11.66
+"Jackson County, Indiana",18071,76.41,15.62,16.15,15.62
+"Jasper County, Indiana",18073,78.01,13.84,9.54,13.84
+"Jay County, Indiana",18075,77.25,15.41,12.83,15.41
+"Jefferson County, Indiana",18077,76.18,17.58,12.53,17.58
+"Jennings County, Indiana",18079,75.53,22.6,16.13,22.6
+"Johnson County, Indiana",18081,78.57,17.2,5.39,17.2
+"Knox County, Indiana",18083,76.17,19.17,9.1,19.17
+"Kosciusko County, Indiana",18085,78.52,13.03,8.81,13.03
+"LaGrange County, Indiana",18087,79.74,9.83,5.05,9.83
+"LaPorte County, Indiana",18091,76.93,16.67,13.9,16.67
+"Lake County, Indiana",18089,76.57,14.16,11.74,14.16
+"Lawrence County, Indiana",18093,76.44,21.05,8.75,21.05
+"Madison County, Indiana",18095,76.76,18.95,20.68,18.95
+"Marion County, Indiana",18097,76.2,17.35,16.65,17.35
+"Marshall County, Indiana",18099,79.06,13.66,7.85,13.66
+"Martin County, Indiana",18101,77.33,16.23,8.32,16.23
+"Miami County, Indiana",18103,77.83,13.5,7.19,13.5
+"Monroe County, Indiana",18105,80.21,14.1,12.52,14.1
+"Montgomery County, Indiana",18107,77.94,19.15,15.24,19.15
+"Morgan County, Indiana",18109,77.38,19.19,13.61,19.19
+"Newton County, Indiana",18111,77.2,18.04,7.71,18.04
+"Noble County, Indiana",18113,77.73,13.64,8.61,13.64
+"Ohio County, Indiana",18115,78.27,14.71,13.73,14.71
+"Orange County, Indiana",18117,76.68,19.38,7.94,19.38
+"Owen County, Indiana",18119,76.29,20.27,9.66,20.27
+"Parke County, Indiana",18121,78.02,22.68,8.46,22.68
+"Perry County, Indiana",18123,77.72,19.61,7.84,19.61
+"Pike County, Indiana",18125,77.64,18.19,8,18.19
+"Porter County, Indiana",18127,78.72,15.81,12.19,15.81
+"Posey County, Indiana",18129,78.93,17.6,8.25,17.6
+"Pulaski County, Indiana",18131,77.21,18.73,11.74,18.73
+"Putnam County, Indiana",18133,78.36,16.68,7.81,16.68
+"Randolph County, Indiana",18135,77.81,14.31,12.86,14.31
+"Ripley County, Indiana",18137,77.86,15.33,9.18,15.33
+"Rush County, Indiana",18139,77.65,15.16,10.4,15.16
+"Saint Joseph County, Indiana",18141,77.98,14.02,10.58,14.02
+"Scott County, Indiana",18143,73.42,24.9,33.67,24.9
+"Shelby County, Indiana",18145,77.75,17.3,13.97,17.3
+"Spencer County, Indiana",18147,78.99,14.29,6.59,14.29
+"Starke County, Indiana",18149,74.66,23.35,22.71,23.35
+"Steuben County, Indiana",18151,78.85,13.02,6.7,13.02
+"Sullivan County, Indiana",18153,75.8,22.94,14.39,22.94
+"Switzerland County, Indiana",18155,76.5,19.54,16.65,19.54
+"Tippecanoe County, Indiana",18157,79.14,12.42,9.19,12.42
+"Tipton County, Indiana",18159,78.7,14.2,13.55,14.2
+"Union County, Indiana",18161,77.7,14.71,15.36,14.71
+"Vanderburgh County, Indiana",18163,77.18,21.11,13.91,21.11
+"Vermillion County, Indiana",18165,75.83,20.7,9.46,20.7
+"Vigo County, Indiana",18167,76.45,21.7,9.37,21.7
+"Wabash County, Indiana",18169,77.87,13.48,17.19,13.48
+"Warren County, Indiana",18171,78.58,14.55,6.94,14.55
+"Warrick County, Indiana",18173,79.27,14.39,5.76,14.39
+"Washington County, Indiana",18175,75.89,21.9,14.25,21.9
+"Wayne County, Indiana",18177,76.54,16.76,18.71,16.76
+"Wells County, Indiana",18179,79.52,11.89,9.97,11.89
+"White County, Indiana",18181,78.25,15,10.1,15
+"Whitley County, Indiana",18183,79.02,15.14,5.09,15.14
+Iowa,19,79.73,13.31,5.5,13.31
+"Adair County, Iowa",19001,79.44,15.7,4.3,15.7
+"Adams County, Iowa",19003,78.96,14.09,6.44,14.09
+"Allamakee County, Iowa",19005,79.9,14.55,3.31,14.55
+"Appanoose County, Iowa",19007,78.33,17.54,8.86,17.54
+"Audubon County, Iowa",19009,80.54,15.01,3.07,15.01
+"Benton County, Iowa",19011,81.15,11.19,3.43,11.19
+"Black Hawk County, Iowa",19013,79.42,11.59,5.33,11.59
+"Boone County, Iowa",19015,78.98,12.48,4.62,12.48
+"Bremer County, Iowa",19017,82.14,10.32,2.91,10.32
+"Buchanan County, Iowa",19019,79.24,13.21,3.2,13.21
+"Buena Vista County, Iowa",19021,80.88,10.55,2.92,10.55
+"Butler County, Iowa",19023,80.23,11.38,2.83,11.38
+"Calhoun County, Iowa",19025,79.85,13.5,3,13.5
+"Carroll County, Iowa",19027,80.36,14.06,3.71,14.06
+"Cass County, Iowa",19029,78.84,16.96,4.54,16.96
+"Cedar County, Iowa",19031,81.38,11.91,3.84,11.91
+"Cerro Gordo County, Iowa",19033,79.23,15.95,6.22,15.95
+"Cherokee County, Iowa",19035,80.13,13.7,3.73,13.7
+"Chickasaw County, Iowa",19037,80.71,13.48,3.11,13.48
+"Clarke County, Iowa",19039,78.57,14.73,6.12,14.73
+"Clay County, Iowa",19041,80.29,12.93,2.45,12.93
+"Clayton County, Iowa",19043,80.5,14.38,3.51,14.38
+"Clinton County, Iowa",19045,78.7,16.11,4.73,16.11
+"Crawford County, Iowa",19047,80.33,9.5,4.36,9.5
+"Dallas County, Iowa",19049,81.49,10.69,3.21,10.69
+"Davis County, Iowa",19051,79.84,15.57,4.27,15.57
+"Decatur County, Iowa",19053,78.29,16.84,6.87,16.84
+"Delaware County, Iowa",19055,81.1,10.8,3.21,10.8
+"Des Moines County, Iowa",19057,79.15,16.2,7.26,16.2
+"Dickinson County, Iowa",19059,81.27,14.01,2.91,14.01
+"Dubuque County, Iowa",19061,80.03,12.99,4.49,12.99
+"Emmet County, Iowa",19063,79.65,12.98,2.89,12.98
+"Fayette County, Iowa",19065,79.9,14.83,3.36,14.83
+"Floyd County, Iowa",19067,79.72,13.61,3.01,13.61
+"Franklin County, Iowa",19069,80.28,10.54,2.31,10.54
+"Fremont County, Iowa",19071,78.84,13.33,5.16,13.33
+"Greene County, Iowa",19073,80.03,14.15,4.32,14.15
+"Grundy County, Iowa",19075,81.32,10.81,2.86,10.81
+"Guthrie County, Iowa",19077,80.07,16.62,2.9,16.62
+"Hamilton County, Iowa",19079,80.42,12.21,3.12,12.21
+"Hancock County, Iowa",19081,80.81,12.77,2.92,12.77
+"Hardin County, Iowa",19083,79.74,12.68,2.95,12.68
+"Harrison County, Iowa",19085,78.08,14.06,5.72,14.06
+"Henry County, Iowa",19087,79.55,12.68,3.16,12.68
+"Howard County, Iowa",19089,80.32,10.79,2.91,10.79
+"Humboldt County, Iowa",19091,80.4,15.1,2.81,15.1
+"Ida County, Iowa",19093,79.51,11.51,4.26,11.51
+"Iowa County, Iowa",19095,80.81,12.59,3.48,12.59
+"Jackson County, Iowa",19097,79.38,17.57,5.6,17.57
+"Jasper County, Iowa",19099,79.82,12.5,6.66,12.5
+"Jefferson County, Iowa",19101,80.44,15.83,4.78,15.83
+"Johnson County, Iowa",19103,82.08,10.45,5.07,10.45
+"Jones County, Iowa",19105,80.75,14.04,3.18,14.04
+"Keokuk County, Iowa",19107,80.46,14.56,3.67,14.56
+"Kossuth County, Iowa",19109,81.38,9.98,2.64,9.98
+"Lee County, Iowa",19111,77.52,17.21,7.94,17.21
+"Linn County, Iowa",19113,80.39,12.8,6.89,12.8
+"Louisa County, Iowa",19115,79.3,15.33,4.61,15.33
+"Lucas County, Iowa",19117,79.19,16.65,5.4,16.65
+"Lyon County, Iowa",19119,81.05,9.89,2.82,9.89
+"Madison County, Iowa",19121,79.7,14.17,4.05,14.17
+"Mahaska County, Iowa",19123,80.12,11.67,5.12,11.67
+"Marion County, Iowa",19125,79.22,12.91,5.68,12.91
+"Marshall County, Iowa",19127,77.37,13.17,5.2,13.17
+"Mills County, Iowa",19129,77.93,15.07,6.63,15.07
+"Mitchell County, Iowa",19131,81.45,11.35,2.51,11.35
+"Monona County, Iowa",19133,77.8,15.95,6.98,15.95
+"Monroe County, Iowa",19135,77.84,15.56,6.41,15.56
+"Montgomery County, Iowa",19137,78.21,15.44,6.95,15.44
+"Muscatine County, Iowa",19139,78.96,14.41,4.85,14.41
+"O'Brien County, Iowa",19141,80.26,12.83,2.56,12.83
+"Osceola County, Iowa",19143,80.29,13.8,1.94,13.8
+"Page County, Iowa",19145,78.76,13.36,4.44,13.36
+"Palo Alto County, Iowa",19147,79.52,14.09,3.95,14.09
+"Plymouth County, Iowa",19149,80.64,11,3.15,11
+"Pocahontas County, Iowa",19151,79.89,15.56,2.8,15.56
+"Polk County, Iowa",19153,78.97,14.24,7.54,14.24
+"Pottawattamie County, Iowa",19155,77.86,18.13,7.96,18.13
+"Poweshiek County, Iowa",19157,79.83,12.39,5.56,12.39
+"Ringgold County, Iowa",19159,79.62,14.7,5.27,14.7
+"Sac County, Iowa",19161,79.82,13.7,3.84,13.7
+"Scott County, Iowa",19163,79.34,14.95,8.6,14.95
+"Shelby County, Iowa",19165,80.92,11.81,4.07,11.81
+"Sioux County, Iowa",19167,82.86,6.14,1.62,6.14
+"Story County, Iowa",19169,82.12,9.19,3.94,9.19
+"Tama County, Iowa",19171,79.58,14.83,4.65,14.83
+"Taylor County, Iowa",19173,79.72,14.72,4.54,14.72
+"Union County, Iowa",19175,78.67,17.87,5.74,17.87
+"Van Buren County, Iowa",19177,78.65,16.23,4.95,16.23
+"Wapello County, Iowa",19179,77.67,16.27,5.26,16.27
+"Warren County, Iowa",19181,80.02,12.99,3.67,12.99
+"Washington County, Iowa",19183,80.51,13.08,4.44,13.08
+"Wayne County, Iowa",19185,78.39,14.06,5.98,14.06
+"Webster County, Iowa",19187,77.74,17.06,5.99,17.06
+"Winnebago County, Iowa",19189,80.68,10.89,3.2,10.89
+"Winneshiek County, Iowa",19191,82.62,9.27,2.8,9.27
+"Woodbury County, Iowa",19193,78.35,13.66,7.05,13.66
+"Worth County, Iowa",19195,79.74,15.29,4.27,15.29
+"Wright County, Iowa",19197,80.32,12.77,3.06,12.77
+Kansas,20,78.74,16,8.1,16
+"Allen County, Kansas",20001,76.57,22.63,11.8,22.63
+"Anderson County, Kansas",20003,78.79,19.36,9.17,19.36
+"Atchison County, Kansas",20005,77.69,16.58,6.6,16.58
+"Barber County, Kansas",20007,77.63,19.61,9,19.61
+"Barton County, Kansas",20009,78.66,18.2,5.76,18.2
+"Bourbon County, Kansas",20011,77.03,20.09,10.85,20.09
+"Brown County, Kansas",20013,77.76,17.47,7.79,17.47
+"Butler County, Kansas",20015,77.99,17.03,10.06,17.03
+"Chase County, Kansas",20017,78.17,15.65,6.13,15.65
+"Chautauqua County, Kansas",20019,77.08,20.35,11.98,20.35
+"Cherokee County, Kansas",20021,75.16,21.65,14.4,21.65
+"Cheyenne County, Kansas",20023,80.26,17.66,3.91,17.66
+"Clark County, Kansas",20025,78.44,14.11,5.93,14.11
+"Clay County, Kansas",20027,79.88,18.47,6.59,18.47
+"Cloud County, Kansas",20029,78.52,16.4,5.4,16.4
+"Coffey County, Kansas",20031,77.88,14.41,9.19,14.41
+"Comanche County, Kansas",20033,76.9,12.74,10.17,12.74
+"Cowley County, Kansas",20035,76.47,17.95,13.04,17.95
+"Crawford County, Kansas",20037,76.81,19.37,9.73,19.37
+"Decatur County, Kansas",20039,79.27,18.77,4.92,18.77
+"Dickinson County, Kansas",20041,78.64,14.36,7.35,14.36
+"Doniphan County, Kansas",20043,79.01,13.67,4.54,13.67
+"Douglas County, Kansas",20045,80.53,13.75,6.12,13.75
+"Edwards County, Kansas",20047,77.96,13.62,6.01,13.62
+"Elk County, Kansas",20049,77.27,17.08,11.39,17.08
+"Ellis County, Kansas",20051,79.65,15.39,3.88,15.39
+"Ellsworth County, Kansas",20053,78.88,16.57,5.27,16.57
+"Finney County, Kansas",20055,79.19,13.37,4.71,13.37
+"Ford County, Kansas",20057,78.5,12.77,3.64,12.77
+"Franklin County, Kansas",20059,77.88,18.72,9.42,18.72
+"Geary County, Kansas",20061,76.82,19.97,9.22,19.97
+"Gove County, Kansas",20063,79.63,16.45,4.01,16.45
+"Graham County, Kansas",20065,79.68,13.58,4.93,13.58
+"Grant County, Kansas",20067,78.29,13.58,3.98,13.58
+"Gray County, Kansas",20069,79.35,12.79,3.6,12.79
+"Greeley County, Kansas",20071,78.2,20.64,6.63,20.64
+"Greenwood County, Kansas",20073,76.82,19.85,12.27,19.85
+"Hamilton County, Kansas",20075,77.63,17.79,6.76,17.79
+"Harper County, Kansas",20077,77.05,16.82,13.74,16.82
+"Harvey County, Kansas",20079,79.17,15.34,7.51,15.34
+"Haskell County, Kansas",20081,79.19,12.55,3.29,12.55
+"Hodgeman County, Kansas",20083,80.05,12.45,3.17,12.45
+"Jackson County, Kansas",20085,78.7,14.74,3.84,14.74
+"Jefferson County, Kansas",20087,78.92,17.09,5.47,17.09
+"Jewell County, Kansas",20089,79.99,13.64,4,13.64
+"Johnson County, Kansas",20091,81.7,13,5.06,13
+"Kearny County, Kansas",20093,77.66,14.75,3.98,14.75
+"Kingman County, Kansas",20095,78.63,14.31,7.8,14.31
+"Kiowa County, Kansas",20097,79.29,13.81,6.37,13.81
+"Labette County, Kansas",20099,76.27,18.29,11.85,18.29
+"Lane County, Kansas",20101,78.22,16.38,3.68,16.38
+"Leavenworth County, Kansas",20103,78.92,15.89,7.96,15.89
+"Lincoln County, Kansas",20105,79.2,20.41,4.57,20.41
+"Linn County, Kansas",20107,77.57,20,8.74,20
+"Logan County, Kansas",20109,78.67,15.77,6.24,15.77
+"Lyon County, Kansas",20111,78.91,15.09,5.49,15.09
+"Marion County, Kansas",20115,79.35,14.14,6.05,14.14
+"Marshall County, Kansas",20117,80.23,13.43,3.34,13.43
+"McPherson County, Kansas",20113,79.26,13.9,6.1,13.9
+"Meade County, Kansas",20119,79.24,11.62,3.99,11.62
+"Miami County, Kansas",20121,78.97,16.08,8.64,16.08
+"Mitchell County, Kansas",20123,79.12,17.76,4.01,17.76
+"Montgomery County, Kansas",20125,76.26,18.53,13.94,18.53
+"Morris County, Kansas",20127,79.85,13.44,6.29,13.44
+"Morton County, Kansas",20129,77.79,16.15,10.63,16.15
+"Nemaha County, Kansas",20131,80.23,16.68,3.93,16.68
+"Neosho County, Kansas",20133,77.32,16.48,11.81,16.48
+"Ness County, Kansas",20135,79.38,13.93,3.49,13.93
+"Norton County, Kansas",20137,79.46,15.97,4.74,15.97
+"Osage County, Kansas",20139,77.67,17.97,8.18,17.97
+"Osborne County, Kansas",20141,79.24,17.93,4.26,17.93
+"Ottawa County, Kansas",20143,78.15,15.26,5.64,15.26
+"Pawnee County, Kansas",20145,78.82,19.83,6.64,19.83
+"Phillips County, Kansas",20147,78.37,16.43,3.95,16.43
+"Pottawatomie County, Kansas",20149,79.64,15.02,4.67,15.02
+"Pratt County, Kansas",20151,78.39,19.63,8.24,19.63
+"Rawlins County, Kansas",20153,80.14,17.17,3.88,17.17
+"Reno County, Kansas",20155,78.4,16.71,8.74,16.71
+"Republic County, Kansas",20157,79.53,17.54,3.78,17.54
+"Rice County, Kansas",20159,77.43,17.61,7.06,17.61
+"Riley County, Kansas",20161,81.46,10.99,3.77,10.99
+"Rooks County, Kansas",20163,78.51,16.08,4.58,16.08
+"Rush County, Kansas",20165,79.29,19.96,5.33,19.96
+"Russell County, Kansas",20167,78.91,18.82,4.98,18.82
+"Saline County, Kansas",20169,78.53,17.72,7.37,17.72
+"Scott County, Kansas",20171,78.37,13.02,5.82,13.02
+"Sedgwick County, Kansas",20173,77.65,17.59,12.51,17.59
+"Seward County, Kansas",20175,78.38,11.01,5.73,11.01
+"Shawnee County, Kansas",20177,77.75,19.29,9.83,19.29
+"Sheridan County, Kansas",20179,80,13.9,4.04,13.9
+"Sherman County, Kansas",20181,78.33,18.74,6.11,18.74
+"Smith County, Kansas",20183,79.57,14.38,3.89,14.38
+"Stafford County, Kansas",20185,77.86,17.03,8.13,17.03
+"Stanton County, Kansas",20187,78.63,16.06,4.97,16.06
+"Stevens County, Kansas",20189,79,14.85,4.57,14.85
+"Sumner County, Kansas",20191,77.25,16.51,12.14,16.51
+"Thomas County, Kansas",20193,79.3,15.05,5.23,15.05
+"Trego County, Kansas",20195,78.66,18.47,4.6,18.47
+"Wabaunsee County, Kansas",20197,79.1,20.97,5.84,20.97
+"Wallace County, Kansas",20199,79.47,14.7,5.03,14.7
+"Washington County, Kansas",20201,80.34,12.14,3.35,12.14
+"Wichita County, Kansas",20203,79.3,13.02,5.16,13.02
+"Wilson County, Kansas",20205,76.36,21.39,13.86,21.39
+"Woodson County, Kansas",20207,76.91,19.16,11.09,19.16
+"Wyandotte County, Kansas",20209,75.35,19.11,10.2,19.11
+Kentucky,21,76.26,16.99,18.49,16.99
+"Adair County, Kentucky",21001,76.84,17.34,12.66,17.34
+"Allen County, Kentucky",21003,75.88,17.14,14.5,17.14
+"Anderson County, Kentucky",21005,77.24,16.82,14.07,16.82
+"Ballard County, Kentucky",21007,75.74,20.58,7.89,20.58
+"Barren County, Kentucky",21009,76.33,17.44,9.63,17.44
+"Bath County, Kentucky",21011,74.56,18.75,24.24,18.75
+"Bell County, Kentucky",21013,72.72,25.36,35.25,25.36
+"Boone County, Kentucky",21015,78.9,12.8,15.97,12.8
+"Bourbon County, Kentucky",21017,76.95,16.94,16.2,16.94
+"Boyd County, Kentucky",21019,76.01,12.99,23.24,12.99
+"Boyle County, Kentucky",21021,77.02,15.85,14.47,15.85
+"Bracken County, Kentucky",21023,75.19,17.99,13.36,17.99
+"Breathitt County, Kentucky",21025,70.22,22.02,44.94,22.02
+"Breckinridge County, Kentucky",21027,76.2,21.24,11.34,21.24
+"Bullitt County, Kentucky",21029,78.56,15.49,14.45,15.49
+"Butler County, Kentucky",21031,75.8,20.9,14.8,20.9
+"Caldwell County, Kentucky",21033,75.39,21.62,12.5,21.62
+"Calloway County, Kentucky",21035,77.42,16.79,10.29,16.79
+"Campbell County, Kentucky",21037,77.56,13.74,27.56,13.74
+"Carlisle County, Kentucky",21039,76.62,23.64,7.89,23.64
+"Carroll County, Kentucky",21041,74.19,23.55,26.11,23.55
+"Carter County, Kentucky",21043,74.99,15.95,23.96,15.95
+"Casey County, Kentucky",21045,75.14,20.37,18.24,20.37
+"Christian County, Kentucky",21047,75.57,19.64,9.01,19.64
+"Clark County, Kentucky",21049,75.77,17.65,27.68,17.65
+"Clay County, Kentucky",21051,71.78,16.59,34.54,16.59
+"Clinton County, Kentucky",21053,74.15,21.01,37.02,21.01
+"Crittenden County, Kentucky",21055,75.14,21.51,14.86,21.51
+"Cumberland County, Kentucky",21057,74.05,25.98,23.77,25.98
+"Daviess County, Kentucky",21059,77.58,17.32,11.8,17.32
+"Edmonson County, Kentucky",21061,77.59,16.05,11.28,16.05
+"Elliott County, Kentucky",21063,75.6,17.46,21.31,17.46
+"Estill County, Kentucky",21065,73.23,19.39,32.35,19.39
+"Fayette County, Kentucky",21067,78.4,13.43,17.31,13.43
+"Fleming County, Kentucky",21069,74.47,18.84,16.87,18.84
+"Floyd County, Kentucky",21071,71.97,21.32,47.73,21.32
+"Franklin County, Kentucky",21073,77.02,15.53,12.38,15.53
+"Fulton County, Kentucky",21075,72.93,24.3,10.5,24.3
+"Gallatin County, Kentucky",21077,73.25,26.8,24.47,26.8
+"Garrard County, Kentucky",21079,77.56,14.97,17.25,14.97
+"Grant County, Kentucky",21081,75.37,19.9,26.31,19.9
+"Graves County, Kentucky",21083,76.07,21.52,11.68,21.52
+"Grayson County, Kentucky",21085,74.94,24.99,21.96,24.99
+"Green County, Kentucky",21087,77.19,17.4,8.5,17.4
+"Greenup County, Kentucky",21089,75.98,11.52,21.61,11.52
+"Hancock County, Kentucky",21091,77.17,18.65,7.07,18.65
+"Hardin County, Kentucky",21093,77.18,15.62,10.06,15.62
+"Harlan County, Kentucky",21095,71.45,16.95,35.95,16.95
+"Harrison County, Kentucky",21097,75.71,19.74,16.65,19.74
+"Hart County, Kentucky",21099,75.48,19.51,10.81,19.51
+"Henderson County, Kentucky",21101,76.54,18.4,12.08,18.4
+"Henry County, Kentucky",21103,76.21,21.03,13.54,21.03
+"Hickman County, Kentucky",21105,76.69,21.54,9.82,21.54
+"Hopkins County, Kentucky",21107,75.01,20.04,15.1,20.04
+"Jackson County, Kentucky",21109,73.31,18.5,17.06,18.5
+"Jefferson County, Kentucky",21111,77.01,16.24,17.57,16.24
+"Jessamine County, Kentucky",21113,77.54,13.62,16.49,13.62
+"Johnson County, Kentucky",21115,73.54,16.18,34.75,16.18
+"Kenton County, Kentucky",21117,77.06,20.98,22.8,20.98
+"Knott County, Kentucky",21119,72.98,15.5,41.03,15.5
+"Knox County, Kentucky",21121,73.25,17.93,30.69,17.93
+"Larue County, Kentucky",21123,76.69,16.65,10.83,16.65
+"Laurel County, Kentucky",21125,75.49,17.66,20.16,17.66
+"Lawrence County, Kentucky",21127,73.37,16.77,30.21,16.77
+"Lee County, Kentucky",21129,71.61,24.99,33.71,24.99
+"Leslie County, Kentucky",21131,71.17,18.41,43.97,18.41
+"Letcher County, Kentucky",21133,72.35,19.44,31.47,19.44
+"Lewis County, Kentucky",21135,74.84,16.49,16.43,16.49
+"Lincoln County, Kentucky",21137,75.37,16.55,18.42,16.55
+"Livingston County, Kentucky",21139,75.37,22.14,16.3,22.14
+"Logan County, Kentucky",21141,75.81,18.74,12.05,18.74
+"Lyon County, Kentucky",21143,76.61,18.1,12.69,18.1
+"Madison County, Kentucky",21151,77.19,13,16.46,13
+"Magoffin County, Kentucky",21153,72.6,18.72,36.5,18.72
+"Marion County, Kentucky",21155,76.62,19.41,13.74,19.41
+"Marshall County, Kentucky",21157,76.46,24.15,18.86,24.15
+"Martin County, Kentucky",21159,72.56,16.5,40.18,16.5
+"Mason County, Kentucky",21161,75,14.13,20.12,14.13
+"McCracken County, Kentucky",21145,76.41,21.79,19.11,21.79
+"McCreary County, Kentucky",21147,72.85,20.19,17.77,20.19
+"McLean County, Kentucky",21149,75.59,18.62,13.16,18.62
+"Meade County, Kentucky",21163,77.29,19.5,8.56,19.5
+"Menifee County, Kentucky",21165,74.79,16.19,22.15,16.19
+"Mercer County, Kentucky",21167,76.03,24.6,16.18,24.6
+"Metcalfe County, Kentucky",21169,74.69,20.5,11.17,20.5
+"Monroe County, Kentucky",21171,73.83,21.75,21.67,21.75
+"Montgomery County, Kentucky",21173,75.98,16.9,20.91,16.9
+"Morgan County, Kentucky",21175,75.65,14.83,15.2,14.83
+"Muhlenberg County, Kentucky",21177,75.03,19.27,17.42,19.27
+"Nelson County, Kentucky",21179,77.42,15.93,11.15,15.93
+"Nicholas County, Kentucky",21181,73.84,21.24,21.03,21.24
+"Ohio County, Kentucky",21183,76.01,19.03,15.52,19.03
+"Oldham County, Kentucky",21185,79.56,10.37,6.65,10.37
+"Owen County, Kentucky",21187,76.62,18.83,20.88,18.83
+"Owsley County, Kentucky",21189,70.21,25.17,45.98,25.17
+"Pendleton County, Kentucky",21191,75.63,22.05,20.9,22.05
+"Perry County, Kentucky",21193,70.6,19.55,42.23,19.55
+"Pike County, Kentucky",21195,72.41,16.61,38.88,16.61
+"Powell County, Kentucky",21197,71.6,20.26,51.98,20.26
+"Pulaski County, Kentucky",21199,75.19,19.59,18.06,19.59
+"Robertson County, Kentucky",21201,74.98,14.12,17.51,14.12
+"Rockcastle County, Kentucky",21203,74.17,18.43,24.96,18.43
+"Rowan County, Kentucky",21205,75.91,14.74,18.28,14.74
+"Russell County, Kentucky",21207,75.58,18.87,31.3,18.87
+"Scott County, Kentucky",21209,78.07,13.71,10.67,13.71
+"Shelby County, Kentucky",21211,78.42,11.62,7.09,11.62
+"Simpson County, Kentucky",21213,75.86,19.81,13.07,19.81
+"Spencer County, Kentucky",21215,77.64,15.11,10.04,15.11
+"Taylor County, Kentucky",21217,76.02,20.04,18.1,20.04
+"Todd County, Kentucky",21219,75.78,18.31,12.02,18.31
+"Trigg County, Kentucky",21221,76.29,20.33,11.91,20.33
+"Trimble County, Kentucky",21223,76.32,22.85,12.67,22.85
+"Union County, Kentucky",21225,75.23,21.15,19.24,21.15
+"Warren County, Kentucky",21227,77.26,15.7,10.6,15.7
+"Washington County, Kentucky",21229,77.76,16.8,11.15,16.8
+"Wayne County, Kentucky",21231,75.52,16.19,18.06,16.19
+"Webster County, Kentucky",21233,75.22,20.67,14.91,20.67
+"Whitley County, Kentucky",21235,72.59,20.46,35.4,20.46
+"Wolfe County, Kentucky",21237,71.15,26.67,45.11,26.67
+"Woodford County, Kentucky",21239,78.17,15.15,13.6,15.15
+Louisiana,22,75.82,15.17,13.13,15.17
+"Acadia Parish, Louisiana",22001,74.23,23.23,11.52,23.23
+"Allen Parish, Louisiana",22003,77.13,12.8,8.54,12.8
+"Ascension Parish, Louisiana",22005,77.14,12.93,10.74,12.93
+"Assumption Parish, Louisiana",22007,76.84,10.48,8.43,10.48
+"Avoyelles Parish, Louisiana",22009,74.03,20.1,12.39,20.1
+"Beauregard Parish, Louisiana",22011,75.09,15.39,9.38,15.39
+"Bienville Parish, Louisiana",22013,73.9,13.2,10.87,13.2
+"Bossier Parish, Louisiana",22015,77.14,14.72,8.68,14.72
+"Caddo Parish, Louisiana",22017,74.89,15.16,9.55,15.16
+"Calcasieu Parish, Louisiana",22019,75.13,25.07,3.92,25.07
+"Caldwell Parish, Louisiana",22021,73.06,16.99,11.58,16.99
+"Cameron Parish, Louisiana",22023,78.15,15.24,4.56,15.24
+"Catahoula Parish, Louisiana",22025,73.17,13.09,11.67,13.09
+"Claiborne Parish, Louisiana",22027,75.48,16.09,6.77,16.09
+"Concordia Parish, Louisiana",22029,73.94,15.2,10.17,15.2
+"De Soto Parish, Louisiana",22031,74.86,12.94,9.76,12.94
+"East Baton Rouge Parish, Louisiana",22033,76.35,11.88,9.57,11.88
+"East Carroll Parish, Louisiana",22035,72.17,16.63,8.23,16.63
+"East Feliciana Parish, Louisiana",22037,72.64,12.85,8.55,12.85
+"Evangeline Parish, Louisiana",22039,74.05,29.15,8.45,29.15
+"Franklin Parish, Louisiana",22041,73.62,12.56,7.16,12.56
+"Grant Parish, Louisiana",22043,74.75,15.7,11.46,15.7
+"Iberia Parish, Louisiana",22045,75.44,14.88,12.17,14.88
+"Iberville Parish, Louisiana",22047,74.92,10.93,10.63,10.93
+"Jackson Parish, Louisiana",22049,75.07,11.04,8.72,11.04
+"Jefferson Davis Parish, Louisiana",22053,74.73,18.6,8.09,18.6
+"Jefferson Parish, Louisiana",22051,77.28,15.5,19.5,15.5
+"LaSalle Parish, Louisiana",22059,74.77,14.14,13.57,14.14
+"Lafayette Parish, Louisiana",22055,77.49,12.63,12.06,12.63
+"Lafourche Parish, Louisiana",22057,76.89,14.72,14.62,14.72
+"Lincoln Parish, Louisiana",22061,77.43,9.92,6.98,9.92
+"Livingston Parish, Louisiana",22063,75.61,18.43,19.52,18.43
+"Madison Parish, Louisiana",22065,71.57,15.62,7.2,15.62
+"Morehouse Parish, Louisiana",22067,72.8,14.39,8.43,14.39
+"Natchitoches Parish, Louisiana",22069,75.61,13.54,10.18,13.54
+"Orleans Parish, Louisiana",22071,75.8,14.46,20.3,14.46
+"Ouachita Parish, Louisiana",22073,75.46,12.73,9.54,12.73
+"Plaquemines Parish, Louisiana",22075,76.84,11.32,18.27,11.32
+"Pointe Coupee Parish, Louisiana",22077,75.81,18.19,8.63,18.19
+"Rapides Parish, Louisiana",22079,75.22,14.69,10.12,14.69
+"Red River Parish, Louisiana",22081,73.99,13.8,7.76,13.8
+"Richland Parish, Louisiana",22083,74.34,13.81,5.35,13.81
+"Sabine Parish, Louisiana",22085,75.4,19.23,6.46,19.23
+"Saint Bernard Parish, Louisiana",22087,74.31,31.49,18.24,31.49
+"Saint Charles Parish, Louisiana",22089,76.82,13.36,15.7,13.36
+"Saint Helena Parish, Louisiana",22091,74.73,15.68,17.5,15.68
+"Saint James Parish, Louisiana",22093,76.69,7.94,6.64,7.94
+"Saint John the Baptist Parish, Louisiana",22095,75,11.46,12.71,11.46
+"Saint Landry Parish, Louisiana",22097,74.03,18.66,15.31,18.66
+"Saint Martin Parish, Louisiana",22099,75.92,14.91,9.29,14.91
+"Saint Mary Parish, Louisiana",22101,75.16,13.42,15.29,13.42
+"Saint Tammany Parish, Louisiana",22103,77.64,16.89,19.7,16.89
+"Tangipahoa Parish, Louisiana",22105,74.26,14.59,18.26,14.59
+"Tensas Parish, Louisiana",22107,74.35,13.21,6.47,13.21
+"Terrebonne Parish, Louisiana",22109,75.4,12.99,16.66,12.99
+"Union Parish, Louisiana",22111,75.33,14.69,8.04,14.69
+"Vermilion Parish, Louisiana",22113,76.52,13.39,8.07,13.39
+"Vernon Parish, Louisiana",22115,75.98,13.78,6.95,13.78
+"Washington Parish, Louisiana",22117,72.79,17.47,21.5,17.47
+"Webster Parish, Louisiana",22119,74.14,20.63,9.53,20.63
+"West Baton Rouge Parish, Louisiana",22121,75.93,13.4,12.26,13.4
+"West Carroll Parish, Louisiana",22123,75.22,12.03,6.7,12.03
+"West Feliciana Parish, Louisiana",22125,76.75,10.21,6.6,10.21
+"Winn Parish, Louisiana",22127,74.28,11.67,14.93,11.67
+Maine,23,79.32,15.17,10.02,15.17
+"Androscoggin County, Maine",23001,78.28,14.07,11.86,14.07
+"Aroostook County, Maine",23003,78.71,16.29,7.06,16.29
+"Cumberland County, Maine",23005,80.37,12.88,9.8,12.88
+"Franklin County, Maine",23007,79.22,13.68,8.32,13.68
+"Hancock County, Maine",23009,79.79,15.52,10.45,15.52
+"Kennebec County, Maine",23011,78.53,15.11,10.86,15.11
+"Knox County, Maine",23013,80.29,16.75,11.92,16.75
+"Lincoln County, Maine",23015,80.11,16.7,9.16,16.7
+"Oxford County, Maine",23017,78.47,18.18,8.3,18.18
+"Penobscot County, Maine",23019,78.64,14.32,9.84,14.32
+"Piscataquis County, Maine",23021,78.03,19.52,9.2,19.52
+"Sagadahoc County, Maine",23023,79.99,12.43,6.83,12.43
+"Somerset County, Maine",23025,78.05,17,9.66,17
+"Waldo County, Maine",23027,79.34,17.01,10.25,17.01
+"Washington County, Maine",23029,77.22,20.52,13.68,20.52
+"York County, Maine",23031,80.15,16.59,10.49,16.59
+Maryland,24,79.16,17.93,4.96,17.93
+"Allegany County, Maryland",24001,77.6,19.92,7.33,19.92
+"Anne Arundel County, Maryland",24003,79.16,19.87,5.22,19.87
+"Baltimore City, Maryland",24510,72.14,39.01,11.87,39.01
+"Baltimore County, Maryland",24005,79.52,20.61,5.58,20.61
+"Calvert County, Maryland",24009,79.25,19.27,4.94,19.27
+"Caroline County, Maryland",24011,76.42,20.25,7.61,20.25
+"Carroll County, Maryland",24013,79.28,20.84,5.65,20.84
+"Cecil County, Maryland",24015,77.01,27.73,10.33,27.73
+"Charles County, Maryland",24017,78.63,16.62,3.77,16.62
+"Dorchester County, Maryland",24019,77.03,22.01,6.58,22.01
+"Frederick County, Maryland",24021,80.42,15.53,4,15.53
+"Garrett County, Maryland",24023,78.86,15.85,4.95,15.85
+"Harford County, Maryland",24025,79.54,19.92,5.28,19.92
+"Howard County, Maryland",24027,82.98,10.51,2.15,10.51
+"Kent County, Maryland",24029,79.02,21.33,6.71,21.33
+"Montgomery County, Maryland",24031,81.48,9.72,2.68,9.72
+"Prince George's County, Maryland",24033,81.48,9.72,2.68,9.72
+"Queen Anne's County, Maryland",24035,79.83,19.34,4.91,19.34
+"Saint Mary's County, Maryland",24037,78.83,16.51,3.44,16.51
+"Somerset County, Maryland",24039,76.94,15.8,5.72,15.8
+"Talbot County, Maryland",24041,80.45,17.84,3.96,17.84
+"Washington County, Maryland",24043,78.07,20.89,5.99,20.89
+"Wicomico County, Maryland",24045,77.03,19.68,4.78,19.68
+"Worcester County, Maryland",24047,79.32,20.8,5.48,20.8
+Massachusetts,25,80.41,10.78,13.63,10.78
+"Barnstable County, Massachusetts",25001,80.75,15.83,17.94,15.83
+"Berkshire County, Massachusetts",25003,80.12,11.96,12.74,11.96
+"Bristol County, Massachusetts",25005,79.2,14.03,18.8,14.03
+"Dukes County, Massachusetts",25007,82.05,12.53,9.25,12.53
+"Essex County, Massachusetts",25009,80.51,11.13,16.76,11.13
+"Franklin County, Massachusetts",25011,80.27,12.66,10.01,12.66
+"Hampden County, Massachusetts",25013,78.85,13.07,12.35,13.07
+"Hampshire County, Massachusetts",25015,80.76,10.47,10.02,10.47
+"Middlesex County, Massachusetts",25017,81.63,8.81,11.17,8.81
+"Nantucket County, Massachusetts",25019,81.6,13.62,6.34,13.62
+"Norfolk County, Massachusetts",25021,81.38,9.55,11.85,9.55
+"Plymouth County, Massachusetts",25023,79.63,11.71,14.39,11.71
+"Suffolk County, Massachusetts",25025,79.89,9.82,16.86,9.82
+"Worcester County, Massachusetts",25027,79.66,11.17,12.68,11.17
+Michigan,26,78.26,14.33,12.78,14.33
+"Alcona County, Michigan",26001,78.26,23.77,9.48,23.77
+"Alger County, Michigan",26003,79.49,16.62,6.74,16.62
+"Allegan County, Michigan",26005,79.13,13.07,10.15,13.07
+"Alpena County, Michigan",26007,78.7,17.41,9.9,17.41
+"Antrim County, Michigan",26009,80.13,13.65,11.49,13.65
+"Arenac County, Michigan",26011,77.24,21.71,9.94,21.71
+"Baraga County, Michigan",26013,78.01,16.27,10.46,16.27
+"Barry County, Michigan",26015,79.35,16.51,7.25,16.51
+"Bay County, Michigan",26017,78.37,21.46,3.83,21.46
+"Benzie County, Michigan",26019,79.66,15.25,11.08,15.25
+"Berrien County, Michigan",26021,77.66,13.32,15.19,13.32
+"Branch County, Michigan",26023,78.04,14.77,9.2,14.77
+"Calhoun County, Michigan",26025,77.04,15.94,18.99,15.94
+"Cass County, Michigan",26027,78.49,15.62,9.64,15.62
+"Charlevoix County, Michigan",26029,80.05,16.39,7.66,16.39
+"Cheboygan County, Michigan",26031,79.22,16.36,12.77,16.36
+"Chippewa County, Michigan",26033,79.57,15.58,10.26,15.58
+"Clare County, Michigan",26035,76.22,18.93,14.62,18.93
+"Clinton County, Michigan",26037,80.62,10.46,5.83,10.46
+"Crawford County, Michigan",26039,77.96,19.16,17.31,19.16
+"Delta County, Michigan",26041,79.75,14.43,5.9,14.43
+"Dickinson County, Michigan",26043,79.73,17.46,7.42,17.46
+"Eaton County, Michigan",26045,79.66,13.26,8.24,13.26
+"Emmet County, Michigan",26047,80.05,14.51,7.17,14.51
+"Genesee County, Michigan",26049,76.06,16.6,17.57,16.6
+"Gladwin County, Michigan",26051,77.62,21.46,12.79,21.46
+"Gogebic County, Michigan",26053,78.56,21.83,6.57,21.83
+"Grand Traverse County, Michigan",26055,80.57,13.56,9.06,13.56
+"Gratiot County, Michigan",26057,78.45,13.35,4.48,13.35
+"Hillsdale County, Michigan",26059,78.33,15.28,8.63,15.28
+"Houghton County, Michigan",26061,79,11.99,6.13,11.99
+"Huron County, Michigan",26063,78.39,18.53,6.17,18.53
+"Ingham County, Michigan",26065,78.69,12.37,12.38,12.37
+"Ionia County, Michigan",26067,78.44,15.32,8.9,15.32
+"Iosco County, Michigan",26069,77.38,21.47,10.08,21.47
+"Iron County, Michigan",26071,79.24,19.92,8.19,19.92
+"Isabella County, Michigan",26073,79.06,11.79,7.29,11.79
+"Jackson County, Michigan",26075,77.84,16.24,13.72,16.24
+"Kalamazoo County, Michigan",26077,79.11,14.18,9.11,14.18
+"Kalkaska County, Michigan",26079,77.85,17.48,11.59,17.48
+"Kent County, Michigan",26081,79.78,11.34,6.65,11.34
+"Keweenaw County, Michigan",26083,80.2,14.32,5.16,14.32
+"Lake County, Michigan",26085,76.82,23.74,12.82,23.74
+"Lapeer County, Michigan",26087,78.64,16.48,7.57,16.48
+"Leelanau County, Michigan",26089,83.1,11.12,6.61,11.12
+"Lenawee County, Michigan",26091,78.69,11.57,8.87,11.57
+"Livingston County, Michigan",26093,80.2,13.49,10.77,13.49
+"Luce County, Michigan",26095,78.65,14.75,8.56,14.75
+"Mackinac County, Michigan",26097,79.13,19.21,8.81,19.21
+"Macomb County, Michigan",26099,78.44,15.72,15.95,15.72
+"Manistee County, Michigan",26101,78.87,19.72,14.07,19.72
+"Marquette County, Michigan",26103,79.31,13.64,8.16,13.64
+"Mason County, Michigan",26105,78.73,19.35,8.25,19.35
+"Mecosta County, Michigan",26107,79.19,14.32,6.98,14.32
+"Menominee County, Michigan",26109,79.74,15.42,7.41,15.42
+"Midland County, Michigan",26111,80.54,14.57,3.87,14.57
+"Missaukee County, Michigan",26113,78.49,17.45,9.43,17.45
+"Monroe County, Michigan",26115,78.27,13.29,18.05,13.29
+"Montcalm County, Michigan",26117,77.78,15.83,9.02,15.83
+"Montmorency County, Michigan",26119,77.43,21.84,14.32,21.84
+"Muskegon County, Michigan",26121,77.65,14.02,15.87,14.02
+"Newaygo County, Michigan",26123,78.1,16.8,9.54,16.8
+"Oakland County, Michigan",26125,79.98,14.53,10.47,14.53
+"Oceana County, Michigan",26127,78.86,16.21,11.5,16.21
+"Ogemaw County, Michigan",26129,76.67,24.32,16.29,24.32
+"Ontonagon County, Michigan",26131,78.4,18.67,8.6,18.67
+"Osceola County, Michigan",26133,78.21,15.86,9.45,15.86
+"Oscoda County, Michigan",26135,77.35,25.53,14.73,25.53
+"Otsego County, Michigan",26137,79.21,17.86,12.92,17.86
+"Ottawa County, Michigan",26139,81.45,10.4,5.17,10.4
+"Presque Isle County, Michigan",26141,79.7,17.12,12.05,17.12
+"Roscommon County, Michigan",26143,77.13,22.2,19.53,22.2
+"Saginaw County, Michigan",26145,77.66,19,3.34,19
+"Saint Clair County, Michigan",26147,77.75,17.62,15.41,17.62
+"Saint Joseph County, Michigan",26149,77.23,15.58,10.72,15.58
+"Sanilac County, Michigan",26151,78.27,17.39,7.71,17.39
+"Schoolcraft County, Michigan",26153,78.61,19.1,10.78,19.1
+"Shiawassee County, Michigan",26155,77.88,18.27,11.22,18.27
+"Tuscola County, Michigan",26157,78.08,19.07,3.73,19.07
+"Van Buren County, Michigan",26159,77.69,15.28,13.17,15.28
+"Washtenaw County, Michigan",26161,81.09,10.66,9.91,10.66
+"Wayne County, Michigan",26163,75.33,12.97,21.52,12.97
+"Wexford County, Michigan",26165,77.83,19.23,14.38,19.23
+Minnesota,27,80.9,12.44,5.92,12.44
+"Aitkin County, Minnesota",27001,80.35,15.92,9.97,15.92
+"Anoka County, Minnesota",27003,81.18,12.32,6.03,12.32
+"Becker County, Minnesota",27005,79.01,17.39,5.62,17.39
+"Beltrami County, Minnesota",27007,78.41,20.95,9.58,20.95
+"Benton County, Minnesota",27009,79.49,13.69,6.23,13.69
+"Big Stone County, Minnesota",27011,79.89,12.76,4.9,12.76
+"Blue Earth County, Minnesota",27013,81.02,12.78,3.21,12.78
+"Brown County, Minnesota",27015,81.26,12.82,2.44,12.82
+"Carlton County, Minnesota",27017,78.5,17.74,9.73,17.74
+"Carver County, Minnesota",27019,82.8,9.84,2.49,9.84
+"Cass County, Minnesota",27021,78.64,18.78,11.92,18.78
+"Chippewa County, Minnesota",27023,80.65,12.23,4.06,12.23
+"Chisago County, Minnesota",27025,80.34,13.09,5.96,13.09
+"Clay County, Minnesota",27027,80.53,12.96,7.27,12.96
+"Clearwater County, Minnesota",27029,78.35,19.73,8.2,19.73
+"Cook County, Minnesota",27031,82.03,13.91,6.3,13.91
+"Cottonwood County, Minnesota",27033,81.25,13.41,2.48,13.41
+"Crow Wing County, Minnesota",27035,80.44,15.26,7.65,15.26
+"Dakota County, Minnesota",27037,81.9,11.5,3.82,11.5
+"Dodge County, Minnesota",27039,81.62,14.35,2.91,14.35
+"Douglas County, Minnesota",27041,81.56,11.58,3.27,11.58
+"Faribault County, Minnesota",27043,80.59,12.09,2.15,12.09
+"Fillmore County, Minnesota",27045,81.16,11.84,4,11.84
+"Freeborn County, Minnesota",27047,80.76,12.83,3.89,12.83
+"Goodhue County, Minnesota",27049,80.66,14.13,3.86,14.13
+"Grant County, Minnesota",27051,80.26,11.64,3.97,11.64
+"Hennepin County, Minnesota",27053,81,10.97,7.5,10.97
+"Houston County, Minnesota",27055,81.74,11.47,3.99,11.47
+"Hubbard County, Minnesota",27057,80.65,18.89,6.14,18.89
+"Isanti County, Minnesota",27059,80.38,12.61,4.6,12.61
+"Itasca County, Minnesota",27061,79.17,17.79,9.02,17.79
+"Jackson County, Minnesota",27063,81.73,12.77,1.82,12.77
+"Kanabec County, Minnesota",27065,80.04,14.36,5.96,14.36
+"Kandiyohi County, Minnesota",27067,81.17,11.58,3.35,11.58
+"Kittson County, Minnesota",27069,78.98,16.42,4.38,16.42
+"Koochiching County, Minnesota",27071,79.3,18.01,5.95,18.01
+"Lac qui Parle County, Minnesota",27073,81.29,11.54,3.12,11.54
+"Lake County, Minnesota",27075,80.02,14.75,5.69,14.75
+"Lake of the Woods County, Minnesota",27077,80.16,17.84,6.94,17.84
+"Le Sueur County, Minnesota",27079,81.46,13.36,2.54,13.36
+"Lincoln County, Minnesota",27081,80.48,10.61,3.66,10.61
+"Lyon County, Minnesota",27083,80.75,12.17,2.9,12.17
+"Mahnomen County, Minnesota",27087,76.75,20.88,14.19,20.88
+"Marshall County, Minnesota",27089,82.05,11.45,3.41,11.45
+"Martin County, Minnesota",27091,81.16,12.68,2.75,12.68
+"McLeod County, Minnesota",27085,81.3,11.47,3.55,11.47
+"Meeker County, Minnesota",27093,80.63,14.71,4.06,14.71
+"Mille Lacs County, Minnesota",27095,78.72,15.12,10.5,15.12
+"Morrison County, Minnesota",27097,80.28,15.62,5.52,15.62
+"Mower County, Minnesota",27099,81.63,13.78,4.48,13.78
+"Murray County, Minnesota",27101,81.53,11.95,2.42,11.95
+"Nicollet County, Minnesota",27103,81.99,11.4,3.11,11.4
+"Nobles County, Minnesota",27105,81.35,9.85,1.95,9.85
+"Norman County, Minnesota",27107,79.27,11.8,3.89,11.8
+"Olmsted County, Minnesota",27109,82.24,10.96,6.33,10.96
+"Otter Tail County, Minnesota",27111,80.45,15.62,3.82,15.62
+"Pennington County, Minnesota",27113,79.73,15.17,6.11,15.17
+"Pine County, Minnesota",27115,79.3,15.43,6.6,15.43
+"Pipestone County, Minnesota",27117,80.33,14.08,2.61,14.08
+"Polk County, Minnesota",27119,78.94,16.02,8.23,16.02
+"Pope County, Minnesota",27121,80.92,12.42,3.22,12.42
+"Ramsey County, Minnesota",27123,79.98,13.04,8.2,13.04
+"Red Lake County, Minnesota",27125,79.29,18.81,4.67,18.81
+"Redwood County, Minnesota",27127,80.04,15.08,3.29,15.08
+"Renville County, Minnesota",27129,79.67,15.65,4.43,15.65
+"Rice County, Minnesota",27131,81.12,12.24,3.47,12.24
+"Rock County, Minnesota",27133,79.89,13.29,2.95,13.29
+"Roseau County, Minnesota",27135,80.24,14.06,4.09,14.06
+"Saint Louis County, Minnesota",27137,79.24,16.53,9.54,16.53
+"Scott County, Minnesota",27139,81.95,10.58,3.22,10.58
+"Sherburne County, Minnesota",27141,81.12,15.19,5.11,15.19
+"Sibley County, Minnesota",27143,80.88,11.01,3.09,11.01
+"Stearns County, Minnesota",27145,82.1,12.26,4.91,12.26
+"Steele County, Minnesota",27147,81.68,11.26,3.34,11.26
+"Stevens County, Minnesota",27149,82.22,9.72,3.76,9.72
+"Swift County, Minnesota",27151,81.13,10.9,3.36,10.9
+"Todd County, Minnesota",27153,80.71,14.33,4.54,14.33
+"Traverse County, Minnesota",27155,81.04,11.91,3.64,11.91
+"Wabasha County, Minnesota",27157,81.65,11.98,3.62,11.98
+"Wadena County, Minnesota",27159,78.83,16.55,5.22,16.55
+"Waseca County, Minnesota",27161,81.59,10.08,2.52,10.08
+"Washington County, Minnesota",27163,81.97,10.59,4.57,10.59
+"Watonwan County, Minnesota",27165,80.84,12.04,2.31,12.04
+"Wilkin County, Minnesota",27167,79.5,12.62,4.47,12.62
+"Winona County, Minnesota",27169,80.99,11.29,7.33,11.29
+"Wright County, Minnesota",27171,81.17,12.41,3.85,12.41
+"Yellow Medicine County, Minnesota",27173,80.85,13.3,2.83,13.3
+Mississippi,28,74.91,15.66,9.58,15.66
+"Adams County, Mississippi",28001,74.09,15.59,9.1,15.59
+"Alcorn County, Mississippi",28003,74.16,21.19,13.9,21.19
+"Amite County, Mississippi",28005,76.19,13.36,9.38,13.36
+"Attala County, Mississippi",28007,73.58,15.17,6.55,15.17
+"Benton County, Mississippi",28009,74.64,18.14,5.57,18.14
+"Bolivar County, Mississippi",28011,71.72,12.69,5.62,12.69
+"Calhoun County, Mississippi",28013,74.73,15.26,6.82,15.26
+"Carroll County, Mississippi",28015,76.49,14.85,5.06,14.85
+"Chickasaw County, Mississippi",28017,75.35,14.06,6.21,14.06
+"Choctaw County, Mississippi",28019,76.48,14.66,5.71,14.66
+"Claiborne County, Mississippi",28021,73.11,12,5.15,12
+"Clarke County, Mississippi",28023,75.04,14.49,10.53,14.49
+"Clay County, Mississippi",28025,75.1,14.9,5.44,14.9
+"Coahoma County, Mississippi",28027,71.14,14.7,12.59,14.7
+"Copiah County, Mississippi",28029,74.47,14.92,7.35,14.92
+"Covington County, Mississippi",28031,73.58,17.03,8.39,17.03
+"DeSoto County, Mississippi",28033,76.96,14.81,8.66,14.81
+"Forrest County, Mississippi",28035,74.73,15.14,10.23,15.14
+"Franklin County, Mississippi",28037,74.86,18.47,7.21,18.47
+"George County, Mississippi",28039,73.18,16.46,15.79,16.46
+"Greene County, Mississippi",28041,75.1,11.1,5.28,11.1
+"Grenada County, Mississippi",28043,72.67,19.2,7.95,19.2
+"Hancock County, Mississippi",28045,76.3,24.64,21.09,24.64
+"Harrison County, Mississippi",28047,74.99,20.34,17.96,20.34
+"Hinds County, Mississippi",28049,75.4,12.14,4.16,12.14
+"Holmes County, Mississippi",28051,71.01,16.42,5.82,16.42
+"Humphreys County, Mississippi",28053,71.9,11.17,5,11.17
+"Issaquena County, Mississippi",28055,75.74,13.91,4.44,13.91
+"Itawamba County, Mississippi",28057,74.65,20.91,8.57,20.91
+"Jackson County, Mississippi",28059,75.69,18.71,20.23,18.71
+"Jasper County, Mississippi",28061,74.89,16.4,7.64,16.4
+"Jefferson County, Mississippi",28063,73.35,13.76,5.9,13.76
+"Jefferson Davis County, Mississippi",28065,73.59,17.4,9.75,17.4
+"Jones County, Mississippi",28067,74.95,16.5,7.94,16.5
+"Kemper County, Mississippi",28069,76.61,14.84,6.33,14.84
+"Lafayette County, Mississippi",28071,76.82,12.49,6.24,12.49
+"Lamar County, Mississippi",28073,77.9,13.3,8.13,13.3
+"Lauderdale County, Mississippi",28075,74.89,15.39,6.85,15.39
+"Lawrence County, Mississippi",28077,73.88,14.67,8.7,14.67
+"Leake County, Mississippi",28079,72.83,15.49,8.42,15.49
+"Lee County, Mississippi",28081,74.65,16.24,7.16,16.24
+"Leflore County, Mississippi",28083,72.73,11.73,6.74,11.73
+"Lincoln County, Mississippi",28085,74.53,13.29,11.14,13.29
+"Lowndes County, Mississippi",28087,76.06,14.09,7.86,14.09
+"Madison County, Mississippi",28089,73.8,12.82,6.62,12.82
+"Marion County, Mississippi",28091,72.65,20.46,16.83,20.46
+"Marshall County, Mississippi",28093,73.4,14.64,8.56,14.64
+"Monroe County, Mississippi",28095,75.67,14.78,6.68,14.78
+"Montgomery County, Mississippi",28097,73.74,18.76,9.97,18.76
+"Neshoba County, Mississippi",28099,73.06,15.56,12.28,15.56
+"Newton County, Mississippi",28101,74.31,17.69,7.66,17.69
+"Noxubee County, Mississippi",28103,74.97,10.29,4.56,10.29
+"Oktibbeha County, Mississippi",28105,77.93,11.37,3.11,11.37
+"Panola County, Mississippi",28107,72.7,18.93,11.58,18.93
+"Pearl River County, Mississippi",28109,74.9,17.82,20.21,17.82
+"Perry County, Mississippi",28111,74.32,14.38,13.04,14.38
+"Pike County, Mississippi",28113,73.42,16.13,9.61,16.13
+"Pontotoc County, Mississippi",28115,76.97,15.82,9.82,15.82
+"Prentiss County, Mississippi",28117,75.92,17.25,9.42,17.25
+"Quitman County, Mississippi",28119,71.48,14.56,11.09,14.56
+"Rankin County, Mississippi",28121,78.4,14.13,8.03,14.13
+"Scott County, Mississippi",28123,74.16,16.03,6.92,16.03
+"Sharkey County, Mississippi",28125,72.88,13.48,4.66,13.48
+"Simpson County, Mississippi",28127,74.32,19.45,7.71,19.45
+"Smith County, Mississippi",28129,75.03,14.28,8.59,14.28
+"Stone County, Mississippi",28131,73.98,18.3,14.97,18.3
+"Sunflower County, Mississippi",28133,71.61,13.3,5.21,13.3
+"Tallahatchie County, Mississippi",28135,74.02,14.67,6.77,14.67
+"Tate County, Mississippi",28137,74.89,15.5,10.24,15.5
+"Tippah County, Mississippi",28139,74.03,20.8,5.94,20.8
+"Tishomingo County, Mississippi",28141,73.69,23.91,23.02,23.91
+"Tunica County, Mississippi",28143,70.93,16.08,7.46,16.08
+"Union County, Mississippi",28145,76.15,16.46,5.69,16.46
+"Walthall County, Mississippi",28147,74.59,18.33,10.32,18.33
+"Warren County, Mississippi",28149,74.3,15.78,6.24,15.78
+"Washington County, Mississippi",28151,71.81,12.02,6.09,12.02
+"Wayne County, Mississippi",28153,74.58,12.74,11.23,12.74
+"Webster County, Mississippi",28155,73.01,16.13,8.02,16.13
+"Wilkinson County, Mississippi",28157,72.38,12.84,7.9,12.84
+"Winston County, Mississippi",28159,75.08,16.43,10.01,16.43
+"Yalobusha County, Mississippi",28161,73.35,20.73,6.9,20.73
+"Yazoo County, Mississippi",28163,73.51,16.24,5.68,16.24
+Missouri,29,77.73,16.25,12.1,16.25
+"Adair County, Missouri",29001,77.97,16.73,7.93,16.73
+"Andrew County, Missouri",29003,78.74,13.41,4.57,13.41
+"Atchison County, Missouri",29005,78.39,11.96,3.94,11.96
+"Audrain County, Missouri",29007,77.47,15.88,10.11,15.88
+"Barry County, Missouri",29009,76.95,18.23,9.59,18.23
+"Barton County, Missouri",29011,77.97,19.24,10.05,19.24
+"Bates County, Missouri",29013,76.84,20.21,15.77,20.21
+"Benton County, Missouri",29015,76.58,22.85,12.43,22.85
+"Bollinger County, Missouri",29017,76.52,17.99,8.34,17.99
+"Boone County, Missouri",29019,79.82,12.83,8.74,12.83
+"Buchanan County, Missouri",29021,76.56,14.99,9.75,14.99
+"Butler County, Missouri",29023,74.24,22.5,23.55,22.5
+"Caldwell County, Missouri",29025,77.47,19.5,9.5,19.5
+"Callaway County, Missouri",29027,77.89,18.49,12.76,18.49
+"Camden County, Missouri",29029,78.79,18.09,12.31,18.09
+"Cape Girardeau County, Missouri",29031,78.57,17.66,4.79,17.66
+"Carroll County, Missouri",29033,77.36,19.26,8.49,19.26
+"Carter County, Missouri",29035,73.92,22.34,13.85,22.34
+"Cass County, Missouri",29037,78.41,16.88,9.54,16.88
+"Cedar County, Missouri",29039,76.71,20.59,14.86,20.59
+"Chariton County, Missouri",29041,78.69,12.83,7.33,12.83
+"Christian County, Missouri",29043,79.26,16.02,9.52,16.02
+"Clark County, Missouri",29045,77.3,16.05,6.04,16.05
+"Clay County, Missouri",29047,79.12,15.37,7.77,15.37
+"Clinton County, Missouri",29049,76.44,19.41,9.22,19.41
+"Cole County, Missouri",29051,78.64,15.22,7.37,15.22
+"Cooper County, Missouri",29053,77.93,15.88,7.67,15.88
+"Crawford County, Missouri",29055,76.01,19.69,15.21,19.69
+"Dade County, Missouri",29057,76.96,18.75,11.46,18.75
+"Dallas County, Missouri",29059,76.95,20.72,14.07,20.72
+"Daviess County, Missouri",29061,77.54,17.6,5.78,17.6
+"DeKalb County, Missouri",29063,78.55,11.89,6.38,11.89
+"Dent County, Missouri",29065,76,21.93,21.85,21.93
+"Douglas County, Missouri",29067,77.57,20.16,9.57,20.16
+"Dunklin County, Missouri",29069,72.62,21.3,20.66,21.3
+"Franklin County, Missouri",29071,77.44,19.81,13.53,19.81
+"Gasconade County, Missouri",29073,77.55,16.7,11.49,16.7
+"Gentry County, Missouri",29075,78.35,15.24,5.17,15.24
+"Greene County, Missouri",29077,78.13,17.62,18.66,17.62
+"Grundy County, Missouri",29079,77.67,15.41,7.7,15.41
+"Harrison County, Missouri",29081,78.48,18.62,8.34,18.62
+"Henry County, Missouri",29083,76.35,19.67,7.57,19.67
+"Hickory County, Missouri",29085,77.25,19.82,14.4,19.82
+"Holt County, Missouri",29087,79.17,13.84,4.72,13.84
+"Howard County, Missouri",29089,78.61,14.04,7.22,14.04
+"Howell County, Missouri",29091,75.78,22.44,15.61,22.44
+"Iron County, Missouri",29093,72.72,20.62,23.18,20.62
+"Jackson County, Missouri",29095,77.19,16.14,12.44,16.14
+"Jasper County, Missouri",29097,76.09,21.92,11.36,21.92
+"Jefferson County, Missouri",29099,76.65,19.12,16.27,19.12
+"Johnson County, Missouri",29101,78.26,16,4.1,16
+"Knox County, Missouri",29103,77.44,15.75,7.78,15.75
+"Laclede County, Missouri",29105,76.29,18.14,6.07,18.14
+"Lafayette County, Missouri",29107,77.46,14.03,7.07,14.03
+"Lawrence County, Missouri",29109,76.84,17.19,14.58,17.19
+"Lewis County, Missouri",29111,77.49,13.65,7,13.65
+"Lincoln County, Missouri",29113,77.32,17.95,11.63,17.95
+"Linn County, Missouri",29115,76.94,18.13,8.66,18.13
+"Livingston County, Missouri",29117,77.92,13.8,11.34,13.8
+"Macon County, Missouri",29121,77.49,19.72,9.09,19.72
+"Madison County, Missouri",29123,74.89,19.5,19.42,19.5
+"Maries County, Missouri",29125,77.46,19.79,10.33,19.79
+"Marion County, Missouri",29127,77.03,15.05,11.99,15.05
+"McDonald County, Missouri",29119,74.75,24.03,9.63,24.03
+"Mercer County, Missouri",29129,78.92,24.73,5.43,24.73
+"Miller County, Missouri",29131,76.61,16.86,11.83,16.86
+"Mississippi County, Missouri",29133,73.66,17.65,8.13,17.65
+"Moniteau County, Missouri",29135,78.16,11.45,5.32,11.45
+"Monroe County, Missouri",29137,78.35,18.84,7.51,18.84
+"Montgomery County, Missouri",29139,76.81,18.43,13.49,18.43
+"Morgan County, Missouri",29141,76.01,18.39,11.89,18.39
+"New Madrid County, Missouri",29143,73.8,16.09,10.62,16.09
+"Newton County, Missouri",29145,77.17,18.54,8.63,18.54
+"Nodaway County, Missouri",29147,79.88,14.02,3.56,14.02
+"Oregon County, Missouri",29149,76.08,18.87,10.95,18.87
+"Osage County, Missouri",29151,78.77,16.32,7.23,16.32
+"Ozark County, Missouri",29153,76.11,24.35,14.81,24.35
+"Pemiscot County, Missouri",29155,72.04,23.25,19.6,23.25
+"Perry County, Missouri",29157,78.63,15.33,9.61,15.33
+"Pettis County, Missouri",29159,78.05,14.29,8.02,14.29
+"Phelps County, Missouri",29161,77.26,15.63,13.07,15.63
+"Pike County, Missouri",29163,77.26,16.23,7.7,16.23
+"Platte County, Missouri",29165,80.39,13.09,7.96,13.09
+"Polk County, Missouri",29167,76.57,17.9,17.76,17.9
+"Pulaski County, Missouri",29169,76.26,14.97,11.15,14.97
+"Putnam County, Missouri",29171,77.73,22.08,6.51,22.08
+"Ralls County, Missouri",29173,79.2,16.39,7.43,16.39
+"Randolph County, Missouri",29175,76.33,20.73,8.47,20.73
+"Ray County, Missouri",29177,76.66,18.86,8.48,18.86
+"Reynolds County, Missouri",29179,75.41,20.5,15.49,20.5
+"Ripley County, Missouri",29181,74.41,20.65,11.49,20.65
+"Saint Charles County, Missouri",29183,80.46,12.88,8.74,12.88
+"Saint Clair County, Missouri",29185,76.57,20.72,8.42,20.72
+"Saint Francois County, Missouri",29187,74.72,19.43,27.66,19.43
+"Saint Louis City, Missouri",29510,74.14,14.71,24.78,14.71
+"Saint Louis County, Missouri",29189,79.49,14.13,10.83,14.13
+"Sainte Genevieve County, Missouri",29186,78.35,17.32,13.44,17.32
+"Saline County, Missouri",29195,77.17,13.92,8.76,13.92
+"Schuyler County, Missouri",29197,78.06,19.62,5.42,19.62
+"Scotland County, Missouri",29199,78.07,18.79,5.21,18.79
+"Scott County, Missouri",29201,75.7,16.91,10.39,16.91
+"Shannon County, Missouri",29203,76.1,16.72,11.08,16.72
+"Shelby County, Missouri",29205,77.96,13.48,7.83,13.48
+"Stoddard County, Missouri",29207,76.32,16.84,11.44,16.84
+"Stone County, Missouri",29209,78.64,17.81,9.76,17.81
+"Sullivan County, Missouri",29211,76.83,19.21,11.3,19.21
+"Taney County, Missouri",29213,78.06,17.15,11.6,17.15
+"Texas County, Missouri",29215,77.16,18.04,8.66,18.04
+"Vernon County, Missouri",29217,76.11,20.86,12.34,20.86
+"Warren County, Missouri",29219,78.64,17.9,15.2,17.9
+"Washington County, Missouri",29221,73.9,17.33,21.26,17.33
+"Wayne County, Missouri",29223,74.38,23.66,19.92,23.66
+"Webster County, Missouri",29225,77.75,18.57,11.73,18.57
+"Worth County, Missouri",29227,78.7,16.36,4.95,16.36
+"Wright County, Missouri",29229,75.92,19.69,6.76,19.69
+Montana,30,78.93,24.22,7.78,24.22
+"Beaverhead County, Montana",30001,79.97,25.8,5.6,25.8
+"Big Horn County, Montana",30003,73.62,28.08,8.58,28.08
+"Blaine County, Montana",30005,76.35,25.21,7.04,25.21
+"Broadwater County, Montana",30007,79.57,21.61,7.64,21.61
+"Carbon County, Montana",30009,80.36,21.59,7.12,21.59
+"Carter County, Montana",30011,79.49,18.7,4,18.7
+"Cascade County, Montana",30013,78.76,22.69,8.8,22.69
+"Chouteau County, Montana",30015,79.55,21.41,6.72,21.41
+"Custer County, Montana",30017,77.63,27.89,7.34,27.89
+"Daniels County, Montana",30019,79.14,18.27,6.07,18.27
+"Dawson County, Montana",30021,78.57,19.36,7.8,19.36
+"Deer Lodge County, Montana",30023,77.17,31.5,15.96,31.5
+"Fallon County, Montana",30025,78.77,16.42,5.5,16.42
+"Fergus County, Montana",30027,78.62,23.24,5.35,23.24
+"Flathead County, Montana",30029,79.07,23.28,8.79,23.28
+"Gallatin County, Montana",30031,81.98,16.45,4.8,16.45
+"Garfield County, Montana",30033,80.29,16.07,3.76,16.07
+"Glacier County, Montana",30035,73.58,27.28,15.64,27.28
+"Golden Valley County, Montana",30037,79.67,21.53,3.45,21.53
+"Granite County, Montana",30039,80.35,28.56,7.09,28.56
+"Hill County, Montana",30041,77.14,22.38,13.47,22.38
+"Jefferson County, Montana",30043,78.88,22.52,8.06,22.52
+"Judith Basin County, Montana",30045,80.86,21.1,4.45,21.1
+"Lake County, Montana",30047,78.34,29.27,14.58,29.27
+"Lewis and Clark County, Montana",30049,79.18,23.66,6.84,23.66
+"Liberty County, Montana",30051,81.23,11.78,7.59,11.78
+"Lincoln County, Montana",30053,77.55,25.42,10.13,25.42
+"Madison County, Montana",30057,80.87,23.81,4.95,23.81
+"McCone County, Montana",30055,79.44,17.55,4.58,17.55
+"Meagher County, Montana",30059,78.48,28.99,6.41,28.99
+"Mineral County, Montana",30061,77.84,32.61,14.23,32.61
+"Missoula County, Montana",30063,79.65,24.38,8.68,24.38
+"Musselshell County, Montana",30065,76.61,29.58,5.85,29.58
+"Park County, Montana",30067,80.04,28.97,8.86,28.97
+"Petroleum County, Montana",30069,79.24,19.09,4.68,19.09
+"Phillips County, Montana",30071,78.73,21.6,4.49,21.6
+"Pondera County, Montana",30073,78.88,17.6,6.53,17.6
+"Powder River County, Montana",30075,79.64,21.83,5.8,21.83
+"Powell County, Montana",30077,77.54,31.31,13.87,31.31
+"Prairie County, Montana",30079,79.19,16.82,5.79,16.82
+"Ravalli County, Montana",30081,80.14,26.71,7.84,26.71
+"Richland County, Montana",30083,77.62,19.43,6.99,19.43
+"Roosevelt County, Montana",30085,71.2,39.95,13.29,39.95
+"Rosebud County, Montana",30087,75.63,29.17,6.47,29.17
+"Sanders County, Montana",30089,78.34,29.79,11.71,29.79
+"Sheridan County, Montana",30091,77.49,26.15,6.46,26.15
+"Silver Bow County, Montana",30093,76.9,30.51,15.1,30.51
+"Stillwater County, Montana",30095,79.87,21.4,2.86,21.4
+"Sweet Grass County, Montana",30097,80.83,23.35,3.83,23.35
+"Teton County, Montana",30099,80.19,18.94,5.84,18.94
+"Toole County, Montana",30101,78.48,16.41,6.31,16.41
+"Treasure County, Montana",30103,79.7,20.52,4.28,20.52
+"Valley County, Montana",30105,78.98,20.88,4.7,20.88
+"Wheatland County, Montana",30107,79.63,21.98,5.05,21.98
+"Wibaux County, Montana",30109,77.46,18.75,6.43,18.75
+"Yellowstone County, Montana",30111,78.94,26.4,4.07,26.4
+Nebraska,31,79.58,13.28,4.97,13.28
+"Adams County, Nebraska",31001,79.59,12.94,3.42,12.94
+"Antelope County, Nebraska",31003,81.22,9.62,3.09,9.62
+"Arthur County, Nebraska",31005,79.9,16.46,3.35,16.46
+"Banner County, Nebraska",31007,81.42,16.22,4.11,16.22
+"Blaine County, Nebraska",31009,79.78,13.92,2.75,13.92
+"Boone County, Nebraska",31011,81.06,8.1,2.7,8.1
+"Box Butte County, Nebraska",31013,78.71,17.56,6.79,17.56
+"Boyd County, Nebraska",31015,80,12.53,3.28,12.53
+"Brown County, Nebraska",31017,80.4,10.59,3.31,10.59
+"Buffalo County, Nebraska",31019,80.29,11.93,3.9,11.93
+"Burt County, Nebraska",31021,78.84,12.29,4.49,12.29
+"Butler County, Nebraska",31023,80.02,12.98,2.6,12.98
+"Cass County, Nebraska",31025,79.18,15.54,5.21,15.54
+"Cedar County, Nebraska",31027,81.35,12.39,2.36,12.39
+"Chase County, Nebraska",31029,79.38,17.6,4.74,17.6
+"Cherry County, Nebraska",31031,80.12,14.06,3.5,14.06
+"Cheyenne County, Nebraska",31033,79.28,19.52,5.79,19.52
+"Clay County, Nebraska",31035,79.07,12,3.19,12
+"Colfax County, Nebraska",31037,80.58,11.4,2.3,11.4
+"Cuming County, Nebraska",31039,81.2,8.79,2.56,8.79
+"Custer County, Nebraska",31041,79.27,12.53,3.5,12.53
+"Dakota County, Nebraska",31043,78.39,12.97,5.03,12.97
+"Dawes County, Nebraska",31045,79.71,17.04,6.77,17.04
+"Dawson County, Nebraska",31047,78.96,14.57,3.91,14.57
+"Deuel County, Nebraska",31049,79.99,17.29,5.71,17.29
+"Dixon County, Nebraska",31051,80.18,11.07,2.99,11.07
+"Dodge County, Nebraska",31053,79.2,14.37,4.03,14.37
+"Douglas County, Nebraska",31055,78.64,13.13,6.77,13.13
+"Dundy County, Nebraska",31057,78.76,19.37,4.69,19.37
+"Fillmore County, Nebraska",31059,79.03,13.3,3.75,13.3
+"Franklin County, Nebraska",31061,79.2,16.04,4.22,16.04
+"Frontier County, Nebraska",31063,81.12,12.08,3.31,12.08
+"Furnas County, Nebraska",31065,78.44,17.17,4.42,17.17
+"Gage County, Nebraska",31067,78.97,18.68,5.04,18.68
+"Garden County, Nebraska",31069,78.43,17.3,4.63,17.3
+"Garfield County, Nebraska",31071,79.46,13.58,3.37,13.58
+"Gosper County, Nebraska",31073,79.86,10.43,3.3,10.43
+"Grant County, Nebraska",31075,79.71,19.38,3.46,19.38
+"Greeley County, Nebraska",31077,80.43,12.09,2.85,12.09
+"Hall County, Nebraska",31079,79.02,13.3,4.18,13.3
+"Hamilton County, Nebraska",31081,80.41,9.8,2.75,9.8
+"Harlan County, Nebraska",31083,79.94,12.92,4.58,12.92
+"Hayes County, Nebraska",31085,82.14,12.65,3.41,12.65
+"Hitchcock County, Nebraska",31087,79.17,19.06,5.45,19.06
+"Holt County, Nebraska",31089,80.49,12.52,2.28,12.52
+"Hooker County, Nebraska",31091,80.35,13.81,3.82,13.81
+"Howard County, Nebraska",31093,80.24,14.12,2.89,14.12
+"Jefferson County, Nebraska",31095,78.98,15,5,15
+"Johnson County, Nebraska",31097,79.37,18.79,6.06,18.79
+"Kearney County, Nebraska",31099,79.65,13.78,4.43,13.78
+"Keith County, Nebraska",31101,79.24,19.01,4.61,19.01
+"Keya Paha County, Nebraska",31103,81.14,13.46,2.65,13.46
+"Kimball County, Nebraska",31105,78.34,19.23,7.41,19.23
+"Knox County, Nebraska",31107,79.44,12.61,3.98,12.61
+"Lancaster County, Nebraska",31109,80.46,14.37,5.02,14.37
+"Lincoln County, Nebraska",31111,79.14,18.82,5.47,18.82
+"Logan County, Nebraska",31113,79.21,14.92,3.06,14.92
+"Loup County, Nebraska",31115,81.1,11.03,2.2,11.03
+"Madison County, Nebraska",31119,79.26,11.55,3.77,11.55
+"McPherson County, Nebraska",31117,82.41,11.71,2.23,11.71
+"Merrick County, Nebraska",31121,79.46,14.85,4.09,14.85
+"Morrill County, Nebraska",31123,78.3,15.67,5.08,15.67
+"Nance County, Nebraska",31125,78.45,12.31,5.1,12.31
+"Nemaha County, Nebraska",31127,79.29,15.73,5.78,15.73
+"Nuckolls County, Nebraska",31129,80.12,12.8,3.71,12.8
+"Otoe County, Nebraska",31131,79.66,13.05,3.87,13.05
+"Pawnee County, Nebraska",31133,79.8,18.9,5.2,18.9
+"Perkins County, Nebraska",31135,80.3,16.08,4.03,16.08
+"Phelps County, Nebraska",31137,79.86,11.65,3.77,11.65
+"Pierce County, Nebraska",31139,80.4,10.46,3.29,10.46
+"Platte County, Nebraska",31141,80.68,10.08,2.91,10.08
+"Polk County, Nebraska",31143,80.64,9.73,2.87,9.73
+"Red Willow County, Nebraska",31145,79.37,17.47,5.03,17.47
+"Richardson County, Nebraska",31147,78.34,17.1,5.14,17.1
+"Rock County, Nebraska",31149,80.22,11.71,2.4,11.71
+"Saline County, Nebraska",31151,79.27,14.48,3.16,14.48
+"Sarpy County, Nebraska",31153,80.5,10.08,3.57,10.08
+"Saunders County, Nebraska",31155,80.35,15.27,2.79,15.27
+"Scotts Bluff County, Nebraska",31157,78.09,16.41,6.77,16.41
+"Seward County, Nebraska",31159,80.06,11.25,3.53,11.25
+"Sheridan County, Nebraska",31161,79.07,16.6,5.95,16.6
+"Sherman County, Nebraska",31163,80.24,13,2.83,13
+"Sioux County, Nebraska",31165,82.57,13.36,3.8,13.36
+"Stanton County, Nebraska",31167,81.18,9.27,2.6,9.27
+"Thayer County, Nebraska",31169,79.7,11.62,3.69,11.62
+"Thomas County, Nebraska",31171,80.56,16.64,3.07,16.64
+"Thurston County, Nebraska",31173,73.88,21.62,7.29,21.62
+"Valley County, Nebraska",31175,80.53,11.4,2.89,11.4
+"Washington County, Nebraska",31177,80.54,10.43,2.95,10.43
+"Wayne County, Nebraska",31179,82.82,8.65,2.26,8.65
+"Webster County, Nebraska",31181,78.78,16.74,3.62,16.74
+"Wheeler County, Nebraska",31183,81.12,10.2,2.43,10.2
+"York County, Nebraska",31185,80.44,10.64,2.95,10.64
+Nevada,32,78.11,21.64,13.38,21.64
+"Carson City, Nevada",32510,76.76,26.33,15.25,26.33
+"Churchill County, Nevada",32001,76.55,27.72,16.18,27.72
+"Clark County, Nevada",32003,78.27,19.92,13.36,19.92
+"Douglas County, Nevada",32005,81.07,20.92,11.04,20.92
+"Elko County, Nevada",32007,78.31,27.8,8.04,27.8
+"Esmeralda County, Nevada",32009,75.48,34.54,8.15,34.54
+"Eureka County, Nevada",32011,77.54,29.62,8.73,29.62
+"Humboldt County, Nevada",32013,76.37,33.9,8.3,33.9
+"Lander County, Nevada",32015,76.62,32.31,11.83,32.31
+"Lincoln County, Nevada",32017,76.68,32.46,11.57,32.46
+"Lyon County, Nevada",32019,76.6,35.14,11.66,35.14
+"Mineral County, Nevada",32021,74.26,37.66,15.96,37.66
+"Nye County, Nevada",32023,74.1,39.79,25.55,39.79
+"Pershing County, Nevada",32027,78.36,24.85,8.07,24.85
+"Storey County, Nevada",32029,82.13,27.68,7.42,27.68
+"Washoe County, Nevada",32031,78.12,23.17,13.5,23.17
+"White Pine County, Nevada",32033,76.74,38.61,17.34,38.61
+"New Hampshire",33,80.15,15.11,12.14,15.11
+"Belknap County, New Hampshire",33001,79.68,16.77,11.89,16.77
+"Carroll County, New Hampshire",33003,80.82,19.16,10.73,19.16
+"Cheshire County, New Hampshire",33005,80.08,15.8,9.92,15.8
+"Coos County, New Hampshire",33007,78.19,20.03,15.02,20.03
+"Grafton County, New Hampshire",33009,80.86,13.73,8.18,13.73
+"Hillsborough County, New Hampshire",33011,80.07,15.97,13.41,15.97
+"Merrimack County, New Hampshire",33013,79.89,15.44,12.64,15.44
+"Rockingham County, New Hampshire",33015,80.64,12.95,11.36,12.95
+"Strafford County, New Hampshire",33017,79.49,14.01,14.51,14.01
+"Sullivan County, New Hampshire",33019,79.5,17.09,10.35,17.09
+"New Jersey",34,80.04,8.65,10.09,8.65
+"Atlantic County, New Jersey",34001,77.71,13.61,17.76,13.61
+"Bergen County, New Jersey",34003,82.47,8.02,6.09,8.02
+"Burlington County, New Jersey",34005,79.77,10.4,10.22,10.4
+"Camden County, New Jersey",34007,78.12,11.58,17.51,11.58
+"Cape May County, New Jersey",34009,78.12,15.15,16.27,15.15
+"Cumberland County, New Jersey",34011,76.6,11.07,13.19,11.07
+"Essex County, New Jersey",34013,78.47,7.36,11.73,7.36
+"Gloucester County, New Jersey",34015,78.59,10.18,14.61,10.18
+"Hudson County, New Jersey",34017,80.33,6.48,7.18,6.48
+"Hunterdon County, New Jersey",34019,82.45,8.93,5.52,8.93
+"Mercer County, New Jersey",34021,79.8,7.41,8.11,7.41
+"Middlesex County, New Jersey",34023,81.2,6.69,8.87,6.69
+"Monmouth County, New Jersey",34025,80.24,8.94,11.21,8.94
+"Morris County, New Jersey",34027,82,7.95,6.58,7.95
+"Ocean County, New Jersey",34029,79.16,11.44,15.8,11.44
+"Passaic County, New Jersey",34031,79.76,7.48,10.11,7.48
+"Salem County, New Jersey",34033,76.96,13.44,15.33,13.44
+"Somerset County, New Jersey",34035,81.95,7.21,6.04,7.21
+"Sussex County, New Jersey",34037,79.72,10.87,8.41,10.87
+"Union County, New Jersey",34039,80.49,6.83,7.13,6.83
+"Warren County, New Jersey",34041,80.25,10.57,8.82,10.57
+"New Mexico",35,78.35,22.06,18.47,22.06
+"Bernalillo County, New Mexico",35001,78.7,20.81,20.91,20.81
+"Catron County, New Mexico",35003,80.07,35.76,14.03,35.76
+"Chaves County, New Mexico",35005,76.68,22.9,18.34,22.9
+"Cibola County, New Mexico",35006,76.82,22.44,21.31,22.44
+"Colfax County, New Mexico",35007,78.54,26.85,16.46,26.85
+"Curry County, New Mexico",35009,77.53,14.3,10.94,14.3
+"De Baca County, New Mexico",35011,77.61,27.14,12.9,27.14
+"Dona Ana County, New Mexico",35013,79.61,18.56,13.03,18.56
+"Eddy County, New Mexico",35015,76.25,24.17,22.33,24.17
+"Grant County, New Mexico",35017,78.25,34.17,16.14,34.17
+"Guadalupe County, New Mexico",35019,76.89,23.36,21.37,23.36
+"Harding County, New Mexico",35021,80.83,22.88,7.6,22.88
+"Hidalgo County, New Mexico",35023,78.14,22.28,15.39,22.28
+"Lea County, New Mexico",35025,76.18,16.92,14.02,16.92
+"Lincoln County, New Mexico",35027,79.97,28.27,18.68,28.27
+"Los Alamos County, New Mexico",35028,83.49,15.1,7.81,15.1
+"Luna County, New Mexico",35029,77.22,26.23,12.78,26.23
+"McKinley County, New Mexico",35031,74.86,27.84,11.42,27.84
+"Mora County, New Mexico",35033,78.75,28.48,17.69,28.48
+"Otero County, New Mexico",35035,78,23.26,16.59,23.26
+"Quay County, New Mexico",35037,76.02,24.76,19.16,24.76
+"Rio Arriba County, New Mexico",35039,75.35,32.79,57.15,32.79
+"Roosevelt County, New Mexico",35041,77.91,14.55,10.88,14.55
+"San Juan County, New Mexico",35045,77.31,24.03,13.76,24.03
+"San Miguel County, New Mexico",35047,76.67,28.8,23.94,28.8
+"Sandoval County, New Mexico",35043,79.5,20.37,15.13,20.37
+"Santa Fe County, New Mexico",35049,81.07,22.11,18.27,22.11
+"Sierra County, New Mexico",35051,74.9,43.73,26.11,43.73
+"Socorro County, New Mexico",35053,76.52,28.61,21.41,28.61
+"Taos County, New Mexico",35055,79.98,27.11,17.55,27.11
+"Torrance County, New Mexico",35057,76.82,26.04,24.24,26.04
+"Union County, New Mexico",35059,77.62,24.4,11.52,24.4
+"Valencia County, New Mexico",35061,76.82,22.44,21.31,22.44
+"New York",36,80.36,8.61,8.7,8.61
+"Albany County, New York",36001,80.07,11.45,4.76,11.45
+"Allegany County, New York",36003,79.05,14.92,5.92,14.92
+"Bronx County, New York",36005,78.7,6.6,15.12,6.6
+"Broome County, New York",36007,79.38,12.12,10.24,12.12
+"Cattaraugus County, New York",36009,78.32,13.77,5.81,13.77
+"Cayuga County, New York",36011,80.06,10.59,6.6,10.59
+"Chautauqua County, New York",36013,78.97,12.43,8.13,12.43
+"Chemung County, New York",36015,78.74,12.31,7.74,12.31
+"Chenango County, New York",36017,78.64,10.74,7.5,10.74
+"Clinton County, New York",36019,79.18,11.85,6.29,11.85
+"Columbia County, New York",36021,79.49,14.12,5.72,14.12
+"Cortland County, New York",36023,79,10.01,6.47,10.01
+"Delaware County, New York",36025,79.54,13.58,7.65,13.58
+"Dutchess County, New York",36027,80.49,10.48,9.51,10.48
+"Erie County, New York",36029,78.51,11.23,9.92,11.23
+"Essex County, New York",36031,80.11,13.27,4.86,13.27
+"Franklin County, New York",36033,79.17,11.71,5.13,11.71
+"Fulton County, New York",36035,78.88,11.72,5.81,11.72
+"Genesee County, New York",36037,79.2,11.31,4.35,11.31
+"Greene County, New York",36039,78.61,16.64,6.91,16.64
+"Hamilton County, New York",36041,79.3,16.3,4.31,16.3
+"Herkimer County, New York",36043,79.51,14.86,3.51,14.86
+"Jefferson County, New York",36045,79.23,13.22,5.51,13.22
+"Kings County, New York",36047,80.47,5.93,8.5,5.93
+"Lewis County, New York",36049,80.12,15.37,3.97,15.37
+"Livingston County, New York",36051,80.47,10.41,4.94,10.41
+"Madison County, New York",36053,80,11.52,7.05,11.52
+"Monroe County, New York",36055,79.97,9.1,9.07,9.1
+"Montgomery County, New York",36057,78.77,12.13,4.63,12.13
+"Nassau County, New York",36059,82.21,6.48,8.29,6.48
+"New York County, New York",36061,81.86,8.61,10.69,8.61
+"Niagara County, New York",36063,78.44,13.13,9.42,13.13
+"Oneida County, New York",36065,79.15,11.61,8.29,11.61
+"Onondaga County, New York",36067,79.68,9.93,9.28,9.93
+"Ontario County, New York",36069,79.89,11.56,5.72,11.56
+"Orange County, New York",36071,79.8,9.27,10.87,9.27
+"Orleans County, New York",36073,78.67,11.65,4.44,11.65
+"Oswego County, New York",36075,78.3,13.15,7.22,13.15
+"Otsego County, New York",36077,80.14,12.13,6.54,12.13
+"Putnam County, New York",36079,81.83,8.11,7.39,8.11
+"Queens County, New York",36081,81.82,6.28,5.75,6.28
+"Rensselaer County, New York",36083,78.78,11.89,3.92,11.89
+"Richmond County, New York",36085,80,7.34,12.51,7.34
+"Rockland County, New York",36087,82.54,6.43,4.87,6.43
+"Saint Lawrence County, New York",36089,78.74,11.66,4.92,11.66
+"Saratoga County, New York",36091,81.36,11.1,3.16,11.1
+"Schenectady County, New York",36093,79.51,12.23,5.38,12.23
+"Schoharie County, New York",36095,80.29,12.68,3.78,12.68
+"Schuyler County, New York",36097,79.18,12.55,5.07,12.55
+"Seneca County, New York",36099,79.2,11.74,5.39,11.74
+"Steuben County, New York",36101,78.61,14.32,7.05,14.32
+"Suffolk County, New York",36103,80.61,8.84,11.11,8.84
+"Sullivan County, New York",36105,78.03,16.21,15.74,16.21
+"Tioga County, New York",36107,80.02,10.81,9.18,10.81
+"Tompkins County, New York",36109,81.21,9.36,6.45,9.36
+"Ulster County, New York",36111,80.13,12.51,5.8,12.51
+"Warren County, New York",36113,80.01,13.08,4.17,13.08
+"Washington County, New York",36115,79.13,15.14,3.86,15.14
+"Wayne County, New York",36117,79.28,11.12,4.99,11.12
+"Westchester County, New York",36119,82.29,6.92,6.74,6.92
+"Wyoming County, New York",36121,79.31,14.56,4.1,14.56
+"Yates County, New York",36123,79.54,11.53,5.82,11.53
+"North Carolina",37,77.86,13.75,9.86,13.75
+"Alamance County, North Carolina",37001,77.66,12.89,9.5,12.89
+"Alexander County, North Carolina",37003,77.48,20.12,14.67,20.12
+"Alleghany County, North Carolina",37005,77.86,20.25,13.33,20.25
+"Anson County, North Carolina",37007,75.05,16.27,9.65,16.27
+"Ashe County, North Carolina",37009,77.71,21.94,15.79,21.94
+"Avery County, North Carolina",37011,77.58,19.05,14.64,19.05
+"Beaufort County, North Carolina",37013,76.37,16.55,10.32,16.55
+"Bertie County, North Carolina",37015,75.52,11.42,4.65,11.42
+"Bladen County, North Carolina",37017,74.56,14.59,13.6,14.59
+"Brunswick County, North Carolina",37019,78.3,16.83,19.56,16.83
+"Buncombe County, North Carolina",37021,78.8,16.68,10.02,16.68
+"Burke County, North Carolina",37023,76.57,19.31,20.96,19.31
+"Cabarrus County, North Carolina",37025,78.11,13.76,10.13,13.76
+"Caldwell County, North Carolina",37027,75.93,19.14,14.37,19.14
+"Camden County, North Carolina",37029,78.96,14.04,6.18,14.04
+"Carteret County, North Carolina",37031,78,18.5,15.6,18.5
+"Caswell County, North Carolina",37033,76.16,14.2,9.23,14.2
+"Catawba County, North Carolina",37035,76.77,17.04,13.26,17.04
+"Chatham County, North Carolina",37037,80.8,11.97,5.74,11.97
+"Cherokee County, North Carolina",37039,76.72,23.33,25.29,23.33
+"Chowan County, North Carolina",37041,77.28,10.65,7.42,10.65
+"Clay County, North Carolina",37043,78.43,21.91,19.43,21.91
+"Cleveland County, North Carolina",37045,74.81,19.08,14.5,19.08
+"Columbus County, North Carolina",37047,73.81,15.05,15.5,15.05
+"Craven County, North Carolina",37049,77.61,14.11,10.4,14.11
+"Cumberland County, North Carolina",37051,76.26,13.9,9.51,13.9
+"Currituck County, North Carolina",37053,77.15,19.11,7.4,19.11
+"Dare County, North Carolina",37055,79.27,16.71,15.06,16.71
+"Davidson County, North Carolina",37057,76.57,14.94,15.13,14.94
+"Davie County, North Carolina",37059,78.65,17.24,10.66,17.24
+"Duplin County, North Carolina",37061,77.14,13.19,6.15,13.19
+"Durham County, North Carolina",37063,79.07,10.44,6.69,10.44
+"Edgecombe County, North Carolina",37065,75.06,12.01,9.96,12.01
+"Forsyth County, North Carolina",37067,78.06,12.79,10.06,12.79
+"Franklin County, North Carolina",37069,77.34,15.22,8.28,15.22
+"Gaston County, North Carolina",37071,75.39,17.87,17.51,17.87
+"Gates County, North Carolina",37073,77.01,11.5,4.95,11.5
+"Graham County, North Carolina",37075,76.32,22.03,20.39,22.03
+"Granville County, North Carolina",37077,77.18,13.56,9.46,13.56
+"Greene County, North Carolina",37079,76.91,9.88,6.33,9.88
+"Guilford County, North Carolina",37081,78.47,11.11,8.22,11.11
+"Halifax County, North Carolina",37083,74.77,13.06,8.24,13.06
+"Harnett County, North Carolina",37085,76.53,14.46,9.41,14.46
+"Haywood County, North Carolina",37087,78.11,18.97,16.74,18.97
+"Henderson County, North Carolina",37089,79.17,18.49,13.03,18.49
+"Hertford County, North Carolina",37091,75.58,10.87,6.5,10.87
+"Hoke County, North Carolina",37093,76.02,11.38,7.87,11.38
+"Hyde County, North Carolina",37095,77.25,14.42,7.55,14.42
+"Iredell County, North Carolina",37097,77.33,13.19,12.98,13.19
+"Jackson County, North Carolina",37099,78.46,17.55,13.35,17.55
+"Johnston County, North Carolina",37101,77.82,13.23,5.92,13.23
+"Jones County, North Carolina",37103,76.53,13.98,7.24,13.98
+"Lee County, North Carolina",37105,76.91,12.1,11.1,12.1
+"Lenoir County, North Carolina",37107,75.06,14.39,8.27,14.39
+"Lincoln County, North Carolina",37109,77.24,15.43,12.11,15.43
+"Macon County, North Carolina",37113,78.35,20.82,17.55,20.82
+"Madison County, North Carolina",37115,77.89,18.24,10.33,18.24
+"Martin County, North Carolina",37117,74.22,15.73,9.45,15.73
+"McDowell County, North Carolina",37111,77.13,16.79,12.98,16.79
+"Mecklenburg County, North Carolina",37119,79.57,10.72,6.81,10.72
+"Mitchell County, North Carolina",37121,76.8,18.16,20.44,18.16
+"Montgomery County, North Carolina",37123,77.33,14.88,9.1,14.88
+"Moore County, North Carolina",37125,79.67,16.25,9.66,16.25
+"Nash County, North Carolina",37127,76.17,12.32,8.32,12.32
+"New Hanover County, North Carolina",37129,79.31,15.37,13.07,15.37
+"Northampton County, North Carolina",37131,76.11,12.15,5.09,12.15
+"Onslow County, North Carolina",37133,77.59,16,8.46,16
+"Orange County, North Carolina",37135,80.78,10.83,5.39,10.83
+"Pamlico County, North Carolina",37137,78.26,17.63,12.52,17.63
+"Pasquotank County, North Carolina",37139,77.02,10.52,7.49,10.52
+"Pender County, North Carolina",37141,78.11,15.83,8.54,15.83
+"Perquimans County, North Carolina",37143,77.92,14.19,6.99,14.19
+"Person County, North Carolina",37145,76.61,17.6,8.98,17.6
+"Pitt County, North Carolina",37147,77.45,11.97,8.87,11.97
+"Polk County, North Carolina",37149,78.94,21.48,13.2,21.48
+"Randolph County, North Carolina",37151,77.1,17.22,10.48,17.22
+"Richmond County, North Carolina",37153,74.14,16.55,14.76,16.55
+"Robeson County, North Carolina",37155,73.73,15.14,11.59,15.14
+"Rockingham County, North Carolina",37157,75.85,16.22,12.58,16.22
+"Rowan County, North Carolina",37159,75.92,18.89,16.41,18.89
+"Rutherford County, North Carolina",37161,75.58,20.52,18.45,20.52
+"Sampson County, North Carolina",37163,75.74,13.99,14.93,13.99
+"Scotland County, North Carolina",37165,74.55,12.37,13.56,12.37
+"Stanly County, North Carolina",37167,76.81,18.15,12.42,18.15
+"Stokes County, North Carolina",37169,77.26,19.61,10.15,19.61
+"Surry County, North Carolina",37171,76.73,18.28,14.75,18.28
+"Swain County, North Carolina",37173,74.01,20.54,25.27,20.54
+"Transylvania County, North Carolina",37175,80.33,16.62,14.54,16.62
+"Tyrrell County, North Carolina",37177,77.51,11.79,8.17,11.79
+"Union County, North Carolina",37179,79.02,10.97,6.29,10.97
+"Vance County, North Carolina",37181,74.8,14.17,12.59,14.17
+"Wake County, North Carolina",37183,80.89,9.59,5.09,9.59
+"Warren County, North Carolina",37185,77.34,12.99,6.45,12.99
+"Washington County, North Carolina",37187,76.87,11.91,5.89,11.91
+"Watauga County, North Carolina",37189,80.7,16.27,9.49,16.27
+"Wayne County, North Carolina",37191,76.54,12.05,7.16,12.05
+"Wilkes County, North Carolina",37193,77.2,18.05,25.1,18.05
+"Wilson County, North Carolina",37195,76.42,12.32,7.24,12.32
+"Yadkin County, North Carolina",37197,77.23,16.94,17.58,16.94
+"Yancey County, North Carolina",37199,78.08,17.07,19.66,17.07
+"North Dakota",38,79.95,16.23,3.69,16.23
+"Adams County, North Dakota",38001,79.33,14.86,4.9,14.86
+"Barnes County, North Dakota",38003,79.88,17.37,3.3,17.37
+"Benson County, North Dakota",38005,74.36,32.15,8.28,32.15
+"Billings County, North Dakota",38007,84.04,11.14,2.51,11.14
+"Bottineau County, North Dakota",38009,79.85,15.41,2.51,15.41
+"Bowman County, North Dakota",38011,78.58,14.49,4.1,14.49
+"Burke County, North Dakota",38013,79.25,24.55,2.28,24.55
+"Burleigh County, North Dakota",38015,81.23,16.85,3,16.85
+"Cass County, North Dakota",38017,80.97,13.46,3.52,13.46
+"Cavalier County, North Dakota",38019,80.72,16.62,4.84,16.62
+"Dickey County, North Dakota",38021,80.18,11.87,2.62,11.87
+"Divide County, North Dakota",38023,80.82,18.75,2.57,18.75
+"Dunn County, North Dakota",38025,79.59,17.75,3.41,17.75
+"Eddy County, North Dakota",38027,77.22,20.84,3.3,20.84
+"Emmons County, North Dakota",38029,80.09,19.65,3.73,19.65
+"Foster County, North Dakota",38031,79.42,17.29,2.08,17.29
+"Golden Valley County, North Dakota",38033,81.26,16.54,4.42,16.54
+"Grand Forks County, North Dakota",38035,79.92,13.02,4.32,13.02
+"Grant County, North Dakota",38037,80.23,16.18,3.53,16.18
+"Griggs County, North Dakota",38039,79.77,14.68,2.37,14.68
+"Hettinger County, North Dakota",38041,80.53,11.3,3.5,11.3
+"Kidder County, North Dakota",38043,81.18,14.64,2.62,14.64
+"LaMoure County, North Dakota",38045,81.53,12.86,1.8,12.86
+"Logan County, North Dakota",38047,80.68,13.06,2.85,13.06
+"McHenry County, North Dakota",38049,80.28,17.71,2.03,17.71
+"McIntosh County, North Dakota",38051,80.62,15.93,2.43,15.93
+"McKenzie County, North Dakota",38053,78.29,24.67,4.77,24.67
+"McLean County, North Dakota",38055,79.37,18.24,3.68,18.24
+"Mercer County, North Dakota",38057,79.92,19.16,3.27,19.16
+"Morton County, North Dakota",38059,79.58,17.18,5.67,17.18
+"Mountrail County, North Dakota",38061,76.72,22.45,3.97,22.45
+"Nelson County, North Dakota",38063,77.58,16.82,3.65,16.82
+"Oliver County, North Dakota",38065,82.19,15.1,3.33,15.1
+"Pembina County, North Dakota",38067,80.56,17.9,3.92,17.9
+"Pierce County, North Dakota",38069,79.48,15.74,4,15.74
+"Ramsey County, North Dakota",38071,78.38,18.88,5.32,18.88
+"Ransom County, North Dakota",38073,78.53,12.54,3.21,12.54
+"Renville County, North Dakota",38075,79.98,17.21,2.4,17.21
+"Richland County, North Dakota",38077,81.41,11.49,3.43,11.49
+"Rolette County, North Dakota",38079,73.02,26.72,6.84,26.72
+"Sargent County, North Dakota",38081,81.11,11.67,2.83,11.67
+"Sheridan County, North Dakota",38083,82.44,14.86,1.93,14.86
+"Sioux County, North Dakota",38085,68.59,64.24,8.01,64.24
+"Slope County, North Dakota",38087,82.36,12.12,2.98,12.12
+"Stark County, North Dakota",38089,80.68,18.14,4.95,18.14
+"Steele County, North Dakota",38091,81.17,14.38,2.63,14.38
+"Stutsman County, North Dakota",38093,79.46,16.09,2.85,16.09
+"Towner County, North Dakota",38095,79.52,18.52,4.66,18.52
+"Traill County, North Dakota",38097,80.6,9.79,3.57,9.79
+"Walsh County, North Dakota",38099,79.14,16.55,4.71,16.55
+"Ward County, North Dakota",38101,79.71,15.97,2.05,15.97
+"Wells County, North Dakota",38103,80.21,16.32,2.47,16.32
+"Williams County, North Dakota",38105,78.56,20.86,4.67,20.86
+Ohio,39,77.91,13.13,15.6,13.13
+"Adams County, Ohio",39001,75.15,22.47,24.19,22.47
+"Allen County, Ohio",39003,77.95,11.48,9.15,11.48
+"Ashland County, Ohio",39005,78.78,12.53,6.37,12.53
+"Ashtabula County, Ohio",39007,76.64,18.21,17.18,18.21
+"Athens County, Ohio",39009,76.9,13.72,14.02,13.72
+"Auglaize County, Ohio",39011,79.16,11.54,6.55,11.54
+"Belmont County, Ohio",39013,77.54,16,11.35,16
+"Brown County, Ohio",39015,75.97,20.44,25.22,20.44
+"Butler County, Ohio",39017,77.88,13.56,24.59,13.56
+"Carroll County, Ohio",39019,78.28,13.3,9.45,13.3
+"Champaign County, Ohio",39021,77.39,14.4,13.26,14.4
+"Clark County, Ohio",39023,76.34,16.45,21.23,16.45
+"Clermont County, Ohio",39025,78.18,15.65,21.69,15.65
+"Clinton County, Ohio",39027,76.81,13.4,21.92,13.4
+"Columbiana County, Ohio",39029,77.63,16.51,12.6,16.51
+"Coshocton County, Ohio",39031,77.5,15.95,8.05,15.95
+"Crawford County, Ohio",39033,77.2,14.09,17.01,14.09
+"Cuyahoga County, Ohio",39035,77.87,11.55,16.11,11.55
+"Darke County, Ohio",39037,78.69,14.01,13.11,14.01
+"Defiance County, Ohio",39039,78.68,10.67,9.13,10.67
+"Delaware County, Ohio",39041,81.43,8.52,6.07,8.52
+"Erie County, Ohio",39043,77.96,12.77,14.49,12.77
+"Fairfield County, Ohio",39045,78.95,11.86,9.25,11.86
+"Fayette County, Ohio",39047,75.34,14.64,21.1,14.64
+"Franklin County, Ohio",39049,77.6,13.09,13.3,13.09
+"Fulton County, Ohio",39051,79.01,11.54,7.54,11.54
+"Gallia County, Ohio",39053,75.55,19.09,18.87,19.09
+"Geauga County, Ohio",39055,81.64,10.76,6.89,10.76
+"Greene County, Ohio",39057,79.58,11.03,15.94,11.03
+"Guernsey County, Ohio",39059,76.8,18.59,14.85,18.59
+"Hamilton County, Ohio",39061,77.24,13.23,21.45,13.23
+"Hancock County, Ohio",39063,79.46,10.93,8.48,10.93
+"Hardin County, Ohio",39065,76.89,12.02,13.74,12.02
+"Harrison County, Ohio",39067,76.35,15.51,10.24,15.51
+"Henry County, Ohio",39069,79.47,11.89,6.55,11.89
+"Highland County, Ohio",39071,76.12,18.62,19.06,18.62
+"Hocking County, Ohio",39073,76.71,19.08,16.43,19.08
+"Holmes County, Ohio",39075,79.37,8.93,5,8.93
+"Huron County, Ohio",39077,77.67,14.57,13.65,14.57
+"Jackson County, Ohio",39079,74.58,17.22,22.91,17.22
+"Jefferson County, Ohio",39081,75.79,15.46,23.21,15.46
+"Knox County, Ohio",39083,78.21,11.57,10.95,11.57
+"Lake County, Ohio",39085,79.26,13.91,13.6,13.91
+"Lawrence County, Ohio",39087,75.26,13.36,16.65,13.36
+"Licking County, Ohio",39089,78.07,13.55,10.85,13.55
+"Logan County, Ohio",39091,77.3,13.56,11.03,13.56
+"Lorain County, Ohio",39093,78.59,12.31,15.2,12.31
+"Lucas County, Ohio",39095,77.06,13.08,19.05,13.08
+"Madison County, Ohio",39097,77.58,11.97,12.67,11.97
+"Mahoning County, Ohio",39099,77.24,13.99,16.84,13.99
+"Marion County, Ohio",39101,77.08,12.15,19.59,12.15
+"Medina County, Ohio",39103,80.26,9.99,6.9,9.99
+"Meigs County, Ohio",39105,75.92,18.25,14.71,18.25
+"Mercer County, Ohio",39107,79.33,10.42,7.9,10.42
+"Miami County, Ohio",39109,78.85,11.86,12.99,11.86
+"Monroe County, Ohio",39111,77.65,18.41,8.69,18.41
+"Montgomery County, Ohio",39113,76.91,15.52,31.32,15.52
+"Morgan County, Ohio",39115,77.66,15.81,11.9,15.81
+"Morrow County, Ohio",39117,78.24,12.04,13.6,12.04
+"Muskingum County, Ohio",39119,77.04,15.95,8.14,15.95
+"Noble County, Ohio",39121,81.05,13.12,6.56,13.12
+"Ottawa County, Ohio",39123,79.35,12.65,8.55,12.65
+"Paulding County, Ohio",39125,78.35,10.4,7.61,10.4
+"Perry County, Ohio",39127,76.63,16.48,9.58,16.48
+"Pickaway County, Ohio",39129,77.5,12.46,12.71,12.46
+"Pike County, Ohio",39131,74.75,15.11,23.74,15.11
+"Portage County, Ohio",39133,78.88,11.09,11.25,11.09
+"Preble County, Ohio",39135,77.41,14.45,17.41,14.45
+"Putnam County, Ohio",39137,80.03,9.4,5.29,9.4
+"Richland County, Ohio",39139,77.81,12.68,15.48,12.68
+"Ross County, Ohio",39141,75.87,16.46,23.04,16.46
+"Sandusky County, Ohio",39143,78.08,13.29,11.89,13.29
+"Scioto County, Ohio",39145,74.77,15.12,25.56,15.12
+"Seneca County, Ohio",39147,78.15,12.44,10.99,12.44
+"Shelby County, Ohio",39149,78.73,11.54,13.01,11.54
+"Stark County, Ohio",39151,78.52,14.09,10.77,14.09
+"Summit County, Ohio",39153,78.02,13.52,17.02,13.52
+"Trumbull County, Ohio",39155,77.38,15.86,20.47,15.86
+"Tuscarawas County, Ohio",39157,78.87,12.46,7.39,12.46
+"Union County, Ohio",39159,79.08,10.8,8.17,10.8
+"Van Wert County, Ohio",39161,78.82,10.31,9.38,10.31
+"Vinton County, Ohio",39163,75.27,20.17,20.84,20.17
+"Warren County, Ohio",39165,79.61,10.69,12.18,10.69
+"Washington County, Ohio",39167,77.63,13.92,12.43,13.92
+"Wayne County, Ohio",39169,78.85,12.27,7.3,12.27
+"Williams County, Ohio",39171,78.92,13.01,5.65,13.01
+"Wood County, Ohio",39173,79.32,10.94,7.3,10.94
+"Wyandot County, Ohio",39175,78.67,12.55,7.4,12.55
+Oklahoma,40,76.09,19.29,14.93,19.29
+"Adair County, Oklahoma",40001,73.87,18.25,15.32,18.25
+"Alfalfa County, Oklahoma",40003,78.21,14.15,7.67,14.15
+"Atoka County, Oklahoma",40005,76.03,17.6,12.95,17.6
+"Beaver County, Oklahoma",40007,78.63,17.06,6.27,17.06
+"Beckham County, Oklahoma",40009,73.72,24.98,13.64,24.98
+"Blaine County, Oklahoma",40011,75.24,18.13,8.97,18.13
+"Bryan County, Oklahoma",40013,75.57,20.79,17.21,20.79
+"Caddo County, Oklahoma",40015,73.27,22.17,19.35,22.17
+"Canadian County, Oklahoma",40017,78.11,15.76,9.55,15.76
+"Carter County, Oklahoma",40019,73.41,23.14,22.86,23.14
+"Cherokee County, Oklahoma",40021,75.55,21.55,20.85,21.55
+"Choctaw County, Oklahoma",40023,73.29,23.46,16.28,23.46
+"Cimarron County, Oklahoma",40025,76.95,20.21,9.5,20.21
+"Cleveland County, Oklahoma",40027,78.7,14.96,9.83,14.96
+"Coal County, Oklahoma",40029,74.05,25.25,18.25,25.25
+"Comanche County, Oklahoma",40031,75.99,17.52,10.52,17.52
+"Cotton County, Oklahoma",40033,75.19,23.77,12.3,23.77
+"Craig County, Oklahoma",40035,74.84,21.99,13.07,21.99
+"Creek County, Oklahoma",40037,75.01,21.02,21.3,21.02
+"Custer County, Oklahoma",40039,75.56,15.76,10.55,15.76
+"Delaware County, Oklahoma",40041,76.26,20.87,18.05,20.87
+"Dewey County, Oklahoma",40043,74.12,20.1,9.63,20.1
+"Ellis County, Oklahoma",40045,77.03,17,9.66,17
+"Garfield County, Oklahoma",40047,76.32,18.61,11.16,18.61
+"Garvin County, Oklahoma",40049,73.59,25.86,18.2,25.86
+"Grady County, Oklahoma",40051,75.77,19.33,14.92,19.33
+"Grant County, Oklahoma",40053,76.94,18.35,7.64,18.35
+"Greer County, Oklahoma",40055,75.73,18.54,12.34,18.54
+"Harmon County, Oklahoma",40057,75.19,15.9,10.11,15.9
+"Harper County, Oklahoma",40059,76.34,14.36,7.99,14.36
+"Haskell County, Oklahoma",40061,75.04,19.16,16.67,19.16
+"Hughes County, Oklahoma",40063,73.81,18.81,13.01,18.81
+"Jackson County, Oklahoma",40065,75.76,14.38,8.8,14.38
+"Jefferson County, Oklahoma",40067,73.21,25.44,26.76,25.44
+"Johnston County, Oklahoma",40069,73.72,27.56,24.97,27.56
+"Kay County, Oklahoma",40071,75.61,20.87,12.25,20.87
+"Kingfisher County, Oklahoma",40073,77.07,13.38,7.7,13.38
+"Kiowa County, Oklahoma",40075,72.77,22.82,16.93,22.82
+"Latimer County, Oklahoma",40077,75.63,23.82,16.11,23.82
+"Le Flore County, Oklahoma",40079,74.25,22.11,18.86,22.11
+"Lincoln County, Oklahoma",40081,75.51,20.81,15.02,20.81
+"Logan County, Oklahoma",40083,78.46,14.11,9.28,14.11
+"Love County, Oklahoma",40085,75.7,20.65,14.97,20.65
+"Major County, Oklahoma",40093,77.81,15.6,5.84,15.6
+"Marshall County, Oklahoma",40095,76.31,19.03,13.11,19.03
+"Mayes County, Oklahoma",40097,75.7,22.09,18.46,22.09
+"McClain County, Oklahoma",40087,76.38,16.5,14.1,16.5
+"McCurtain County, Oklahoma",40089,73.1,27.02,16.08,27.02
+"McIntosh County, Oklahoma",40091,74.72,27.28,21.93,27.28
+"Murray County, Oklahoma",40099,73.71,25.53,23.21,25.53
+"Muskogee County, Oklahoma",40101,73.99,19.48,25.63,19.48
+"Noble County, Oklahoma",40103,77.07,15.79,10.94,15.79
+"Nowata County, Oklahoma",40105,76.22,16.98,11.39,16.98
+"Okfuskee County, Oklahoma",40107,73.04,20.06,23.36,20.06
+"Oklahoma County, Oklahoma",40109,75.85,19.93,15.51,19.93
+"Okmulgee County, Oklahoma",40111,74.46,22.28,16.94,22.28
+"Osage County, Oklahoma",40113,77.93,18.61,11.49,18.61
+"Ottawa County, Oklahoma",40115,74.26,26.18,17.18,26.18
+"Pawnee County, Oklahoma",40117,74.82,21.78,24.01,21.78
+"Payne County, Oklahoma",40119,78.42,14.43,8.58,14.43
+"Pittsburg County, Oklahoma",40121,74.46,25.52,21.61,25.52
+"Pontotoc County, Oklahoma",40123,74.67,20.18,19.35,20.18
+"Pottawatomie County, Oklahoma",40125,74.89,20.28,15.73,20.28
+"Pushmataha County, Oklahoma",40127,73.94,26.69,17.9,26.69
+"Roger Mills County, Oklahoma",40129,77.18,19.29,7.57,19.29
+"Rogers County, Oklahoma",40131,77.58,16.6,11.1,16.6
+"Seminole County, Oklahoma",40133,72.75,22.33,22.59,22.33
+"Sequoyah County, Oklahoma",40135,74.31,20.49,23.43,20.49
+"Stephens County, Oklahoma",40137,75.45,21.69,17.73,21.69
+"Texas County, Oklahoma",40139,77.64,14.47,11.4,14.47
+"Tillman County, Oklahoma",40141,74.95,17.31,14.05,17.31
+"Tulsa County, Oklahoma",40143,76.73,19.84,15.36,19.84
+"Wagoner County, Oklahoma",40145,77.67,18.33,17.75,18.33
+"Washington County, Oklahoma",40147,77.75,19.3,14.35,19.3
+"Washita County, Oklahoma",40149,76.46,18.05,12.67,18.05
+"Woods County, Oklahoma",40151,77.22,12.24,9.47,12.24
+"Woodward County, Oklahoma",40153,76.49,16.59,10.76,16.59
+Oregon,41,79.44,19.25,9.26,19.25
+"Baker County, Oregon",41001,78.29,27.24,13.38,27.24
+"Benton County, Oregon",41003,82.08,12.61,4.64,12.61
+"Clackamas County, Oregon",41005,80.49,16.4,8.12,16.4
+"Clatsop County, Oregon",41007,78.33,25.11,14.28,25.11
+"Columbia County, Oregon",41009,78.76,20.61,9.45,20.61
+"Coos County, Oregon",41011,76.83,30.05,10.43,30.05
+"Crook County, Oregon",41013,79.18,19.75,9.31,19.75
+"Curry County, Oregon",41015,76.8,38.5,9.91,38.5
+"Deschutes County, Oregon",41017,80.81,20.21,6.6,20.21
+"Douglas County, Oregon",41019,77.71,26.11,8.39,26.11
+"Gilliam County, Oregon",41021,80.38,16.48,5.37,16.48
+"Grant County, Oregon",41023,79.74,22.29,7.49,22.29
+"Harney County, Oregon",41025,78.4,26.44,7.38,26.44
+"Hood River County, Oregon",41027,80.34,12.82,5.78,12.82
+"Jackson County, Oregon",41029,79.08,24.69,9.7,24.69
+"Jefferson County, Oregon",41031,77.25,23.35,10.86,23.35
+"Josephine County, Oregon",41033,77.34,28.16,12.32,28.16
+"Klamath County, Oregon",41035,76.95,28.69,11.21,28.69
+"Lake County, Oregon",41037,78.33,25.26,13.22,25.26
+"Lane County, Oregon",41039,79.22,22.39,11.65,22.39
+"Lincoln County, Oregon",41041,78.14,27.55,15.52,27.55
+"Linn County, Oregon",41043,77.93,18.99,13.56,18.99
+"Malheur County, Oregon",41045,78.41,18.4,8.62,18.4
+"Marion County, Oregon",41047,78.97,15.75,7.69,15.75
+"Morrow County, Oregon",41049,79.26,13.95,6.08,13.95
+"Multnomah County, Oregon",41051,78.96,18.67,12.41,18.67
+"Polk County, Oregon",41053,80.49,15.02,7.05,15.02
+"Sherman County, Oregon",41055,80.22,16.3,4.14,16.3
+"Tillamook County, Oregon",41057,79,22.6,11.72,22.6
+"Umatilla County, Oregon",41059,78.47,19.98,6.85,19.98
+"Union County, Oregon",41061,79.37,20.8,9.02,20.8
+"Wallowa County, Oregon",41063,80.42,22.18,7.32,22.18
+"Wasco County, Oregon",41065,77.84,20.69,9.09,20.69
+"Washington County, Oregon",41067,81.69,14.24,5.05,14.24
+"Wheeler County, Oregon",41069,79.49,20.98,7.18,20.98
+"Yamhill County, Oregon",41071,79.77,16.06,7.12,16.06
+Pennsylvania,42,78.76,13.91,14.29,13.91
+"Adams County, Pennsylvania",42001,79.85,13.3,7.31,13.3
+"Allegheny County, Pennsylvania",42003,78.5,12.4,16.97,12.4
+"Armstrong County, Pennsylvania",42005,78.21,14.49,15.76,14.49
+"Beaver County, Pennsylvania",42007,78.39,14.05,15.6,14.05
+"Bedford County, Pennsylvania",42009,79.25,15.81,9.74,15.81
+"Berks County, Pennsylvania",42011,79.61,16.4,10.09,16.4
+"Blair County, Pennsylvania",42013,78.08,13.97,14.38,13.97
+"Bradford County, Pennsylvania",42015,78.72,18.03,9.23,18.03
+"Bucks County, Pennsylvania",42017,80.38,14.94,12.38,14.94
+"Butler County, Pennsylvania",42019,79.25,12.36,12.34,12.36
+"Cambria County, Pennsylvania",42021,78.34,17.67,18.92,17.67
+"Cameron County, Pennsylvania",42023,79.2,16.62,9.32,16.62
+"Carbon County, Pennsylvania",42025,77.68,19.84,15.19,19.84
+"Centre County, Pennsylvania",42027,81.86,9.61,4.83,9.61
+"Chester County, Pennsylvania",42029,81.21,10.46,9.35,10.46
+"Clarion County, Pennsylvania",42031,78.27,14.47,10.51,14.47
+"Clearfield County, Pennsylvania",42033,78.58,15.63,11.48,15.63
+"Clinton County, Pennsylvania",42035,78.58,12.21,10.37,12.21
+"Columbia County, Pennsylvania",42037,79.14,12.95,8.32,12.95
+"Crawford County, Pennsylvania",42039,78.05,15.89,11.8,15.89
+"Cumberland County, Pennsylvania",42041,80.39,13.1,7.33,13.1
+"Dauphin County, Pennsylvania",42043,78.77,12.36,11.39,12.36
+"Delaware County, Pennsylvania",42045,78.82,16.03,15.27,16.03
+"Elk County, Pennsylvania",42047,79.04,16.14,13.14,16.14
+"Erie County, Pennsylvania",42049,78.37,15.12,13.02,15.12
+"Fayette County, Pennsylvania",42051,76.99,15.27,18.74,15.27
+"Forest County, Pennsylvania",42053,76.34,17.02,13.39,17.02
+"Franklin County, Pennsylvania",42055,79.82,13.58,8.47,13.58
+"Fulton County, Pennsylvania",42057,78.81,19.03,8.15,19.03
+"Greene County, Pennsylvania",42059,77.2,15.73,16.83,15.73
+"Huntingdon County, Pennsylvania",42061,79.33,15.63,6.68,15.63
+"Indiana County, Pennsylvania",42063,79.08,14.67,10.75,14.67
+"Jefferson County, Pennsylvania",42065,78.19,16.25,11.19,16.25
+"Juniata County, Pennsylvania",42067,79.7,12.23,9.31,12.23
+"Lackawanna County, Pennsylvania",42069,77.78,16.38,15.32,16.38
+"Lancaster County, Pennsylvania",42071,80.51,10.95,9.16,10.95
+"Lawrence County, Pennsylvania",42073,78.21,15.11,16.39,15.11
+"Lebanon County, Pennsylvania",42075,80.02,12.64,8.54,12.64
+"Lehigh County, Pennsylvania",42077,79.58,15.62,11.61,15.62
+"Luzerne County, Pennsylvania",42079,77.53,17.16,15.92,17.16
+"Lycoming County, Pennsylvania",42081,78.68,13.04,9.17,13.04
+"McKean County, Pennsylvania",42083,77.63,15.26,11.67,15.26
+"Mercer County, Pennsylvania",42085,78.58,13.95,16.98,13.95
+"Mifflin County, Pennsylvania",42087,79.04,14.09,10.4,14.09
+"Monroe County, Pennsylvania",42089,79.09,16.59,11.7,16.59
+"Montgomery County, Pennsylvania",42091,80.85,12.22,10.85,12.22
+"Montour County, Pennsylvania",42093,78.72,15.36,11.53,15.36
+"Northampton County, Pennsylvania",42095,80.08,13.37,7.86,13.37
+"Northumberland County, Pennsylvania",42097,78.27,14.72,10.28,14.72
+"Perry County, Pennsylvania",42099,78.01,14.31,8.11,14.31
+"Philadelphia County, Pennsylvania",42101,75.49,12.6,26.78,12.6
+"Pike County, Pennsylvania",42103,81.12,16.75,12.61,16.75
+"Potter County, Pennsylvania",42105,78.84,16.69,7.72,16.69
+"Schuylkill County, Pennsylvania",42107,77.18,18.66,14.37,18.66
+"Snyder County, Pennsylvania",42109,80.31,10.72,5.28,10.72
+"Somerset County, Pennsylvania",42111,78.56,15.39,12.81,15.39
+"Sullivan County, Pennsylvania",42113,77.04,19,12.35,19
+"Susquehanna County, Pennsylvania",42115,78.27,18.07,14.17,18.07
+"Tioga County, Pennsylvania",42117,79.23,14.71,5.36,14.71
+"Union County, Pennsylvania",42119,81.3,9.76,5.49,9.76
+"Venango County, Pennsylvania",42121,77.96,14.43,14.09,14.43
+"Warren County, Pennsylvania",42123,78.49,14.64,8.16,14.64
+"Washington County, Pennsylvania",42125,78.23,14.28,14.68,14.28
+"Wayne County, Pennsylvania",42127,77.97,19.79,14.76,19.79
+"Westmoreland County, Pennsylvania",42129,78.9,14.95,16.91,14.95
+"Wyoming County, Pennsylvania",42131,78.19,15.75,14.03,15.75
+"York County, Pennsylvania",42133,79.41,15.89,13.36,15.89
+"Rhode Island",44,79.76,12.66,13.69,12.66
+"Bristol County, Rhode Island",44001,81.16,11.57,10,11.57
+"Kent County, Rhode Island",44003,79.41,13.72,13.19,13.72
+"Newport County, Rhode Island",44005,81.15,11.61,7.96,11.61
+"Providence County, Rhode Island",44007,79.26,12.63,15.44,12.63
+"Washington County, Rhode Island",44009,81.14,12.52,11.18,12.52
+"South Carolina",45,76.89,15.09,10.67,15.09
+"Abbeville County, South Carolina",45001,76.96,14.99,7.96,14.99
+"Aiken County, South Carolina",45003,77.12,17.39,12.51,17.39
+"Allendale County, South Carolina",45005,72.88,11.47,8.49,11.47
+"Anderson County, South Carolina",45007,76.32,18.29,15.57,18.29
+"Bamberg County, South Carolina",45009,74.77,11.89,10.36,11.89
+"Barnwell County, South Carolina",45011,73.94,16.45,9.78,16.45
+"Beaufort County, South Carolina",45013,81.57,12.97,6.43,12.97
+"Berkeley County, South Carolina",45015,77.76,14.03,8.34,14.03
+"Calhoun County, South Carolina",45017,76.27,15.6,5.38,15.6
+"Charleston County, South Carolina",45019,78.4,14.44,9.69,14.44
+"Cherokee County, South Carolina",45021,74.19,20.36,13.42,20.36
+"Chester County, South Carolina",45023,73.64,16.27,9.04,16.27
+"Chesterfield County, South Carolina",45025,74.2,16.77,9.79,16.77
+"Clarendon County, South Carolina",45027,75.31,16.4,7.17,16.4
+"Colleton County, South Carolina",45029,73.63,15.82,12.02,15.82
+"Darlington County, South Carolina",45031,73.67,14.53,10.87,14.53
+"Dillon County, South Carolina",45033,73.08,15.06,9.87,15.06
+"Dorchester County, South Carolina",45035,78.28,13.83,5.59,13.83
+"Edgefield County, South Carolina",45037,77.82,12.96,6.45,12.96
+"Fairfield County, South Carolina",45039,73.79,14.28,6.91,14.28
+"Florence County, South Carolina",45041,74.5,13.79,8.26,13.79
+"Georgetown County, South Carolina",45043,77.24,11.8,11.61,11.8
+"Greenville County, South Carolina",45045,78.01,16.05,12.01,16.05
+"Greenwood County, South Carolina",45047,76.97,13.66,9.18,13.66
+"Hampton County, South Carolina",45049,74.48,13.03,9.4,13.03
+"Horry County, South Carolina",45051,77.02,17.62,15.21,17.62
+"Jasper County, South Carolina",45053,76.5,12.12,7.7,12.12
+"Kershaw County, South Carolina",45055,76.4,14.78,9.61,14.78
+"Lancaster County, South Carolina",45057,76.82,15.58,9.09,15.58
+"Laurens County, South Carolina",45059,74.53,17.1,15.06,17.1
+"Lee County, South Carolina",45061,73,12.02,5.27,12.02
+"Lexington County, South Carolina",45063,78.02,15.52,10.41,15.52
+"Marion County, South Carolina",45067,72.67,14,8.37,14
+"Marlboro County, South Carolina",45069,72.02,18.38,7.19,18.38
+"McCormick County, South Carolina",45065,77,15,7.83,15
+"Newberry County, South Carolina",45071,76.34,14.46,7.71,14.46
+"Oconee County, South Carolina",45073,77.43,19.59,19.14,19.59
+"Orangeburg County, South Carolina",45075,74.2,12.65,7.88,12.65
+"Pickens County, South Carolina",45077,76.98,18.91,19.16,18.91
+"Richland County, South Carolina",45079,77.36,12.54,8.24,12.54
+"Saluda County, South Carolina",45081,76.96,14.48,7.12,14.48
+"Spartanburg County, South Carolina",45083,75.68,16.41,14.74,16.41
+"Sumter County, South Carolina",45085,75.65,11.65,4.31,11.65
+"Union County, South Carolina",45087,74.05,18.45,11.94,18.45
+"Williamsburg County, South Carolina",45089,73.44,11.79,6.86,11.79
+"York County, South Carolina",45091,77.4,13.26,10.22,13.26
+"South Dakota",46,79.57,16.94,4.33,16.94
+"Aurora County, South Dakota",46003,80.1,14.18,3.78,14.18
+"Beadle County, South Dakota",46005,79.39,15.02,3.51,15.02
+"Bennett County, South Dakota",46007,74.69,26.95,5.88,26.95
+"Bon Homme County, South Dakota",46009,81.3,10.83,2.46,10.83
+"Brookings County, South Dakota",46011,81.24,9.57,2.62,9.57
+"Brown County, South Dakota",46013,80.12,11.5,3.09,11.5
+"Brule County, South Dakota",46015,80.01,17.99,4.56,17.99
+"Buffalo County, South Dakota",46017,69.05,58.86,8.47,58.86
+"Butte County, South Dakota",46019,78.35,21.72,3.95,21.72
+"Campbell County, South Dakota",46021,82.04,14.49,2.76,14.49
+"Charles Mix County, South Dakota",46023,78.52,22.43,3.93,22.43
+"Clark County, South Dakota",46025,80.05,15.15,2.94,15.15
+"Clay County, South Dakota",46027,80.22,10.26,2.67,10.26
+"Codington County, South Dakota",46029,80.06,15.29,3.1,15.29
+"Corson County, South Dakota",46031,72.13,46.8,8.15,46.8
+"Custer County, South Dakota",46033,79.99,18.47,5.97,18.47
+"Davison County, South Dakota",46035,79.95,16.18,3.39,16.18
+"Day County, South Dakota",46037,78.94,14.68,3.1,14.68
+"Deuel County, South Dakota",46039,80.46,12.86,2.73,12.86
+"Dewey County, South Dakota",46041,71.02,45.6,6.13,45.6
+"Douglas County, South Dakota",46043,80.99,11.44,2.42,11.44
+"Edmunds County, South Dakota",46045,80.72,11.33,2.12,11.33
+"Fall River County, South Dakota",46047,76.31,28.64,11.68,28.64
+"Faulk County, South Dakota",46049,81.09,13.18,2.81,13.18
+"Grant County, South Dakota",46051,79.5,14.74,2.73,14.74
+"Gregory County, South Dakota",46053,79.18,14.55,4.14,14.55
+"Haakon County, South Dakota",46055,79.65,15.97,3.25,15.97
+"Hamlin County, South Dakota",46057,79.24,13.61,3.53,13.61
+"Hand County, South Dakota",46059,81.62,11.03,3.15,11.03
+"Hanson County, South Dakota",46061,81.18,11.99,2.5,11.99
+"Harding County, South Dakota",46063,79.9,13.11,3.55,13.11
+"Hughes County, South Dakota",46065,80,17.87,3.09,17.87
+"Hutchinson County, South Dakota",46067,80.73,10.64,2.71,10.64
+"Hyde County, South Dakota",46069,79.67,16.05,2.75,16.05
+"Jackson County, South Dakota",46071,75.01,29.87,5.26,29.87
+"Jerauld County, South Dakota",46073,81.16,12.55,3.87,12.55
+"Jones County, South Dakota",46075,80.24,14.57,3.64,14.57
+"Kingsbury County, South Dakota",46077,79.22,13.95,2.34,13.95
+"Lake County, South Dakota",46079,80.82,12.33,2.33,12.33
+"Lawrence County, South Dakota",46081,80.72,18.72,4.99,18.72
+"Lincoln County, South Dakota",46083,83.03,9.02,1.98,9.02
+"Lyman County, South Dakota",46085,77.49,20.24,4.38,20.24
+"Marshall County, South Dakota",46091,80.14,16.29,2.85,16.29
+"McCook County, South Dakota",46087,79.17,13.43,2.61,13.43
+"McPherson County, South Dakota",46089,81.16,12.05,2.28,12.05
+"Meade County, South Dakota",46093,79.22,21.79,4.92,21.79
+"Mellette County, South Dakota",46095,74.04,29.03,5.39,29.03
+"Miner County, South Dakota",46097,80.25,14.53,2.59,14.53
+"Minnehaha County, South Dakota",46099,79.67,17.36,4.41,17.36
+"Moody County, South Dakota",46101,80.33,12.66,3.88,12.66
+"Oglala Lakota County, South Dakota",46102,66.81,44.54,13.33,44.54
+"Pennington County, South Dakota",46103,80.43,17.72,5.96,17.72
+"Perkins County, South Dakota",46105,79.22,16.54,4.42,16.54
+"Potter County, South Dakota",46107,79.79,15.71,2.79,15.71
+"Roberts County, South Dakota",46109,77.41,22.95,5.53,22.95
+"Sanborn County, South Dakota",46111,80.26,15.1,2.87,15.1
+"Spink County, South Dakota",46115,79.79,12.27,4.44,12.27
+"Stanley County, South Dakota",46117,79.43,19.83,2.78,19.83
+"Sully County, South Dakota",46119,81.65,16.55,1.97,16.55
+"Todd County, South Dakota",46121,68.51,56.42,13.87,56.42
+"Tripp County, South Dakota",46123,79.1,15.42,3.58,15.42
+"Turner County, South Dakota",46125,80.28,10.87,2.25,10.87
+"Union County, South Dakota",46127,80.72,10.44,3.55,10.44
+"Walworth County, South Dakota",46129,78.14,17.34,4.39,17.34
+"Yankton County, South Dakota",46135,80.5,14.16,4.32,14.16
+"Ziebach County, South Dakota",46137,76.39,30.71,4.86,30.71
+Tennessee,47,76.33,16.95,14.2,16.95
+"Anderson County, Tennessee",47001,76.68,20.81,20.04,20.81
+"Bedford County, Tennessee",47003,75.35,20.35,13.65,20.35
+"Benton County, Tennessee",47005,73.36,29.69,28.73,29.69
+"Bledsoe County, Tennessee",47007,76.57,16.07,11.53,16.07
+"Blount County, Tennessee",47009,77.37,17.15,15.34,17.15
+"Bradley County, Tennessee",47011,76.59,14.94,16.63,14.94
+"Campbell County, Tennessee",47013,74.12,19.18,30.38,19.18
+"Cannon County, Tennessee",47015,75.4,21.85,17.32,21.85
+"Carroll County, Tennessee",47017,73.69,20.86,17.19,20.86
+"Carter County, Tennessee",47019,76.26,18.84,14.15,18.84
+"Cheatham County, Tennessee",47021,75.52,21.68,20.82,21.68
+"Chester County, Tennessee",47023,76.51,16.95,10.82,16.95
+"Claiborne County, Tennessee",47025,73.72,28.06,24.64,28.06
+"Clay County, Tennessee",47027,74.53,22.66,32.51,22.66
+"Cocke County, Tennessee",47029,73.27,23.69,22.95,23.69
+"Coffee County, Tennessee",47031,74.92,24.59,14.82,24.59
+"Crockett County, Tennessee",47033,75.32,16.01,9.13,16.01
+"Cumberland County, Tennessee",47035,77.63,22.03,19.44,22.03
+"Davidson County, Tennessee",47037,76.84,14.67,13.82,14.67
+"DeKalb County, Tennessee",47041,74.05,31.4,26.31,31.4
+"Decatur County, Tennessee",47039,74.28,21.64,18.66,21.64
+"Dickson County, Tennessee",47043,75.92,20.25,14.3,20.25
+"Dyer County, Tennessee",47045,74.73,18.5,10.56,18.5
+"Fayette County, Tennessee",47047,76.83,14.31,7.19,14.31
+"Fentress County, Tennessee",47049,73.43,24.98,24.43,24.98
+"Franklin County, Tennessee",47051,76.62,18.66,16.86,18.66
+"Gibson County, Tennessee",47053,74.14,21.23,11.81,21.23
+"Giles County, Tennessee",47055,75.68,21.28,14.28,21.28
+"Grainger County, Tennessee",47057,74.62,23.38,21.33,23.38
+"Greene County, Tennessee",47059,75.23,24.09,15.81,24.09
+"Grundy County, Tennessee",47061,72.46,30.05,25.99,30.05
+"Hamblen County, Tennessee",47063,75.02,21.42,22.02,21.42
+"Hamilton County, Tennessee",47065,77.45,13.47,12.85,13.47
+"Hancock County, Tennessee",47067,73.35,32.09,20.38,32.09
+"Hardeman County, Tennessee",47069,74.65,17.17,7.35,17.17
+"Hardin County, Tennessee",47071,73.96,25.63,24.32,25.63
+"Hawkins County, Tennessee",47073,75.38,21.83,18.49,21.83
+"Haywood County, Tennessee",47075,74.64,14.41,8.57,14.41
+"Henderson County, Tennessee",47077,74.34,18.89,18.82,18.89
+"Henry County, Tennessee",47079,74.68,30.64,16.4,30.64
+"Hickman County, Tennessee",47081,75.16,23.54,14.33,23.54
+"Houston County, Tennessee",47083,75.11,22.71,16.57,22.71
+"Humphreys County, Tennessee",47085,75.13,24.02,14.6,24.02
+"Jackson County, Tennessee",47087,74.03,30.73,30.64,30.73
+"Jefferson County, Tennessee",47089,76.3,16.5,17.69,16.5
+"Johnson County, Tennessee",47091,75.76,27.79,15.89,27.79
+"Knox County, Tennessee",47093,76.83,17.74,20.06,17.74
+"Lake County, Tennessee",47095,72.81,15.22,11.4,15.22
+"Lauderdale County, Tennessee",47097,74.28,18.3,9.7,18.3
+"Lawrence County, Tennessee",47099,75.33,20.27,15.91,20.27
+"Lewis County, Tennessee",47101,74.96,24.99,14.72,24.99
+"Lincoln County, Tennessee",47103,75.84,17.94,12.12,17.94
+"Loudon County, Tennessee",47105,77.92,19.18,14.8,19.18
+"Macon County, Tennessee",47111,74.14,24.45,15.4,24.45
+"Madison County, Tennessee",47113,76.53,14.63,8.17,14.63
+"Marion County, Tennessee",47115,74.61,17.52,14.83,17.52
+"Marshall County, Tennessee",47117,76,21.49,16.51,21.49
+"Maury County, Tennessee",47119,76.37,18.72,13.67,18.72
+"McMinn County, Tennessee",47107,75.34,19.81,20.89,19.81
+"McNairy County, Tennessee",47109,73.78,22.91,15.36,22.91
+"Meigs County, Tennessee",47121,74.04,21.46,19.38,21.46
+"Monroe County, Tennessee",47123,75.76,18.66,15.61,18.66
+"Montgomery County, Tennessee",47125,76.66,17.2,9.84,17.2
+"Moore County, Tennessee",47127,79.03,13.87,10.32,13.87
+"Morgan County, Tennessee",47129,75.69,20,19.09,20
+"Obion County, Tennessee",47131,75.28,17.36,9.69,17.36
+"Overton County, Tennessee",47133,74.29,19.57,28.42,19.57
+"Perry County, Tennessee",47135,74.24,28.85,16.86,28.85
+"Pickett County, Tennessee",47137,76.18,21.87,20.51,21.87
+"Polk County, Tennessee",47139,74.55,22.61,19.28,22.61
+"Putnam County, Tennessee",47141,76.41,16.54,17.37,16.54
+"Rhea County, Tennessee",47143,75.18,18.95,17.24,18.95
+"Roane County, Tennessee",47145,76.09,21.61,26.47,21.61
+"Robertson County, Tennessee",47147,75.68,19.51,10.92,19.51
+"Rutherford County, Tennessee",47149,78.03,14.32,8.16,14.32
+"Scott County, Tennessee",47151,73.4,20.67,25.1,20.67
+"Sequatchie County, Tennessee",47153,75.92,18.66,14.42,18.66
+"Sevier County, Tennessee",47155,76.67,19.12,16.73,19.12
+"Shelby County, Tennessee",47157,75.75,11.57,12.06,11.57
+"Smith County, Tennessee",47159,74.71,18.74,21.06,18.74
+"Stewart County, Tennessee",47161,74.91,27.83,16.44,27.83
+"Sullivan County, Tennessee",47163,76.42,19.17,15.72,19.17
+"Sumner County, Tennessee",47165,78,15.43,10.79,15.43
+"Tipton County, Tennessee",47167,75.24,14.2,9.87,14.2
+"Trousdale County, Tennessee",47169,73.84,26.21,15.73,26.21
+"Unicoi County, Tennessee",47171,74.98,27.12,14.88,27.12
+"Union County, Tennessee",47173,74.69,25.07,22.35,25.07
+"Van Buren County, Tennessee",47175,75.93,20.44,9.56,20.44
+"Warren County, Tennessee",47177,74.99,19.13,12.26,19.13
+"Washington County, Tennessee",47179,76.49,19.75,11.76,19.75
+"Wayne County, Tennessee",47181,75.44,20.83,13.06,20.83
+"Weakley County, Tennessee",47183,76.77,19.17,8.85,19.17
+"White County, Tennessee",47185,74.52,24.72,15.02,24.72
+"Williamson County, Tennessee",47187,81.86,11.23,4.86,11.23
+"Wilson County, Tennessee",47189,77.68,15.45,12.77,15.45
+Texas,48,78.54,12.76,8.03,12.76
+"Anderson County, Texas",48001,73.41,20,10.6,20
+"Andrews County, Texas",48003,76.46,13.03,7.6,13.03
+"Angelina County, Texas",48005,76.06,16.27,8.24,16.27
+"Aransas County, Texas",48007,76.03,25.31,21.33,25.31
+"Archer County, Texas",48009,79.29,13.04,12.77,13.04
+"Armstrong County, Texas",48011,77.22,16.78,6.03,16.78
+"Atascosa County, Texas",48013,77.73,17.08,6.86,17.08
+"Austin County, Texas",48015,78.19,15.47,5.65,15.47
+"Bailey County, Texas",48017,78.22,14.15,5.09,14.15
+"Bandera County, Texas",48019,79.9,17.42,8.93,17.42
+"Bastrop County, Texas",48021,77.47,18.85,10.48,18.85
+"Baylor County, Texas",48023,76.33,15.92,12.66,15.92
+"Bee County, Texas",48025,77.87,14.08,4.51,14.08
+"Bell County, Texas",48027,77.91,16.23,5.19,16.23
+"Bexar County, Texas",48029,78.65,11.99,8.89,11.99
+"Blanco County, Texas",48031,79.47,17.43,9.16,17.43
+"Borden County, Texas",48033,79.62,10.87,3.65,10.87
+"Bosque County, Texas",48035,76.7,16.97,9.17,16.97
+"Bowie County, Texas",48037,75.69,18.73,5.94,18.73
+"Brazoria County, Texas",48039,78.1,14.38,7.62,14.38
+"Brazos County, Texas",48041,79.92,10.15,6.63,10.15
+"Brewster County, Texas",48043,80.19,17.38,9.02,17.38
+"Briscoe County, Texas",48045,77.56,14.51,5.29,14.51
+"Brooks County, Texas",48047,76.41,16.83,7.64,16.83
+"Brown County, Texas",48049,75.63,18.32,13.76,18.32
+"Burleson County, Texas",48051,77.78,15.5,8.25,15.5
+"Burnet County, Texas",48053,78.87,16.63,8.71,16.63
+"Caldwell County, Texas",48055,77.98,13.35,6.34,13.35
+"Calhoun County, Texas",48057,77.26,15.07,11.18,15.07
+"Callahan County, Texas",48059,76.76,21.6,7.75,21.6
+"Cameron County, Texas",48061,80.14,7.91,4.21,7.91
+"Camp County, Texas",48063,74.55,18.91,9.35,18.91
+"Carson County, Texas",48065,77.85,17.72,7.16,17.72
+"Cass County, Texas",48067,75.73,19.63,8.1,19.63
+"Castro County, Texas",48069,78.56,11.23,4.14,11.23
+"Chambers County, Texas",48071,77.12,14.17,12.75,14.17
+"Cherokee County, Texas",48073,76.24,18.85,10.49,18.85
+"Childress County, Texas",48075,76.57,17.25,4.83,17.25
+"Clay County, Texas",48077,77.57,16.43,11.49,16.43
+"Cochran County, Texas",48079,75.93,14.49,6.59,14.49
+"Coke County, Texas",48081,76.65,17.87,7.64,17.87
+"Coleman County, Texas",48083,75.58,18.98,9.05,18.98
+"Collin County, Texas",48085,82,10.71,4.5,10.71
+"Collingsworth County, Texas",48087,75.65,18.48,8.12,18.48
+"Colorado County, Texas",48089,77.07,15.64,6.72,15.64
+"Comal County, Texas",48091,79.82,16.02,8.45,16.02
+"Comanche County, Texas",48093,77.17,16.23,7.54,16.23
+"Concho County, Texas",48095,78.37,11.58,4.64,11.58
+"Cooke County, Texas",48097,77.22,18.92,13.33,18.92
+"Coryell County, Texas",48099,77.88,13.52,4.08,13.52
+"Cottle County, Texas",48101,77.46,14.56,5.95,14.56
+"Crane County, Texas",48103,75.88,12.27,9.69,12.27
+"Crockett County, Texas",48105,77.17,12.69,6.76,12.69
+"Crosby County, Texas",48107,77.03,11.79,6.59,11.79
+"Culberson County, Texas",48109,78.67,11.82,7.8,11.82
+"Dallam County, Texas",48111,75.6,17.59,8.16,17.59
+"Dallas County, Texas",48113,78.29,11.5,10.05,11.5
+"Dawson County, Texas",48115,76.97,11.96,7.19,11.96
+"DeWitt County, Texas",48123,77.27,15.53,7.29,15.53
+"Deaf Smith County, Texas",48117,77.58,11.29,6.65,11.29
+"Delta County, Texas",48119,75.54,15.51,10.46,15.51
+"Denton County, Texas",48121,80.8,9.87,5.07,9.87
+"Dickens County, Texas",48125,77.23,15.35,5.46,15.35
+"Dimmit County, Texas",48127,77.8,10.43,8.66,10.43
+"Donley County, Texas",48129,76.46,16.12,8.33,16.12
+"Duval County, Texas",48131,76.64,14.4,8.32,14.4
+"Eastland County, Texas",48133,75.33,17.4,9.05,17.4
+"Ector County, Texas",48135,75.07,14.56,15.4,14.56
+"Edwards County, Texas",48137,79.51,16.94,5.57,16.94
+"El Paso County, Texas",48141,79.79,10.62,7.42,10.62
+"Ellis County, Texas",48139,77.77,12.07,4.98,12.07
+"Erath County, Texas",48143,78.45,15.39,7.18,15.39
+"Falls County, Texas",48145,76.13,14.07,7.11,14.07
+"Fannin County, Texas",48147,75.87,19.13,7.94,19.13
+"Fayette County, Texas",48149,79.26,15.46,5.89,15.46
+"Fisher County, Texas",48151,77.71,14.61,5.21,14.61
+"Floyd County, Texas",48153,78.25,11.31,4.35,11.31
+"Foard County, Texas",48155,77.59,13.96,7.43,13.96
+"Fort Bend County, Texas",48157,81.84,8.47,3.97,8.47
+"Franklin County, Texas",48159,77.83,16.51,6.24,16.51
+"Freestone County, Texas",48161,76.14,20.14,6.86,20.14
+"Frio County, Texas",48163,77.75,12.58,5.86,12.58
+"Gaines County, Texas",48165,77.94,12.93,6.04,12.93
+"Galveston County, Texas",48167,77.22,15.38,13.89,15.38
+"Garza County, Texas",48169,76.17,12.15,6.22,12.15
+"Gillespie County, Texas",48171,81.04,15.58,7.69,15.58
+"Glasscock County, Texas",48173,79.81,13.26,4.41,13.26
+"Goliad County, Texas",48175,79.36,15.96,5.87,15.96
+"Gonzales County, Texas",48177,77.05,17.38,9.22,17.38
+"Gray County, Texas",48179,75.4,18.7,10.15,18.7
+"Grayson County, Texas",48181,76.47,17.86,12.41,17.86
+"Gregg County, Texas",48183,75.51,16.53,8.7,16.53
+"Grimes County, Texas",48185,76.19,14.39,9.89,14.39
+"Guadalupe County, Texas",48187,79.71,13.26,6.58,13.26
+"Hale County, Texas",48189,77.9,11.16,5.8,11.16
+"Hall County, Texas",48191,76.23,17.27,7.47,17.27
+"Hamilton County, Texas",48193,76.74,23.85,7.85,23.85
+"Hansford County, Texas",48195,76.97,11.99,6.52,11.99
+"Hardeman County, Texas",48197,77.33,14.16,7.35,14.16
+"Hardin County, Texas",48199,75.8,16.46,15.37,16.46
+"Harris County, Texas",48201,78.74,11.3,7.52,11.3
+"Harrison County, Texas",48203,75.88,15.19,8.19,15.19
+"Hartley County, Texas",48205,80.59,10.69,4.54,10.69
+"Haskell County, Texas",48207,76.87,17.34,7.32,17.34
+"Hays County, Texas",48209,80.56,12.35,5.82,12.35
+"Hemphill County, Texas",48211,77.46,14.15,6.37,14.15
+"Henderson County, Texas",48213,75.33,21.45,13.52,21.45
+"Hidalgo County, Texas",48215,80.97,7.24,3.67,7.24
+"Hill County, Texas",48217,76.59,19,8.19,19
+"Hockley County, Texas",48219,76.82,14.33,8.11,14.33
+"Hood County, Texas",48221,78.13,18.09,12.1,18.09
+"Hopkins County, Texas",48223,76.79,14.82,9.21,14.82
+"Houston County, Texas",48225,75.67,17.05,8.23,17.05
+"Howard County, Texas",48227,74.89,17.91,11,17.91
+"Hudspeth County, Texas",48229,81.14,8.78,4.22,8.78
+"Hunt County, Texas",48231,75.95,18.86,10.4,18.86
+"Hutchinson County, Texas",48233,75.51,18.74,12.94,18.74
+"Irion County, Texas",48235,79.53,13.93,5.74,13.93
+"Jack County, Texas",48237,76.73,15.04,10.58,15.04
+"Jackson County, Texas",48239,77.26,15.93,7.76,15.93
+"Jasper County, Texas",48241,75.48,17.73,11.8,17.73
+"Jeff Davis County, Texas",48243,82.06,12.97,6.51,12.97
+"Jefferson County, Texas",48245,75.91,15,12.57,15
+"Jim Hogg County, Texas",48247,77.19,13.69,4.46,13.69
+"Jim Wells County, Texas",48249,76.45,15.55,10.59,15.55
+"Johnson County, Texas",48251,76.92,15.73,8.29,15.73
+"Jones County, Texas",48253,76.82,22.83,5.42,22.83
+"Karnes County, Texas",48255,77.02,15.98,5.51,15.98
+"Kaufman County, Texas",48257,75.91,16.37,10.39,16.37
+"Kendall County, Texas",48259,80.13,16.42,6.18,16.42
+"Kenedy County, Texas",48261,76.92,10.63,2.65,10.63
+"Kent County, Texas",48263,77.32,13.29,4.97,13.29
+"Kerr County, Texas",48265,78.76,21.04,11.99,21.04
+"Kimble County, Texas",48267,77.98,19.09,8.82,19.09
+"King County, Texas",48269,78.22,11.34,3.89,11.34
+"Kinney County, Texas",48271,79.7,12.36,5.21,12.36
+"Kleberg County, Texas",48273,77.66,9.71,6.91,9.71
+"Knox County, Texas",48275,77.49,11.91,6.84,11.91
+"La Salle County, Texas",48283,77.75,11.25,6.11,11.25
+"Lamar County, Texas",48277,75.51,19.43,7.86,19.43
+"Lamb County, Texas",48279,76.63,15.3,8.6,15.3
+"Lampasas County, Texas",48281,77.29,18.03,6.68,18.03
+"Lavaca County, Texas",48285,78.91,14.57,5.37,14.57
+"Lee County, Texas",48287,78.38,12.1,6.19,12.1
+"Leon County, Texas",48289,76.08,18.13,10.1,18.13
+"Liberty County, Texas",48291,74.16,16.89,15.02,16.89
+"Limestone County, Texas",48293,74.62,22.03,10.27,22.03
+"Lipscomb County, Texas",48295,77.82,17.59,6.94,17.59
+"Live Oak County, Texas",48297,79.44,15.18,5.64,15.18
+"Llano County, Texas",48299,79.32,19.54,13.55,19.54
+"Loving County, Texas",48301,73.85,20.89,9.46,20.89
+"Lubbock County, Texas",48303,76.86,15.08,8.99,15.08
+"Lynn County, Texas",48305,77.04,14.84,5.21,14.84
+"Madison County, Texas",48313,76.68,14.79,7.64,14.79
+"Marion County, Texas",48315,74.22,22.07,10.47,22.07
+"Martin County, Texas",48317,76.64,10.69,6.27,10.69
+"Mason County, Texas",48319,79.78,17.53,5.89,17.53
+"Matagorda County, Texas",48321,76.67,15.03,9.82,15.03
+"Maverick County, Texas",48323,79.18,8.92,5.16,8.92
+"McCulloch County, Texas",48307,76.46,16.87,8.82,16.87
+"McLennan County, Texas",48309,77.24,13,6.48,13
+"McMullen County, Texas",48311,78.72,12.05,4.35,12.05
+"Medina County, Texas",48325,78.7,12.67,5.14,12.67
+"Menard County, Texas",48327,77.87,17.01,6.84,17.01
+"Midland County, Texas",48329,78.36,13.56,9.52,13.56
+"Milam County, Texas",48331,76.82,14.62,8.6,14.62
+"Mills County, Texas",48333,78.52,16.17,6.44,16.17
+"Mitchell County, Texas",48335,75.66,13.52,7.69,13.52
+"Montague County, Texas",48337,74.94,24.14,13.37,24.14
+"Montgomery County, Texas",48339,78.74,15.61,8.26,15.61
+"Moore County, Texas",48341,77.65,14.41,6.7,14.41
+"Morris County, Texas",48343,75.33,20.5,11.47,20.5
+"Motley County, Texas",48345,77.87,15.14,6.01,15.14
+"Nacogdoches County, Texas",48347,76.15,14.75,10.02,14.75
+"Navarro County, Texas",48349,75.97,17.04,7.6,17.04
+"Newton County, Texas",48351,74.8,18.96,14.73,18.96
+"Nolan County, Texas",48353,75.45,18.26,11.81,18.26
+"Nueces County, Texas",48355,78.08,13.51,13.21,13.51
+"Ochiltree County, Texas",48357,76.34,17.68,5.6,17.68
+"Oldham County, Texas",48359,77.5,15.52,6.47,15.52
+"Orange County, Texas",48361,74.44,20.47,21.02,20.47
+"Palo Pinto County, Texas",48363,75.51,21.77,12.93,21.77
+"Panola County, Texas",48365,75.64,13.85,8.41,13.85
+"Parker County, Texas",48367,77.8,15.17,9.64,15.17
+"Parmer County, Texas",48369,78.82,10.24,6.4,10.24
+"Pecos County, Texas",48371,78.24,12.22,7.09,12.22
+"Polk County, Texas",48373,72.75,33.55,19.88,33.55
+"Potter County, Texas",48375,73.91,21.07,10.78,21.07
+"Presidio County, Texas",48377,83.72,10.65,2.98,10.65
+"Rains County, Texas",48379,76.72,18.21,11.12,18.21
+"Randall County, Texas",48381,79.01,16.7,6.45,16.7
+"Reagan County, Texas",48383,76.68,14.19,9.68,14.19
+"Real County, Texas",48385,76.74,20.2,11.04,20.2
+"Red River County, Texas",48387,74.72,22.33,9.22,22.33
+"Reeves County, Texas",48389,77.33,14.81,12.37,14.81
+"Refugio County, Texas",48391,76.7,12.62,8.87,12.62
+"Roberts County, Texas",48393,76.14,16.54,5.89,16.54
+"Robertson County, Texas",48395,75.87,18.02,9.56,18.02
+"Rockwall County, Texas",48397,79.76,13.05,5.94,13.05
+"Runnels County, Texas",48399,76.99,14.72,6.67,14.72
+"Rusk County, Texas",48401,76.03,16.12,7.42,16.12
+"Sabine County, Texas",48403,75.08,21.48,12.89,21.48
+"San Augustine County, Texas",48405,74.69,21.64,13.24,21.64
+"San Jacinto County, Texas",48407,76.01,20.61,14.45,20.61
+"San Patricio County, Texas",48409,76.71,13.9,11.82,13.9
+"San Saba County, Texas",48411,78.47,15.51,6.66,15.51
+"Schleicher County, Texas",48413,78.15,11.4,5.02,11.4
+"Scurry County, Texas",48415,76.99,14.01,7.6,14.01
+"Shackelford County, Texas",48417,77.22,15.45,4.82,15.45
+"Shelby County, Texas",48419,74.05,18.09,12.92,18.09
+"Sherman County, Texas",48421,77.61,13.78,7.59,13.78
+"Smith County, Texas",48423,77.77,16.26,8.94,16.26
+"Somervell County, Texas",48425,77.63,19.31,7.66,19.31
+"Starr County, Texas",48427,79.11,9.64,3.03,9.64
+"Stephens County, Texas",48429,76.55,19.59,6.94,19.59
+"Sterling County, Texas",48431,77.49,16.97,5.62,16.97
+"Stonewall County, Texas",48433,77.46,13.15,4.86,13.15
+"Sutton County, Texas",48435,77.57,14.03,6.62,14.03
+"Swisher County, Texas",48437,77.92,15.55,5.39,15.55
+"Tarrant County, Texas",48439,78.68,12.05,7.84,12.05
+"Taylor County, Texas",48441,76.78,15.65,9.93,15.65
+"Terrell County, Texas",48443,77.47,16.21,5.45,16.21
+"Terry County, Texas",48445,77.02,15.13,6.87,15.13
+"Throckmorton County, Texas",48447,77.91,17.98,7.23,17.98
+"Titus County, Texas",48449,77.16,16.05,7.26,16.05
+"Tom Green County, Texas",48451,77.5,18.53,10.24,18.53
+"Travis County, Texas",48453,80.89,12.63,7.85,12.63
+"Trinity County, Texas",48455,74.4,19.25,15.51,19.25
+"Tyler County, Texas",48457,75.51,20.14,12.69,20.14
+"Upshur County, Texas",48459,75.24,20.3,10.17,20.3
+"Upton County, Texas",48461,76.37,14.79,7.15,14.79
+"Uvalde County, Texas",48463,78.43,12.38,5.75,12.38
+"Val Verde County, Texas",48465,79.53,10.1,6.13,10.1
+"Van Zandt County, Texas",48467,76.08,22.96,12.53,22.96
+"Victoria County, Texas",48469,78.05,16.29,8.53,16.29
+"Walker County, Texas",48471,77.26,16.81,5.55,16.81
+"Waller County, Texas",48473,77.95,14.29,8.97,14.29
+"Ward County, Texas",48475,76.16,15.59,10.93,15.59
+"Washington County, Texas",48477,78.59,13.03,6.52,13.03
+"Webb County, Texas",48479,79.69,7.47,8.48,7.47
+"Wharton County, Texas",48481,77.55,12.85,6.55,12.85
+"Wheeler County, Texas",48483,75.33,18.18,8.03,18.18
+"Wichita County, Texas",48485,75.66,19.75,16.03,19.75
+"Wilbarger County, Texas",48487,75.57,16.55,11.83,16.55
+"Willacy County, Texas",48489,79.62,6.86,3.92,6.86
+"Williamson County, Texas",48491,81.73,11.24,5.39,11.24
+"Wilson County, Texas",48493,78.7,13.45,6.29,13.45
+"Winkler County, Texas",48495,74.58,18.75,16.71,18.75
+"Wise County, Texas",48497,76.71,14.3,10.17,14.3
+"Wood County, Texas",48499,76.6,21.09,11.37,21.09
+"Yoakum County, Texas",48501,77.61,12.68,5.7,12.68
+"Young County, Texas",48503,75.52,19.44,20.13,19.44
+"Zapata County, Texas",48505,79.21,11.76,8.6,11.76
+"Zavala County, Texas",48507,77.86,12.01,8.91,12.01
+Utah,49,79.91,24.56,11.02,24.56
+"Beaver County, Utah",49001,76.89,32.85,11.5,32.85
+"Box Elder County, Utah",49003,79.5,24.73,8.72,24.73
+"Cache County, Utah",49005,81.97,17.15,5.99,17.15
+"Carbon County, Utah",49007,76.52,49.29,19.61,49.29
+"Daggett County, Utah",49009,81.27,21.73,7.2,21.73
+"Davis County, Utah",49011,80.74,20.8,7.82,20.8
+"Duchesne County, Utah",49013,77.58,34.04,13.85,34.04
+"Emery County, Utah",49015,77.99,35.06,13.72,35.06
+"Garfield County, Utah",49017,79.3,25.2,7.27,25.2
+"Grand County, Utah",49019,78.21,35.19,8.53,35.19
+"Iron County, Utah",49021,79.15,26.74,9.55,26.74
+"Juab County, Utah",49023,77.79,30.21,11.71,30.21
+"Kane County, Utah",49025,79.08,31.96,8.68,31.96
+"Millard County, Utah",49027,79.28,29.88,8.62,29.88
+"Morgan County, Utah",49029,81.47,17.08,8.79,17.08
+"Piute County, Utah",49031,78.37,26.55,9.77,26.55
+"Rich County, Utah",49033,81.1,19.49,5.91,19.49
+"Salt Lake County, Utah",49035,79.4,25.67,12.9,25.67
+"San Juan County, Utah",49037,79.02,24.4,6.8,24.4
+"Sanpete County, Utah",49039,79.16,30.72,10.66,30.72
+"Sevier County, Utah",49041,77.95,35.52,10.11,35.52
+"Summit County, Utah",49043,82.39,17.47,7.08,17.47
+"Tooele County, Utah",49045,78.21,29.45,14.66,29.45
+"Uintah County, Utah",49047,77.99,32.1,11.96,32.1
+"Utah County, Utah",49049,80.75,19.89,9.23,19.89
+"Wasatch County, Utah",49051,80.61,20.07,8.57,20.07
+"Washington County, Utah",49053,81.36,26.71,10.19,26.71
+"Wayne County, Utah",49055,79.47,27.39,7.82,27.39
+"Weber County, Utah",49057,78.8,28.68,13.48,28.68
+Vermont,50,80.24,16.27,8.21,16.27
+"Addison County, Vermont",50001,80.8,12.82,7.43,12.82
+"Bennington County, Vermont",50003,79.49,16.81,10.76,16.81
+"Caledonia County, Vermont",50005,79.9,17.91,6.93,17.91
+"Chittenden County, Vermont",50007,81.39,13.34,7.05,13.34
+"Essex County, Vermont",50009,79.7,21.17,10.37,21.17
+"Franklin County, Vermont",50011,79.22,17.66,7.69,17.66
+"Grand Isle County, Vermont",50013,80.02,15.7,5.76,15.7
+"Lamoille County, Vermont",50015,80.17,18.2,6.19,18.2
+"Orange County, Vermont",50017,80.36,18.99,6.11,18.99
+"Orleans County, Vermont",50019,79.35,18.69,9.08,18.69
+"Rutland County, Vermont",50021,79.11,18.14,11.21,18.14
+"Washington County, Vermont",50023,80.37,17.01,6.85,17.01
+"Windham County, Vermont",50025,79.84,18.26,12.17,18.26
+"Windsor County, Vermont",50027,80.39,17.04,9.02,17.04
+Virginia,51,79.18,13.19,7.26,13.19
+"Accomack County, Virginia",51001,75.99,16.08,10.78,16.08
+"Albemarle County, Virginia",51003,81.18,11.48,4.08,11.48
+"Alexandria City, Virginia",51510,81.7,9.1,3.67,9.1
+"Alleghany County, Virginia",51005,76.35,17.92,11.53,17.92
+"Amelia County, Virginia",51007,77.27,18.18,5.11,18.18
+"Amherst County, Virginia",51009,77.77,16.06,6.94,16.06
+"Appomattox County, Virginia",51011,77.5,14.53,4.6,14.53
+"Arlington County, Virginia",51013,82.76,8.68,2.71,8.68
+"Augusta County, Virginia",51015,78.66,18.27,8.71,18.27
+"Bath County, Virginia",51017,77.3,17.99,8.33,17.99
+"Bedford County, Virginia",51019,79.27,15.59,7.36,15.59
+"Bland County, Virginia",51021,75.79,23.22,18.66,23.22
+"Botetourt County, Virginia",51023,79.69,15.08,6.47,15.08
+"Bristol City, Virginia",51520,74.18,21.49,19.76,21.49
+"Brunswick County, Virginia",51025,76.04,12.66,3.4,12.66
+"Buchanan County, Virginia",51027,73.68,25.45,31.85,25.45
+"Buckingham County, Virginia",51029,77.6,14.84,4.78,14.84
+"Buena Vista City, Virginia",51530,79.28,16.21,7.39,16.21
+"Campbell County, Virginia",51031,78.83,14.83,6.82,14.83
+"Caroline County, Virginia",51033,77.53,16.94,5.82,16.94
+"Carroll County, Virginia",51035,77.27,21.88,13.67,21.88
+"Charles City County, Virginia",51036,77.53,15.27,6.2,15.27
+"Charlotte County, Virginia",51037,76.28,15.89,5.32,15.89
+"Charlottesville City, Virginia",51540,81.18,11.48,4.08,11.48
+"Chesapeake City, Virginia",51550,78.48,11.5,6.2,11.5
+"Chesterfield County, Virginia",51041,79.94,12.69,5.35,12.69
+"Clarke County, Virginia",51043,79.17,15.68,8.66,15.68
+"Colonial Heights City, Virginia",51570,78.19,16.58,9.47,16.58
+"Covington City, Virginia",51580,75.44,24.38,12.2,24.38
+"Craig County, Virginia",51045,78.24,19.3,9.36,19.3
+"Culpeper County, Virginia",51047,78.41,16.91,9.83,16.91
+"Cumberland County, Virginia",51049,78.39,16.35,5.72,16.35
+"Danville City, Virginia",51590,75.94,17.42,10.38,17.42
+"Dickenson County, Virginia",51051,73.9,31.38,39.17,31.38
+"Dinwiddie County, Virginia",51053,76.93,16.27,5.19,16.27
+"Emporia City, Virginia",51595,74.37,13.82,4.99,13.82
+"Essex County, Virginia",51057,76.75,19.1,6.35,19.1
+"Fairfax City, Virginia",51600,83.73,9.1,3.25,9.1
+"Fairfax County, Virginia",51059,83.73,9.1,3.25,9.1
+"Falls Church City, Virginia",51610,81.81,10.77,5.65,10.77
+"Fauquier County, Virginia",51061,79.36,16.51,9.18,16.51
+"Floyd County, Virginia",51063,78.67,19.14,10.52,19.14
+"Fluvanna County, Virginia",51065,80.79,11.92,3.48,11.92
+"Franklin City, Virginia",51620,76.21,13.19,5.32,13.19
+"Franklin County, Virginia",51067,78.59,15.44,11.74,15.44
+"Frederick County, Virginia",51069,79.4,14.83,9.83,14.83
+"Fredericksburg City, Virginia",51630,79.17,12.97,6.82,12.97
+"Galax City, Virginia",51640,74.92,20.78,15.64,20.78
+"Giles County, Virginia",51071,75.91,19.17,18.13,19.17
+"Gloucester County, Virginia",51073,77.86,16.85,7.01,16.85
+"Goochland County, Virginia",51075,80.17,11.83,6.47,11.83
+"Grayson County, Virginia",51077,76.91,21.37,9.83,21.37
+"Greene County, Virginia",51079,79.1,14.79,4.91,14.79
+"Greensville County, Virginia",51081,74.37,13.82,4.99,13.82
+"Halifax County, Virginia",51083,75.66,17.35,7.49,17.35
+"Hampton City, Virginia",51650,76.9,12.17,6.57,12.17
+"Hanover County, Virginia",51085,79.88,15.12,6.36,15.12
+"Harrisonburg City, Virginia",51660,80.62,11.78,4.85,11.78
+"Henrico County, Virginia",51087,79.44,11.75,7.26,11.75
+"Henry County, Virginia",51089,75.69,24.35,18.74,24.35
+"Highland County, Virginia",51091,79.75,23.35,8.34,23.35
+"Hopewell City, Virginia",51670,73.95,16.82,11.59,16.82
+"Isle of Wight County, Virginia",51093,78.03,13.25,5.06,13.25
+"James City County, Virginia",51095,81.68,11.92,5.65,11.92
+"King George County, Virginia",51099,78.81,17.45,6.44,17.45
+"King William County, Virginia",51101,77.48,15.54,5.63,15.54
+"King and Queen County, Virginia",51097,77.7,19.2,6.59,19.2
+"Lancaster County, Virginia",51103,78.17,17.34,7.2,17.34
+"Lee County, Virginia",51105,74.54,25.11,21.43,25.11
+"Lexington City, Virginia",51678,80.26,7.38,5.24,7.38
+"Loudoun County, Virginia",51107,83.19,9.85,3.4,9.85
+"Louisa County, Virginia",51109,78.37,14.92,5.92,14.92
+"Lunenburg County, Virginia",51111,77.06,15.22,4.26,15.22
+"Lynchburg City, Virginia",51680,76.92,12.42,7.04,12.42
+"Madison County, Virginia",51113,78.93,17.05,6.32,17.05
+"Manassas City, Virginia",51683,80.99,9.67,5.14,9.67
+"Manassas Park City, Virginia",51685,80.99,9.67,5.14,9.67
+"Martinsville City, Virginia",51690,73.26,21.41,20.61,21.41
+"Mathews County, Virginia",51115,79.19,15.66,6.37,15.66
+"Mecklenburg County, Virginia",51117,76.13,16.53,6.05,16.53
+"Middlesex County, Virginia",51119,78,18.52,6.82,18.52
+"Montgomery County, Virginia",51121,79.38,11.86,8.29,11.86
+"Nelson County, Virginia",51125,78.06,16.42,5.05,16.42
+"New Kent County, Virginia",51127,78.87,16.42,5.54,16.42
+"Newport News City, Virginia",51700,78.26,12.74,7.71,12.74
+"Norfolk City, Virginia",51710,75.53,14.94,10.78,14.94
+"Northampton County, Virginia",51131,75.91,16.24,9.58,16.24
+"Northumberland County, Virginia",51133,79.6,15.86,5.62,15.86
+"Norton City, Virginia",51720,76.34,16.36,18.97,16.36
+"Nottoway County, Virginia",51135,75.57,16.16,6.11,16.16
+"Orange County, Virginia",51137,78.79,16.74,9.8,16.74
+"Page County, Virginia",51139,77.63,19.73,10.75,19.73
+"Patrick County, Virginia",51141,76.93,25.23,12.03,25.23
+"Petersburg City, Virginia",51730,72.16,16.33,11.81,16.33
+"Pittsylvania County, Virginia",51143,75.94,17.42,10.38,17.42
+"Poquoson City, Virginia",51735,79.73,10.23,6.22,10.23
+"Portsmouth City, Virginia",51740,74.78,15.45,15.77,15.45
+"Powhatan County, Virginia",51145,80.08,12.62,4.55,12.62
+"Prince Edward County, Virginia",51147,76.98,14.8,5.55,14.8
+"Prince George County, Virginia",51149,79.41,13.53,4.23,13.53
+"Prince William County, Virginia",51153,80.99,9.67,5.14,9.67
+"Pulaski County, Virginia",51155,75.56,21.79,26.51,21.79
+"Radford City, Virginia",51750,77.85,13.48,10.3,13.48
+"Rappahannock County, Virginia",51157,79.6,19.82,8.03,19.82
+"Richmond City, Virginia",51760,74.98,14.37,17.42,14.37
+"Richmond County, Virginia",51159,76.81,17.42,6.81,17.42
+"Roanoke City, Virginia",51770,74.99,19.23,12.48,19.23
+"Roanoke County, Virginia",51161,79.65,15.05,8.26,15.05
+"Rockbridge County, Virginia",51163,79.28,16.21,7.39,16.21
+"Rockingham County, Virginia",51165,80.62,11.78,4.85,11.78
+"Russell County, Virginia",51167,74.71,24.4,28.01,24.4
+"Salem City, Virginia",51775,77.32,18.01,14.14,18.01
+"Scott County, Virginia",51169,75.44,24.61,16.7,24.61
+"Shenandoah County, Virginia",51171,79.07,16.93,7.57,16.93
+"Smyth County, Virginia",51173,75.29,18.25,14.72,18.25
+"Southampton County, Virginia",51175,76.21,13.19,5.32,13.19
+"Spotsylvania County, Virginia",51177,79.17,12.97,6.82,12.97
+"Stafford County, Virginia",51179,80.1,10.96,4.89,10.96
+"Staunton City, Virginia",51790,78.66,18.27,8.71,18.27
+"Suffolk City, Virginia",51800,76.82,12.26,6.39,12.26
+"Surry County, Virginia",51181,78.29,13.49,6.46,13.49
+"Sussex County, Virginia",51183,74.93,14.49,6.35,14.49
+"Tazewell County, Virginia",51185,74.31,22.48,28.88,22.48
+"Virginia Beach City, Virginia",51810,79.89,13.36,6.61,13.36
+"Warren County, Virginia",51187,77.12,20.05,11.74,20.05
+"Washington County, Virginia",51191,77.53,19.65,10.91,19.65
+"Waynesboro City, Virginia",51820,78.66,18.27,8.71,18.27
+"Westmoreland County, Virginia",51193,77.3,18.71,7.69,18.71
+"Williamsburg City, Virginia",51830,81.68,11.92,5.65,11.92
+"Winchester City, Virginia",51840,77.19,20.18,13.76,20.18
+"Wise County, Virginia",51195,73.8,21.73,27.31,21.73
+"Wythe County, Virginia",51197,76.52,17.7,17.88,17.7
+"York County, Virginia",51199,78.26,12.74,7.71,12.74
+Washington,53,79.99,15.84,10.57,15.84
+"Adams County, Washington",53001,79.19,11.37,4.89,11.37
+"Asotin County, Washington",53003,79.19,20.68,13.38,20.68
+"Benton County, Washington",53005,79.96,14.57,9.15,14.57
+"Chelan County, Washington",53007,80.29,15.78,11.77,15.78
+"Clallam County, Washington",53009,79.45,26.47,16.42,26.47
+"Clark County, Washington",53011,79.72,17.62,9.28,17.62
+"Columbia County, Washington",53013,79.14,18.45,7.56,18.45
+"Cowlitz County, Washington",53015,77.51,19.55,20.17,19.55
+"Douglas County, Washington",53017,80.56,14.5,10.41,14.5
+"Ferry County, Washington",53019,76.96,32.92,17.75,32.92
+"Franklin County, Washington",53021,79.9,11.87,6.38,11.87
+"Garfield County, Washington",53023,80.56,14.81,9.21,14.81
+"Grant County, Washington",53025,78.77,14.24,11.44,14.24
+"Grays Harbor County, Washington",53027,76.61,22.89,19.94,22.89
+"Island County, Washington",53029,81.93,14.24,8.99,14.24
+"Jefferson County, Washington",53031,81.26,18.28,12.34,18.28
+"King County, Washington",53033,81.37,12.92,10.08,12.92
+"Kitsap County, Washington",53035,79.66,15.87,8.19,15.87
+"Kittitas County, Washington",53037,80.98,13.91,6.73,13.91
+"Klickitat County, Washington",53039,79.83,19.37,7.71,19.37
+"Lewis County, Washington",53041,78.07,19.57,13.84,19.57
+"Lincoln County, Washington",53043,80.03,17.97,10.23,17.97
+"Mason County, Washington",53045,78.45,21.99,15.57,21.99
+"Okanogan County, Washington",53047,78.24,23.31,14.24,23.31
+"Pacific County, Washington",53049,77.38,28.4,14.86,28.4
+"Pend Oreille County, Washington",53051,77.56,25.07,13.6,25.07
+"Pierce County, Washington",53053,78.72,18.07,10.55,18.07
+"San Juan County, Washington",53055,83.7,15.74,8.1,15.74
+"Skagit County, Washington",53057,79.82,17.32,12.99,17.32
+"Skamania County, Washington",53059,80.08,20.76,9.46,20.76
+"Snohomish County, Washington",53061,80.15,15.43,11.38,15.43
+"Spokane County, Washington",53063,78.9,18.68,11.43,18.68
+"Stevens County, Washington",53065,78.13,23.42,14.59,23.42
+"Thurston County, Washington",53067,80.16,16.45,8.28,16.45
+"Wahkiakum County, Washington",53069,78.93,26.93,12.52,26.93
+"Walla Walla County, Washington",53071,79.8,16.37,10.24,16.37
+"Whatcom County, Washington",53073,80.98,15.19,9.67,15.19
+"Whitman County, Washington",53075,81.4,9.6,4.96,9.6
+"Yakima County, Washington",53077,78.44,15.05,10.11,15.05
+"West Virginia",54,76.03,18.94,21.59,18.94
+"Barbour County, West Virginia",54001,76.08,18.22,10.33,18.22
+"Berkeley County, West Virginia",54003,76.39,21.07,21.63,21.07
+"Boone County, West Virginia",54005,72.93,20.53,51.47,20.53
+"Braxton County, West Virginia",54007,76.5,17.17,15.53,17.17
+"Brooke County, West Virginia",54009,77.11,20.6,24.61,20.6
+"Cabell County, West Virginia",54011,75.12,17.81,32.9,17.81
+"Calhoun County, West Virginia",54013,76.48,20.33,12.58,20.33
+"Clay County, West Virginia",54015,74.55,22.15,18.13,22.15
+"Doddridge County, West Virginia",54017,76.91,19.85,10.16,19.85
+"Fayette County, West Virginia",54019,74.3,20,28.47,20
+"Gilmer County, West Virginia",54021,76.73,18.43,9.28,18.43
+"Grant County, West Virginia",54023,78.41,19.99,6.9,19.99
+"Greenbrier County, West Virginia",54025,76.48,21.07,18.06,21.07
+"Hampshire County, West Virginia",54027,77.56,20.95,14.47,20.95
+"Hancock County, West Virginia",54029,76.71,18.73,25.96,18.73
+"Hardy County, West Virginia",54031,77.67,19.34,7.74,19.34
+"Harrison County, West Virginia",54033,75.94,18.84,17.6,18.84
+"Jackson County, West Virginia",54035,77.07,15.77,13.5,15.77
+"Jefferson County, West Virginia",54037,77.77,14.76,15.07,14.76
+"Kanawha County, West Virginia",54039,75.61,20.78,26.16,20.78
+"Lewis County, West Virginia",54041,75.12,20.55,11.1,20.55
+"Lincoln County, West Virginia",54043,73.58,20.47,29.7,20.47
+"Logan County, West Virginia",54045,72.22,19.11,41.65,19.11
+"Marion County, West Virginia",54049,77.18,14.89,10.07,14.89
+"Marshall County, West Virginia",54051,77.41,17.42,14.11,17.42
+"Mason County, West Virginia",54053,75.46,18.1,24.27,18.1
+"McDowell County, West Virginia",54047,70.27,30.11,53.98,30.11
+"Mercer County, West Virginia",54055,74.06,26.56,42.63,26.56
+"Mineral County, West Virginia",54057,77.41,20.35,8.74,20.35
+"Mingo County, West Virginia",54059,71.38,21.06,49.15,21.06
+"Monongalia County, West Virginia",54061,79.15,13.91,7.79,13.91
+"Monroe County, West Virginia",54063,77.13,17.98,21.24,17.98
+"Morgan County, West Virginia",54065,77.26,21.97,16.98,21.97
+"Nicholas County, West Virginia",54067,75.36,22.19,21.13,22.19
+"Ohio County, West Virginia",54069,77.49,15.56,15.41,15.56
+"Pendleton County, West Virginia",54071,79.34,18.15,7.5,18.15
+"Pleasants County, West Virginia",54073,76.47,18.9,10.48,18.9
+"Pocahontas County, West Virginia",54075,76.67,24.48,16.18,24.48
+"Preston County, West Virginia",54077,77.17,19.35,10.28,19.35
+"Putnam County, West Virginia",54079,77.41,13.77,13.55,13.77
+"Raleigh County, West Virginia",54081,75.17,20.57,33.91,20.57
+"Randolph County, West Virginia",54083,76.9,18.62,11.34,18.62
+"Ritchie County, West Virginia",54085,76.13,17.03,8.79,17.03
+"Roane County, West Virginia",54087,75.34,21.69,15.12,21.69
+"Summers County, West Virginia",54089,76.14,23.1,27.58,23.1
+"Taylor County, West Virginia",54091,77.07,15.57,10.83,15.57
+"Tucker County, West Virginia",54093,77.54,17.24,7.09,17.24
+"Tyler County, West Virginia",54095,76.6,17.1,11.22,17.1
+"Upshur County, West Virginia",54097,76.91,19.39,8.96,19.39
+"Wayne County, West Virginia",54099,75.94,15.71,24.69,15.71
+"Webster County, West Virginia",54101,75.36,20.62,20.56,20.62
+"Wetzel County, West Virginia",54103,76.42,19.57,9.82,19.57
+"Wirt County, West Virginia",54105,76.64,16.63,10.29,16.63
+"Wood County, West Virginia",54107,76.56,17.68,13.95,17.68
+"Wyoming County, West Virginia",54109,72.69,23.42,54.21,23.42
+Wisconsin,55,79.79,13.76,8.99,13.76
+"Adams County, Wisconsin",55001,77.77,23.14,10.92,23.14
+"Ashland County, Wisconsin",55003,77.69,15.92,9.15,15.92
+"Barron County, Wisconsin",55005,79.58,14.09,5.66,14.09
+"Bayfield County, Wisconsin",55007,79.91,16.04,6.02,16.04
+"Brown County, Wisconsin",55009,80.59,13.66,6.18,13.66
+"Buffalo County, Wisconsin",55011,80.02,14.16,4.61,14.16
+"Burnett County, Wisconsin",55013,79.08,19.05,8.66,19.05
+"Calumet County, Wisconsin",55015,80.34,12.49,5.09,12.49
+"Chippewa County, Wisconsin",55017,80.14,16.27,4.29,16.27
+"Clark County, Wisconsin",55019,80.02,14.06,3.69,14.06
+"Columbia County, Wisconsin",55021,79.31,17.21,9.42,17.21
+"Crawford County, Wisconsin",55023,79.64,13.87,5.05,13.87
+"Dane County, Wisconsin",55025,81.15,12.28,9.29,12.28
+"Dodge County, Wisconsin",55027,79.73,13.55,6.51,13.55
+"Door County, Wisconsin",55029,80.95,16.26,5.98,16.26
+"Douglas County, Wisconsin",55031,78.4,16,7.07,16
+"Dunn County, Wisconsin",55033,81.16,11.61,5.07,11.61
+"Eau Claire County, Wisconsin",55035,80.57,13.7,5.24,13.7
+"Florence County, Wisconsin",55037,79.47,14.83,8.02,14.83
+"Fond du Lac County, Wisconsin",55039,79.95,15.03,6.7,15.03
+"Forest County, Wisconsin",55041,78.28,18.3,10.69,18.3
+"Grant County, Wisconsin",55043,79.66,12.74,4.71,12.74
+"Green County, Wisconsin",55045,80.46,13.86,5.93,13.86
+"Green Lake County, Wisconsin",55047,79.29,16.77,5.71,16.77
+"Iowa County, Wisconsin",55049,80.17,13,6.3,13
+"Iron County, Wisconsin",55051,79.27,19.59,5.79,19.59
+"Jackson County, Wisconsin",55053,78.58,16.88,6.13,16.88
+"Jefferson County, Wisconsin",55055,80.19,13.06,7.61,13.06
+"Juneau County, Wisconsin",55057,78.06,18.59,9.9,18.59
+"Kenosha County, Wisconsin",55059,78.23,16.15,14.62,16.15
+"Kewaunee County, Wisconsin",55061,81.39,10.63,5.2,10.63
+"La Crosse County, Wisconsin",55063,80.35,15.6,5.52,15.6
+"Lafayette County, Wisconsin",55065,80.72,14.43,4.77,14.43
+"Langlade County, Wisconsin",55067,79.47,15.69,8.1,15.69
+"Lincoln County, Wisconsin",55069,79.39,18.66,7.58,18.66
+"Manitowoc County, Wisconsin",55071,80.22,14.82,7.79,14.82
+"Marathon County, Wisconsin",55073,80.62,14.88,4.67,14.88
+"Marinette County, Wisconsin",55075,78.9,17.11,6.56,17.11
+"Marquette County, Wisconsin",55077,78.98,19.04,9.5,19.04
+"Menominee County, Wisconsin",55078,72.81,34.11,10.97,34.11
+"Milwaukee County, Wisconsin",55079,77.66,13.05,17.92,13.05
+"Monroe County, Wisconsin",55081,78.51,14.78,9.22,14.78
+"Oconto County, Wisconsin",55083,79.64,14.96,4.8,14.96
+"Oneida County, Wisconsin",55085,79.47,14.97,7.32,14.97
+"Outagamie County, Wisconsin",55087,81.06,12.89,4.16,12.89
+"Ozaukee County, Wisconsin",55089,82.13,9.87,5.22,9.87
+"Pepin County, Wisconsin",55091,80.99,11.62,3.12,11.62
+"Pierce County, Wisconsin",55093,81.29,10.61,3.3,10.61
+"Polk County, Wisconsin",55095,79.76,16.14,4.88,16.14
+"Portage County, Wisconsin",55097,80.89,13.55,5.69,13.55
+"Price County, Wisconsin",55099,79.2,17.74,5.63,17.74
+"Racine County, Wisconsin",55101,78.99,14.35,12.02,14.35
+"Richland County, Wisconsin",55103,80.63,12.36,5.68,12.36
+"Rock County, Wisconsin",55105,78.89,14.88,11.7,14.88
+"Rusk County, Wisconsin",55107,78.85,16.61,5.56,16.61
+"Saint Croix County, Wisconsin",55109,80.7,12.38,3.5,12.38
+"Sauk County, Wisconsin",55111,79.62,15.57,9.31,15.57
+"Sawyer County, Wisconsin",55113,77.79,19.06,9.23,19.06
+"Shawano County, Wisconsin",55115,79.51,14.95,4.99,14.95
+"Sheboygan County, Wisconsin",55117,80.33,14.93,4.84,14.93
+"Taylor County, Wisconsin",55119,81.54,14.68,3.41,14.68
+"Trempealeau County, Wisconsin",55121,80.15,15.74,4.31,15.74
+"Vernon County, Wisconsin",55123,80.02,14.46,5.06,14.46
+"Vilas County, Wisconsin",55125,79.59,20.12,9.89,20.12
+"Walworth County, Wisconsin",55127,79.57,14.32,9.37,14.32
+"Washburn County, Wisconsin",55129,78.29,17,8.17,17
+"Washington County, Wisconsin",55131,81.23,12.21,6.92,12.21
+"Waukesha County, Wisconsin",55133,81.55,11.58,7.16,11.58
+"Waupaca County, Wisconsin",55135,78.03,14.24,5.41,14.24
+"Waushara County, Wisconsin",55137,79.22,15.33,6.7,15.33
+"Winnebago County, Wisconsin",55139,80.24,14.56,8.58,14.56
+"Wood County, Wisconsin",55141,80.83,14.31,4.42,14.31
+Wyoming,56,78.62,23.2,10.4,23.2
+"Albany County, Wyoming",56001,80.54,17.23,8.04,17.23
+"Big Horn County, Wyoming",56003,77.76,21.92,9.09,21.92
+"Campbell County, Wyoming",56005,77.47,20.73,9.02,20.73
+"Carbon County, Wyoming",56007,77.3,28.43,13.23,28.43
+"Converse County, Wyoming",56009,78.77,21.55,6.21,21.55
+"Crook County, Wyoming",56011,79.94,20.45,3.83,20.45
+"Fremont County, Wyoming",56013,75.82,34.66,13.83,34.66
+"Goshen County, Wyoming",56015,79.81,17.46,7.19,17.46
+"Hot Springs County, Wyoming",56017,77.09,25.08,11.77,25.08
+"Johnson County, Wyoming",56019,79.51,21.34,7.2,21.34
+"Laramie County, Wyoming",56021,78.88,20.92,10.75,20.92
+"Lincoln County, Wyoming",56023,80.03,22.76,9.41,22.76
+"Natrona County, Wyoming",56025,77.65,25.75,13.54,25.75
+"Niobrara County, Wyoming",56027,78.86,18.76,5.92,18.76
+"Park County, Wyoming",56029,80.17,21.76,8.13,21.76
+"Platte County, Wyoming",56031,78.82,24.57,10.01,24.57
+"Sheridan County, Wyoming",56033,78.4,27.32,8.32,27.32
+"Sublette County, Wyoming",56035,80.48,22.27,4.07,22.27
+"Sweetwater County, Wyoming",56037,77.87,26.4,14.78,26.4
+"Teton County, Wyoming",56039,83.46,14.73,3.21,14.73
+"Uinta County, Wyoming",56041,77.38,26.61,17.97,26.61
+"Washakie County, Wyoming",56043,78.86,18.92,9.01,18.92
+"Weston County, Wyoming",56045,78.76,24.22,5.12,24.22

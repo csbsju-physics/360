@@ -1,0 +1,57 @@
+"SUMLEV","REGION","DIVISION","STATE","NAME","POP18"
+10,"All","superset",0,"United States",327167434
+20,"Northeast","superset",0,"Northeast Region",56111079
+20,"Midwest","superset",0,"Midwest Region",68308744
+20,"South","superset",0,"South Region",124753948
+20,"West","superset",0,"West Region",77993663
+40,"South","East South Central",1,"Alabama",4887871
+40,"West","Pacific",2,"Alaska",737438
+40,"West","Mountain",4,"Arizona",7171646
+40,"South","West South Central",5,"Arkansas",3013825
+40,"West","Pacific",6,"California",39557045
+40,"West","Mountain",8,"Colorado",5695564
+40,"Northeast","New England",9,"Connecticut",3572665
+40,"South","South Atlantic",10,"Delaware",967171
+40,"South","South Atlantic",11,"District of Columbia",702455
+40,"South","South Atlantic",12,"Florida",21299325
+40,"South","South Atlantic",13,"Georgia",10519475
+40,"West","Pacific",15,"Hawaii",1420491
+40,"West","Mountain",16,"Idaho",1754208
+40,"Midwest","East North Central",17,"Illinois",12741080
+40,"Midwest","East North Central",18,"Indiana",6691878
+40,"Midwest","West North Central",19,"Iowa",3156145
+40,"Midwest","West North Central",20,"Kansas",2911505
+40,"South","East South Central",21,"Kentucky",4468402
+40,"South","West South Central",22,"Louisiana",4659978
+40,"Northeast","New England",23,"Maine",1338404
+40,"South","South Atlantic",24,"Maryland",6042718
+40,"Northeast","New England",25,"Massachusetts",6902149
+40,"Midwest","East North Central",26,"Michigan",9995915
+40,"Midwest","West North Central",27,"Minnesota",5611179
+40,"South","East South Central",28,"Mississippi",2986530
+40,"Midwest","West North Central",29,"Missouri",6126452
+40,"West","Mountain",30,"Montana",1062305
+40,"Midwest","West North Central",31,"Nebraska",1929268
+40,"West","Mountain",32,"Nevada",3034392
+40,"Northeast","New England",33,"New Hampshire",1356458
+40,"Northeast","Middle Atlantic",34,"New Jersey",8908520
+40,"West","Mountain",35,"New Mexico",2095428
+40,"Northeast","Middle Atlantic",36,"New York",19542209
+40,"South","South Atlantic",37,"North Carolina",10383620
+40,"Midwest","West North Central",38,"North Dakota",760077
+40,"Midwest","East North Central",39,"Ohio",11689442
+40,"South","West South Central",40,"Oklahoma",3943079
+40,"West","Pacific",41,"Oregon",4190713
+40,"Northeast","Middle Atlantic",42,"Pennsylvania",12807060
+40,"Northeast","New England",44,"Rhode Island",1057315
+40,"South","South Atlantic",45,"South Carolina",5084127
+40,"Midwest","West North Central",46,"South Dakota",882235
+40,"South","East South Central",47,"Tennessee",6770010
+40,"South","West South Central",48,"Texas",28701845
+40,"West","Mountain",49,"Utah",3161105
+40,"Northeast","New England",50,"Vermont",626299
+40,"South","South Atlantic",51,"Virginia",8517685
+40,"West","Pacific",53,"Washington",7535591
+40,"South","South Atlantic",54,"West Virginia",1805832
+40,"Midwest","East North Central",55,"Wisconsin",5813568
+40,"West","Mountain",56,"Wyoming",577737
