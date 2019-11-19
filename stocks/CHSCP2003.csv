@@ -1,4 +1,4 @@
-"","Close","Volume","Today","Lag1","Lag2","AVolume","TodayV","Lag1V","Lag2V","AClose","Lag1BullC","Lag1BullV","Direction"
+"Date","Close","Volume","Today","Lag1","Lag2","AVolume","TodayV","Lag1V","Lag2V","AClose","Lag1BullC","Lag1BullV","Direction"
 "2003-03-24",25.799999,10300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Down"
 "2003-03-25",25.9,17200,0.00386104247104243,NA,NA,NA,0.401162790697674,NA,NA,NA,NA,NA,"Up"
 "2003-03-26",26.09,14800,0.00728248371023386,0.00386104247104243,NA,NA,-0.162162162162162,0.401162790697674,NA,NA,NA,NA,"Up"
